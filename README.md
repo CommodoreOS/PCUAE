@@ -4,22 +4,55 @@ For THEC64 Mini, THEC64 Maxi and THEVIC 20. It is been developed by Spannernick.
 
 PCUAE License
 
+
 **Project Carousel USB***
+
+
 Anniversary Edition by Spannernick
+
+
 PCUAE idea by Spannernick,
+
+
 Spanner is RetroNuts on YouTube,
+
+
 Carousel USB Chooser by FaberfoX,
-Fake Update by jj0, raxrip and cyanic,                                 
+
+
+Fake Update by jj0, raxrip and cyanic,      
+
+
 Load Carousel Games from USB Stick 
+
+
 with Carousel Gamelist Loader,
+
+
 Boot THEC64 X-Windows Mod by jj0, 
-JIFFYDOS 6 included
+
+
+JIFFYDOS 6 included,
+
+
 New Soundtrack Now Included,
+
+
 For THEC64 Mini/Maxi,
+
+
 This is free for non commercial use,
+
+
 NOT to SELL.
+
+
 v1.7.3
-Updated 124/11/21
+
+
+Updated 29/11/21
+
+
 
 Main Site - https://projectcarouselusb.online/
 
