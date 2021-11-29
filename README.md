@@ -6,7 +6,13 @@ For THEC64 Mini, THEC64 Maxi and THEVIC 20. It is been developed by Spannernick.
 Main Site - https://projectcarouselusb.online/
 
 
-It have 6 different modes that you can add.
+Support Forum - https://thec64community.online/
+
+
+PCUAE Manager - https://github.com/lantzelot-swe/PCUGameManager
+
+
+It have 6 different modes that you can add by installing them.
 
 
 1 PCUAE Mode - Enhanced with multiple 255 game carousels options.
