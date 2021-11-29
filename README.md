@@ -5,10 +5,14 @@ For THEC64 Mini, THEC64 Maxi and THEVIC 20. It is been developed by Spannernick.
 PCUAE License
 
 
-Project Carousel USB Anniversary Edition by Spannernick, Idea by Spannernick, Carousel USB Chooser by FaberfoX, Fake Update by jj0, raxrip and cyanic, Load Carousel Games from USB Stick with Carousel Gamelist Loader, boot THEC64 X-Windows Mod by jj0, JIFFYDOS 6 included, New Soundtrack Now Included,
+Project Carousel USB Anniversary Edition by Spannernick, Idea by Spannernick, Carousel USB Chooser by FaberfoX, Fake Update by jj0, raxrip and cyanic, Load Carousel Games from USB Stick using Carousel Gamelist Loader, JIFFYDOS 6 included, C64 SID Music playing in the background and Amiga Game Mod Music playing in the backgroud on AGS Menu on Amiga Mode.
 
 
-This is free for non commercial use - NOT to SELL.
+**This is free for non commercial use - NOT to SELL**
+
+
+
+I made this for fun and for the THEC64 to be able to do other things.
 
 
 
