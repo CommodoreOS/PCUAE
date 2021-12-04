@@ -6,10 +6,15 @@ PCUAE License
 
 
 Project Carousel USB Anniversary Edition by Spannernick, 
+
 Idea by Spannernick, Carousel USB Chooser by FaberfoX, 
+
 Fake Update by jj0, raxrip and cyanic, 
+
 Load Carousel Games from USB Stick using Carousel Gamelist Loader, 
+
 JIFFYDOS 6 included, 
+
 C64 SID Music playing in the background.
 
 
@@ -28,7 +33,7 @@ Main Site - https://projectcarouselusb.online/
 Support Forum - https://thec64community.online/
 
 
-You can use PCUAE Manager to manage your games on the Carousel and store them in PCUAE Mamanger/PC and on the USB Stick.
+You can use PCUAE Manager to manage your games on the Carousel and store them in PCUAE Manager/PC too and import/export them to the USB Stick.
 
 PCUAE Manager - https://github.com/lantzelot-swe/PCUGameManager
 
