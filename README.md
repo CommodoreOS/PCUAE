@@ -47,7 +47,7 @@ It have 6 different modes that you can add by installing them.
 2 VICE Mode - 7 VICE CBM Classic Machines with VICE Config Menu.
 
 
-3 Linux Mode - LXDE based on this OS https://wiki.lxde.org/en/Main_Page.
+3 Linux Mode - LXDE based on this OS https://wiki.lxde.org/en/Main_Page and made by jj0 post here https://thec64community.online/thread/487/thec64-windows-mod
 
 
 4 Firmware Mode - Run standard Carousel, upgrade your firmware.
