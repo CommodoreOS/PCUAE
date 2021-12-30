@@ -7,15 +7,15 @@ PCUAE License
 
 Project Carousel USB Anniversary Edition by Spannernick, 
 
-Idea by Spannernick, Carousel USB Chooser by FaberfoX, 
+Idea by Spannernick, Carousel USB Chooser by FaberfoX(Carousel Gamelist Loader), 
 
-Fake Update by jj0, raxrip and cyanic, 
+Fake Update by jj0 and cyanic and raxrip who created the firmware unpacker/packer that makes this possible, 
 
-Load Carousel Games from USB Stick using Carousel Gamelist Loader, 
+Load Carousel Games from USB Stick using Carousel Gamelist Loader and have differemnt carousel gamelists on TheCarousel, 
 
 JIFFYDOS 6 included, 
 
-C64 SID Music playing in the background.
+C64 SID Music playing in the background, plays different SID music on each carousel gamelists on TheCarousel C64 0 to G, H to R and S to Z.
 
 
 **This is free for non commercial use - NOT to SELL**
@@ -30,10 +30,10 @@ Updated 29/11/21
 Main Site - https://projectcarouselusb.online/
 
 
-Support Forum - https://thec64community.online/
+Support Forum and main post - https://thec64community.online/thread/603/pcuae-manager
 
 
-You can use PCUAE Manager to manage your games on the Carousel and store them in PCUAE Manager/PC too and import/export them to the USB Stick.
+You can use PCUAE Manager to manage your games on the Carousel and store them in PCUAE Manager/PC too and import/export them from/to the USB Stick.
 
 PCUAE Manager - https://github.com/lantzelot-swe/PCUGameManager
 
@@ -47,7 +47,7 @@ It have 6 different modes that you can add by installing them.
 2 VICE Mode - 7 VICE CBM Classic Machines with VICE Config Menu.
 
 
-3 Linux Mode - X Windows access to the file system.
+3 Linux Mode - LXDE based on this OS https://wiki.lxde.org/en/Main_Page.
 
 
 4 Firmware Mode - Run standard Carousel, upgrade your firmware.
