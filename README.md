@@ -7,11 +7,11 @@ PCUAE License
 
 Project Carousel USB Anniversary Edition by Spannernick, 
 
-Idea by Spannernick, Carousel USB Chooser by FaberfoX(Carousel Gamelist Loader), 
+Idea by Spannernick, Carousel USB Chooser by FaberfoX(Carousel Gamelist Changer), 
 
 Fake Update by jj0 and cyanic and raxrip who created the firmware unpacker/packer that makes this possible, 
 
-Load Carousel Games from USB Stick using Carousel Gamelist Loader and have differemnt carousel gamelists on TheCarousel, 
+Load Carousel Games from USB Stick using Carousel Gamelist Changer and have differemnt carousel gamelists on TheCarousel, 
 
 JIFFYDOS 6 included, 
 
