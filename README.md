@@ -1,21 +1,21 @@
 # Project Carousel USB Anniversary Edition
-PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel, and load different versions of the carousels, Modes on the machines.
-For THEC64 Mini, THEC64 Maxi and THEVIC 20. It is been developed by Spannernick.
+PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(THEC64 Mini, THEC64 Maxi and THEVIC20 Only), and load different Modes on the machines.
+For THEC64 Mini, THEC64 Maxi, THEVIC 20 and now THEA500 Mini. It is been developed by Spannernick.
 
 PCUAE License
 
 
-Project Carousel USB Anniversary Edition by Spannernick, 
+Project Carousel USB Anniversary(Amiga) Edition(PCUAE/PCUAAE) by Spannernick, 
 
 Idea by Spannernick, Carousel USB Chooser by FaberfoX(Carousel Gamelist Changer), 
 
-Fake Update by jj0 and cyanic and raxrip who created the firmware unpacker/packer that makes this possible, 
+Fake Update by jj0, cyanic and raxrip who created the firmware unpacker/packer that makes this possible, 
 
-Load Carousel Games from USB Stick using Carousel Gamelist Changer and have different carousel gamelists on TheCarousel, 
+Load Carousel Games from the USB Drive using Carousel Gamelist Changer and have different carousel gamelists on TheCarousel(PCUAE Only), 
 
-JIFFYDOS 6 included, 
+JIFFYDOS 6 is included, 
 
-C64 SID Music playing in the background, plays different SID music on each carousel gamelists on TheCarousel C64 0 to G, H to R and S to Z.
+C64 SID Music playing in the background, plays different SID Music on each Carousel Gamelists on TheCarousel C64 0 to G, H to R and S to Z(PCUAE ONLY).
 
 
 **This is free for non commercial use - NOT to SELL**
@@ -24,16 +24,16 @@ C64 SID Music playing in the background, plays different SID music on each carou
 I made this for me originally and thought it would be good to share.
 
 
-Updated 05/03/22
+Updated 12/07/22
 
 
-Main Site - https://projectcarouselusb.online/
+Main Site - https://projectcarouselusb.eu/
 
 
 Support Forum and main post - https://thec64community.online/thread/603/pcuae-manager
 
 
-You can use PCUAE Manager to manage your games on the Carousel and store them in PCUAE Manager on the PC too and import/export them from/to the PCUAE USB Stick.
+You can use PCUAE Manager to manage your games on the Carousel and store them, import/export them from/to the PCUAE USB Drive.
 
 PCUAE Manager - https://github.com/lantzelot-swe/PCUGameManager
 
