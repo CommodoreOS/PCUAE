@@ -2,6 +2,8 @@
 
 **Updated 12/07/22**
 
+"I made this for me originally and thought it would be good to share, this was the first thing I made like this, never really played around with Linux before, accept CommodoreOS32bit 1.3 but that was more of a theme customision then my changing how Linux works, first time for everything, as they say... :)"
+
 PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(THEC64 Mini, THEC64 Maxi and THEVIC20 Only), and load different Modes on the machines.
 For THEC64 Mini, THEC64 Maxi, THEVIC 20 and now THEA500 Mini. It is been developed by Spannernick.
 
@@ -24,8 +26,6 @@ C64 SID Music playing in the background, plays different SID Music on each Carou
 **This is free for non commercial use - NOT to SELL**
 
 THEC64 Mini, THEC64, THEVIC20, THEA500 Mini - Copyright(c) 2022 RETRO GAMES LTD - https://retrogames.biz
-
-I made this for me originally and thought it would be good to share.
 
 
 Main Site - https://projectcarouselusb.eu/
