@@ -39,7 +39,7 @@ You can use PCUAE Manager to manage your games on the Carousel and store them, i
 PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
 
 
-It have 6 different modes but only 5 can be installed that you can add by installing them from PCUAE Manager.
+It has 6 different modes but only 5 can be installed by the PCUAE Manager, Modes are below...
 
 
 1 PCUAE Mode - 255 Game Slots per carousel(will only show 255 games) and are stored on the USB Stick, use CGC(Carousel Gamelist Changer) to load up each Carousel Screen, Firmware Mode - Run standard Carousel, upgrade your firmware, these are inclued with the main install setup of PCUAE.
