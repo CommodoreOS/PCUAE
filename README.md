@@ -35,7 +35,7 @@ Support Forum and main post - https://thec64community.online/thread/603/pcuae-ma
 
 You can use PCUAE Manager to manage your games on the Carousel and store them, import/export them from/to the PCUAE USB Drive.
 
-PCUAE Manager - https://github.com/lantzelot-swe/PCUGameManager
+PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
 
 
 It have 6 different modes that you can add by installing them from PCUAE Manager.
