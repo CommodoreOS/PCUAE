@@ -2,7 +2,7 @@
 
 **Updated 16/07/22**
 
-"I made this for me originally and thought it would be good to share, this was the first thing I made like this, never really played around with Linux before, accept CommodoreOS32bit 1.3 but that was more of a theme customision then my changing how Linux works, first time for everything, as they say... :)"
+"I made this for me originally and thought it would be good to share, this was the first thing I made like this, never really played around with Linux before, accept CommodoreOS32bit 1.3 but that was more of a theme customision then changing how Linux works, first time for everything, as they say... :)"
 
 PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(THEC64 Mini, THEC64 Maxi and THEVIC20 Only), and load different Modes on the machines.
 For THEC64 Mini, THEC64 Maxi, THEVIC 20 and now THEA500 Mini. It is been developed by Spannernick.
