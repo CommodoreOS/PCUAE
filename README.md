@@ -41,19 +41,18 @@ PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
 It have 6 different modes that you can add by installing them from PCUAE Manager.
 
 
-1 PCUAE Mode - 255 Game Slots per carousel and are stored on the USB Stick, use CGC(Carousel Gamelist Changer) to load up each Carousel Screen, Firmware Mode - Run standard Carousel, upgrade your firmware, this is inclued with the main install too, these are inclued with the main install setup of PCUAE.
+1 PCUAE Mode - 255 Game Slots per carousel(will only show 255 games) and are stored on the USB Stick, use CGC(Carousel Gamelist Changer) to load up each Carousel Screen, Firmware Mode - Run standard Carousel, upgrade your firmware, these are inclued with the main install setup of PCUAE.
 
-2. AMIGA Mode - Run the A500 or A1200 Emulators use WHDLoad games, ADF and HDF, Download from PCUAE Manager.
-
-
-3. ATARI Mode - you can run ATARI 800, 800XL/XE and 5200 Emulators, Download from PCUAE Manager.
+2. AMIGA Mode - Run the Workbench(AmigaOS), Run WHDLoad games, ADF and HDF, Download from PCUAE Manager.
 
 
-4. LINUX Mode - LXDE based on this OS https://wiki.lxde.org/en/Main_Page and made by jj0 post here https://thec64community.online/thread/487/thec64-windows-mod, Download from PCUAE Manager.
+3. ATARI Mode - You can run ATARI 800, 800XL/XE and 5200 Modes, Download from PCUAE Manager.
 
 
-5. RA Mode - Run Retroarch and most of its Emulators, Download from PCUAE Manager.
+4. LINUX Mode - LXDE based on this OS https://wiki.lxde.org/en/Main_Page and made by jj0, post here https://thec64community.online/thread/487/thec64-windows-mod, Download from PCUAE Manager.
+
+
+5. RA Mode - Run Retroarch and most of its Emulators, Download from PCUAE Manager, Download Pandory for it to work in PCUAAE.
 
 
 6. VICE Mode - Run 7 CBM Machines from the VICE Emulator with VICE Mode Config Menu, Download from PCUAE Manager.
-
