@@ -1,6 +1,6 @@
 # Project Carousel USB Anniversary Edition
 
-**Updated 12/07/22**
+**Updated 16/07/22**
 
 "I made this for me originally and thought it would be good to share, this was the first thing I made like this, never really played around with Linux before, accept CommodoreOS32bit 1.3 but that was more of a theme customision then my changing how Linux works, first time for everything, as they say... :)"
 
