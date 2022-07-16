@@ -1,4 +1,7 @@
 # Project Carousel USB Anniversary Edition
+
+**Updated 12/07/22**
+
 PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(THEC64 Mini, THEC64 Maxi and THEVIC20 Only), and load different Modes on the machines.
 For THEC64 Mini, THEC64 Maxi, THEVIC 20 and now THEA500 Mini. It is been developed by Spannernick.
 
@@ -20,11 +23,9 @@ C64 SID Music playing in the background, plays different SID Music on each Carou
 
 **This is free for non commercial use - NOT to SELL**
 
+THEC64 Mini, THEC64, THEVIC20, THEA500 Mini - Copyright(c) 2022 RETRO GAMES LTD - https://retrogames.biz
 
 I made this for me originally and thought it would be good to share.
-
-
-Updated 12/07/22
 
 
 Main Site - https://projectcarouselusb.eu/
@@ -38,7 +39,7 @@ You can use PCUAE Manager to manage your games on the Carousel and store them, i
 PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
 
 
-It have 6 different modes that you can add by installing them from PCUAE Manager.
+It have 6 different modes but only 5 can be installed that you can add by installing them from PCUAE Manager.
 
 
 1 PCUAE Mode - 255 Game Slots per carousel(will only show 255 games) and are stored on the USB Stick, use CGC(Carousel Gamelist Changer) to load up each Carousel Screen, Firmware Mode - Run standard Carousel, upgrade your firmware, these are inclued with the main install setup of PCUAE.
