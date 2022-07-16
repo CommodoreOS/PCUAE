@@ -27,16 +27,14 @@ C64 SID Music playing in the background, plays different SID Music on each Carou
 
 THEC64 Mini, THEC64, THEVIC20, THEA500 Mini - Copyright(c) 2022 RETRO GAMES LTD - https://retrogames.biz
 
+Become a supporter and help spannernick to develop PCUAE/PCUAAE - https://www.paypal.com/donate/?token=qWVMumPQ58KRZUnjh4khuX2xIMHExwxviGQoH5_64rVv_hNa0ZGivFTSQ8FU8cvoO_KqOJ4KFKV6-xsq&locale.x=EN_US
 
 Main Site - https://projectcarouselusb.eu/
-
-
-Support Forum and main post - https://thec64community.online/thread/603/pcuae-manager
-
 
 You can use PCUAE Manager to manage your games on the Carousel and store them, import/export them from/to the PCUAE USB Drive.
 
 PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
+
 
 
 It has 6 different modes but only 5 can be installed by the PCUAE Manager, Modes are below...
