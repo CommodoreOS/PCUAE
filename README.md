@@ -27,7 +27,7 @@ C64 SID Music playing in the background, plays different SID Music on each Carou
 
 THEC64 Mini, THEC64, THEVIC20, THEA500 Mini - Copyright(c) 2022 RETRO GAMES LTD - https://retrogames.biz
 
-Become a supporter and help spannernick to develop PCUAE/PCUAAE - https://www.paypal.com/donate/?token=qWVMumPQ58KRZUnjh4khuX2xIMHExwxviGQoH5_64rVv_hNa0ZGivFTSQ8FU8cvoO_KqOJ4KFKV6-xsq&locale.x=EN_US
+IF you fell you wantt to hellp me out and give me a beer - https://www.paypal.com/donate/?token=qWVMumPQ58KRZUnjh4khuX2xIMHExwxviGQoH5_64rVv_hNa0ZGivFTSQ8FU8cvoO_KqOJ4KFKV6-xsq&locale.x=EN_US
 
 Main Site - https://projectcarouselusb.eu/
 
