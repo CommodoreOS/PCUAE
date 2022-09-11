@@ -45,10 +45,10 @@ It has 6 different modes but only 5 can be installed by the PCUAE Manager, Modes
 2. AMIGA Mode - Run the Workbench(AmigaOS), Run WHDLoad games, ADF and HDF, Download from PCUAE Manager.
 
 
-3. ATARI Mode - You can run ATARI 800, 800XL/XE and 5200 Modes, Download from PCUAE Manager.
+3. ATARI Mode - You can run ATARI 800, 800XL/XE and 5200 Models, Download from PCUAE Manager.
 
 
-4. LINUX Mode - Based on LXDE https://wiki.lxde.org/en/Main_Page and made by jj0, post is here https://thec64community.online/thread/487/thec64-windows-mod, works on PCUAE and PCUAAE, Download from PCUAE Manager.
+4. LINUX Mode - Based Debain jessie and with a LXDE Desktop https://wiki.lxde.org/en/Main_Page created by jj_0, post is here https://thec64community.online/thread/487/thec64-windows-mod, works on PCUAE and PCUAAE, Download from PCUAE Manager.
 
 
 5. RA Mode - Run Retroarch and most of its Emulators, Download from PCUAE Manager, Download Pandory for it to work in PCUAAE.
