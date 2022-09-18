@@ -4,8 +4,8 @@
 
 "I made this for me originally and thought it would be good to share, this was the first thing I made like this, never really played around with Linux before, accept CommodoreOS32bit 1.3 but that was more of a theme customision then changing how Linux works, first time for everything, as they say... :)"
 
-PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(THEC64 Mini, THEC64 Maxi and THEVIC20 Only), and load different Modes on the machines.
-For THEC64 Mini, THEC64 Maxi, THEVIC 20 and now THEA500 Mini. It is been developed by Spannernick.
+PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(THEC64 Mini, THEC64 and THEVIC20 Only), and load different Modes on the machines.
+For THEC64 Mini, THEC64, THEVIC20 and now THEA500 Mini. It is been developed by Spannernick.
 
 PCUAE License
 
@@ -20,7 +20,7 @@ Load Carousel Games from the USB Drive using Carousel Gamelist Changer and have 
 
 JIFFYDOS 6 is included, 
 
-C64 SID Music playing in the background, plays different SID Music on each Carousel Gamelists on TheCarousel C64 0 to G, H to R and S to Z(PCUAE ONLY).
+C64 SID Music playing in the background, plays different SID Music on each Carousel Gamelists on TheCarousel C64 0 to G, H to R and S to Z(THEC64 ONLY).
 
 
 **This is free for non commercial use - NOT to SELL**
@@ -31,7 +31,7 @@ IF you feel you want to help me out and give me a beer - https://www.paypal.com/
 
 Main Site - https://projectcarouselusb.eu/
 
-You can use PCUAE Manager to manage your games on the Carousel and store them, import/export them from/to the PCUAE USB Drive.
+You can use PCUAE Manager to manage your games on the Carousel and store them, import/export them from/to the PCUAE USB Drive(THEC64 ONLY).
 
 PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
 
@@ -40,7 +40,7 @@ PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
 It has 6 different modes but only 5 can be installed by the PCUAE Manager, Modes are below...
 
 
-1 PCUAE Mode - 255 Game Slots per carousel(will only show 255 games) and are stored on the USB Stick, use CGC(Carousel Gamelist Changer) to load up each Carousel Screen, Firmware Mode - Run standard Carousel, upgrade your firmware, these are inclued with the main install setup of PCUAE.
+1 PCUAE Mode(THEC64 Only) - 255 Game Slots per carousel(will only show 255 games) and are stored on the USB Stick, use CGC(Carousel Gamelist Changer) to load up each Carousel Screen, Firmware Mode - Run standard Carousel, upgrade your firmware, these are inclued with the main install setup of PCUAE.
 
 2. AMIGA Mode - Run the Workbench(AmigaOS), Run WHDLoad games, ADF and HDF, Download from PCUAE Manager.
 
@@ -48,7 +48,7 @@ It has 6 different modes but only 5 can be installed by the PCUAE Manager, Modes
 3. ATARI Mode - You can run ATARI 800, 800XL/XE and 5200 Models, Download from PCUAE Manager.
 
 
-4. LINUX Mode - Based Debain jessie and with a LXDE Desktop https://wiki.lxde.org/en/Main_Page created by jj_0, post is here https://thec64community.online/thread/487/thec64-windows-mod, works on PCUAE and PCUAAE, Download from PCUAE Manager.
+4. LINUX Mode - Based on Debain jessie and with a LXDE Desktop https://wiki.lxde.org/en/Main_Page created by jj_0, post is here https://thec64community.online/thread/487/thec64-windows-mod, works on PCUAE and PCUAAE, Download from PCUAE Manager.
 
 
 5. RA Mode - Run Retroarch and most of its Emulators, Download from PCUAE Manager, Download Pandory for it to work in PCUAAE.
