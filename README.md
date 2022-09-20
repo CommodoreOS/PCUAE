@@ -1,7 +1,10 @@
-# Project Carousel USB Anniversary Edition
+Origanal Name - **Project Carousel USB** - on the 9th October 2020, renamed to - **Project Carousel USB: Anniversary Edition** was 2 years since THEC64 Mini NTSC was released.
+
+# Now - Project Carousel USB: Standard Edition and Project Carousel USB: Pro Edition.
 
 
 "I made this for me originally and thought it would be good to share, this was the first thing I made like this, never really played around with Linux before, accept CommodoreOS32bit 1.3 but that was more of a theme customision then changing how Linux works, first time for everything, as they say... :)"
+
 
 PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(THEC64 Mini, THEC64 and THEVIC20 Only), and load different Modes on the machines.
 For THEC64 Mini, THEC64, THEVIC20 and now THEA500 Mini. It is been developed by Spannernick.
