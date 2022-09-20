@@ -3,7 +3,7 @@ Origanal Name - **Project Carousel USB** - on the 9th October 2020, renamed to -
 # Now - Project Carousel USB: Standard Edition and Project Carousel USB: Pro Edition.
 
 
-"I made this for me originally and thought it would be good to share, this was the first thing I made like this, never really played around with Linux before, accept CommodoreOS32bit 1.3 but that was more of a theme customision then changing how Linux works, first time for everything, as they say... :)"
+"I made this for me originally and thought it would be good to share, this was the first thing I made like this, never really played around with Linux before, accept CommodoreOS32bit 1.3 but that was more of a theme customision then changing how Linux works, first time for everything, as they say... :), I do like to know how thinks work, when I was a kid I liked my C64 but I liked LEGO too so loved building stuff with it, LEGO: Technic, I would build cars or trucks by just looking at the picture of it, I never looked really at how to build it, I just looked at the picture and imagine what went where, I was 12 at the time, I still used LEGO up untill the age of 19, I loved it... :) ."
 
 
 PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(THEC64 Mini, THEC64 and THEVIC20 Only), and load different Modes on the machines.
