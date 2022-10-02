@@ -8,7 +8,7 @@ You can install PCUAE is two ways:
 
 "I made this for me originally and thought it would be good to share, this was the first thing I made like this before, never really played around with Linux before, accept CommodoreOS32bit 1.3 but that was more of a theme customision then changing how Linux works, first time for everything, as they say... :), I do like to know how things work, when I was a kid I liked my C64 but I liked LEGO too so loved building stuff with it, LEGO: Technic, I would build cars or trucks by just looking at the picture of it, I never looked really at how to build it, I just looked at the picture and imagine what went where, I was 12 at the time, I still used LEGO up untill the age of 19, I loved it... :) ."
 
-You can remove PCUAE-THEC64 or PCUAE_THEA500 depending on what machiine you want to use PCUAE on, if you want to run PCUAE only on THEC64 then delete the PCUAE_THEA500 folder, if you want to run PCUAE on THEA500 only then delete the PCUAE_THEC64 and Games Folders, the Games folder is for THEC64 Caousel only.
+You can remove PCUAE_THEC64 or PCUAE_THEA500 folders depending on what machine you want to use PCUAE on, if you want to run PCUAE only on THEC64 then delete the PCUAE_THEA500 folder, if you want to run PCUAE on THEA500 only then delete the PCUAE_THEC64 and Games Folders, the Games folder is for THEC64 Caousel only.
 
 PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(THEC64 Mini, THEC64 and THEVIC20 Only), and load different Modes on the machines.
 For THEC64 Mini, THEC64, THEVIC20 and now THEA500 Mini. It is been developed by Spannernick.
