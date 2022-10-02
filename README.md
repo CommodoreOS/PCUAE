@@ -45,6 +45,6 @@ PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
 
 PCUAE WIKI is here, it should answer any questions you might have about PCUAE.. https://github.com/CommodoreOS/PCUAE/wiki
 
-You can change to different Modes(Emulators) on THEA500 Mini in PCUAE Only but can not add games to its Carousel like you can with THEC64, RGL have changed it on prepose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more then alowing the user to add there own games to the carousel, cause thats why the made the machines in the first place, to make money forom them.
+You can change to different Modes(Emulators) on THEA500 Mini in PCUAE Only but can not add games to its Carousel like you can with THEC64, RGL(Retro Games Ltd) have changed it on purpose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more then allowing the user to add there own games to the carousel, cause thats why they made the machines in the first place, to make money from them.
 
-
+Its a shame, there is more to life than money, I know cause I am disabled and on a low income and I had nothing when I was a kid, in 1977 I use to pickup toys from the street and take them home, cause my mum was a alcoholic so I have been there.
