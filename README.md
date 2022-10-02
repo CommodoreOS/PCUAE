@@ -15,13 +15,13 @@ For THEC64 Mini, THEC64, THEVIC20 and now THEA500 Mini. It is been developed by 
 PCUAE License
 
 
-Project Carousel USB Anniversary(Amiga) Edition(PCUAE/PCUAAE) by Spannernick, 
+Project Carousel USB Anniversary Edition(PCUAE) by Spannernick, 
 
-Idea by Spannernick, Carousel USB Chooser by FaberfoX(Carousel Gamelist Changer), 
+Idea by Spannernick, Carousel USB Chooser by FaberfoX(Carousel Gamelist Changer on THEC64), 
 
 Fake Update by jj0, cyanic and raxrip who created the firmware unpacker/packer that makes this possible, 
 
-Load Carousel Games from the USB Drive using Carousel Gamelist Changer and have different carousel gamelists on TheCarousel(PCUAE Only), 
+Load Carousel Games from the USB Drive using Carousel Gamelist Changer and have different carousel gamelists on TheCarousel(THEC64 Only at the moment), 
 
 JIFFYDOS 6 is included, 
 
@@ -40,7 +40,7 @@ You can use PCUAE Manager to manage your games on the Carousel and store them, i
 
 PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
 
-
+PCUAE WIKI is here, it should answer any questions you might have about PCUAE.. https://github.com/CommodoreOS/PCUAE/wiki
 
 It has 6 different modes but only 5 can be installed by the PCUAE Manager, Modes are below...
 
@@ -53,10 +53,12 @@ It has 6 different modes but only 5 can be installed by the PCUAE Manager, Modes
 3. ATARI Mode - You can run ATARI 800, 800XL/XE and 5200 Models, Download from PCUAE Manager.
 
 
-4. LINUX Mode - Based on Debain jessie and with a LXDE Desktop https://wiki.lxde.org/en/Main_Page created by jj_0, post is here https://thec64community.online/thread/487/thec64-windows-mod, works on PCUAE and PCUAAE, Download from PCUAE Manager.
+4. LINUX Mode - Based on Debain jessie and with a LXDE Desktop https://wiki.lxde.org/en/Main_Page created by jj_0, post is here https://thec64community.online/thread/487/thec64-windows-mod, works on THEC64b and THEA500, Download from PCUAE Manager.
 
 
 5. RA Mode - Run Retroarch and most of its Emulators, Download from PCUAE Manager, Download Pandory for it to work in PCUAAE.
 
 
 6. VICE Mode - Run 7 CBM Machines from the VICE Emulator with VICE Mode Config Menu, Download from PCUAE Manager.
+
+
