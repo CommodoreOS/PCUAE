@@ -2,7 +2,7 @@ Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October
 
 # Now - Project Carousel USB: Standard Edition(PCUSE) and Project Carousel USB: Pro Edition(PCUPE), but it will always be PCUAE to me... :)
 
-I have no plans of PCUAE being ported to THEA500 Full Sized(if it gets made), I do not plain to buy it, no money and I have full Sized Amigas aready so it don't really interest me, I got THEA500 Mini causes its small and not in the way, just wanted you to know.
+I have no plans of PCUAE being ported to THEA500 Full Sized(if it gets made), I do not plain to buy it, no money and I have full Sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way, just wanted you to know.
 
 You can install PCUAE is two ways:
 1. By using PCUAEManager and installing it that way(PCUSE) and its modes but not all modes will be in the manager now cause some are part of Pro version. [Download PCUAEManager here](https://1drv.ms/u/s!AsiWKsjhQ2jelNJtFoF1RSaRBwx5Iw?e=3s5Ja5).
