@@ -22,7 +22,7 @@ Key Combinations
 
 For more info on the Modes in PCUAE, go to... How to Use the Modes, its at section 12 of this WIKI. CTRL and the F Keys – Press and Hold Down the CTRL key and then press the F key you want to use for 2 seconds in PCUAE Mode below.
 
-CTRL+F1 – Carousel Gamelist Changer – Select one of the gamelist on the screen to load in the Carousel(in next version of PCUAE) - Not Available in on THEA500, RGL does not suport hacking on any of there mechines not like Koch Media did and there Capcom Home Arcade, its a shame, if they take to me and work with me then it would be easier... :)
+CTRL+F1 – Carousel Gamelist Changer – Select one of the gamelist on the screen to load in the Carousel(in next version of PCUAE) - Not Available in on THEA500, RGL does not suport hacking on any of there mechines, not like Koch Media did and there Capcom Home Arcade, its a shame, if they talk to me and we could work together then it would be easier... :)
 
 CTRL+F3 – Carousel Version Changer – Change to a different carousel version(1.0.5,1.6.1) or 1.0.0,1.1.1 and CD32(Pro Only) and ADF Modes on THEA500. 
 
