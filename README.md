@@ -20,17 +20,25 @@ Key Combinations
 
 For more info on the Modes in PCUAE, go to... How to Use the Modes, its at section 12 of this WIKI. CTRL and the F Keys – Press and Hold Down the CTRL key and then press the F key you want to use for 2 seconds in PCUAE Mode below.
 
-CTRL+F1 – Carousel Gamelist Changer – Select one of the gamelist on the screen to load in the Carousel(in next version of PCUAE) - Not Available in on THEA500 CTRL+F3 – Carousel Version Changer – Change to a different carousel version(1.0.5,1.6.1) or 1.0.0,1.1.1 and CD32(Pro Only) and ADF Modes on THEA500. CTRL+F5 – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch, VICE Modes). CTRL+F7 – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
+CTRL+F1 – Carousel Gamelist Changer – Select one of the gamelist on the screen to load in the Carousel(in next version of PCUAE) - Not Available in on THEA500
+
+CTRL+F3 – Carousel Version Changer – Change to a different carousel version(1.0.5,1.6.1) or 1.0.0,1.1.1 and CD32(Pro Only) and ADF Modes on THEA500. 
+
+CTRL+F5 – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch, VICE Modes). 
+
+CTRL+F7 – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
 
 CTRL+RESTORE – Reboot the Machine(CTRL+END on THEA500 Mini on a USB Keyboard) – This makes the machine reboot, not the emulator – Just reboots, nothing special, you never know when you need a reboot/reset button… 🙂 and it saves on you pressing the power button all the time and wearing the power button out, thats why I added it.
 
 (THEA500)CTRL+LEFT ALT+DEL, (PCUAE)CTRL+LEFT SHIFT+F1 - Shutdown, this will power off the machine, I added it cause I was sick of pulling the power cable out all the time.
 
+
 THEC64 Joystick Button Combinations
+======================================
 
 Menu, Fire and the Triangle buttons – Press and Hold the Menu Button and then press the Left Fire, Right Fire or the Left, Right Triangle buttons you want to use for 2 seconds in PCUAE Mode, this makes it easier for you use PCUAE mode on THEC64 Mini, THEC64 Joystick now works in the menus on THEC64 Mini too now.
 
-Menu+Left Triangle Button – Carousel Version Changer – Change to a different Carousel versions - THE64 1.0.5, 1.6.1.
+Menu+Left Triangle Button – Carousel Version Changer – Change to a different Carousel version - THEC64 Carousels 1.0.5, 1.6.1.
 
 Menu+Right Triangle Button – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch and VICE Modes).
 
@@ -38,11 +46,14 @@ Menu+Left Fire 1 Button – TheCarousel Gamelist Changer – Change to a differe
 
 Menu+Right Fire 2 Button – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
 
+
+
 THEGAMEPAD Button Combinations
+===============================
 
 Press and Hold the Menu Button and then press the A, X, Y or B buttons you want to use and hold both down for 2 seconds.
 
-Menu+Y Button – Carousel Version Changer – Change to a different Carousel versions - Manhattan - 1.0.0, 1.1.1 and CD32(Pro Only) and ADF Modes on THEA500.
+Menu+Y Button – Carousel Version Changer – Change to a different Carousel versions - Manhattan - 1.0.0, 1.1.1, CD32(Pro Only) Amiberry 5 and ADF Modes on THEA500.
 
 Menu+X Button – Mode Changer – Change to a different Mode(ADF, Amiga, Atari, Linux, Retroarch(Pandory) and VICE Modes).
 
