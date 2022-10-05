@@ -16,6 +16,12 @@ PCUAE is a series of scripts and modifications, its a module program, it allows 
 
 For THEC64 Mini, THEC64, THEVIC20 and now THEA500 Mini. It is been developed by Spannernick.
 
+TIPS
+=====
+
+If you what to gop back to PCUAE Mode at at time and for some reason it do change Modes then use the Quck Shortcut be to PCUAE Mode shortcut its Menu+B buttons.
+
+
 PCUAE Key Combinations
 =======================
 Key Combinations
