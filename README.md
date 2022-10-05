@@ -19,7 +19,7 @@ For THEC64 Mini, THEC64, THEVIC20 and now THEA500 Mini. It is been developed by 
 TIPS
 =====
 
-If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quck Shortcut back to PCUAE Mode Shortcut its Menu+B buttons or keys CTRL+F2.
+If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quck Shortcut back to PCUAE Mode, its Menu+B(Blue) buttons or keys CTRL+F2.
 
 
 PCUAE Shortcut Combinations
