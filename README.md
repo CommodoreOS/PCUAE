@@ -1,4 +1,4 @@
-Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October 2020, renamed to - **Project Carousel USB: Anniversary Edition** was 2 years since THEC64 Mini NTSC was released( and I named it after 3D Arcade 10th `Anniversary Edition`).
+Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October 2020, renamed to - **Project Carousel USB: Anniversary Edition** was 2 years since THEC64 Mini NTSC was released( and I named it after 3D Arcade 10th `Anniversary Edition`, something else I made... :) ).
 
 # Now - Project Carousel USB: Standard Edition(PCUSE) and Project Carousel USB: Pro Edition(PCUPE)
 
