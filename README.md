@@ -1,12 +1,12 @@
-Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October 2020, renamed to - **Project Carousel USB: Anniversary Edition** was 2 years since THEC64 Mini NTSC was released( and I named it after 3D Arcade 10th `Anniversary Edition`, something else I made... :) ).
+Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October 2020, renamed to - **Project Carousel USB Anniversary Edition** was 2 years since THEC64 Mini NTSC was released( and I named it after 3D Arcade 10th `Anniversary Edition`, something else I made... :) ).
 
-# Now - Project Carousel USB: Standard Edition(PCUSE) and Project Carousel USB: Pro Edition(PCUPE)
+# Now - Project Carousel USB Anniverasy Edition: Basic(PCUAEB), Project Carousel USB Anniverasy Edition: Standard (PCUAES) and Project Carousel USB Anniverasy Edition: Premium(PCUAEP). Standard version will be availble here.
 
-I have no plans of PCUAE being ported to THEA500 Full Sized(if it gets made), I do not plain on buying it, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way so goes with all my other minis, just wanted you to know.
+I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way so goes with all my other minis, just wanted you to know.
 
 You can install PCUAE is two ways:
-1. By using PCUAEManager and installing it that way(PCUSE) and its modes but not all modes will be in the manager now cause some are part of Pro(Premium version). [Download PCUAEManager here](https://1drv.ms/u/s!AsiWKsjhQ2jelNJtFoF1RSaRBwx5Iw?e=3s5Ja5).
-2. By downloading it from the PCUAE website and installing the pro version https://projectcarouselusb.eu 
+1. By using PCUAEManager and installing it that way(PCUAES) and its modes but not all modes will be in the manager now cause some are part of Premium version(PCUAEP). [Download PCUAEManager here](https://1drv.ms/u/s!AsiWKsjhQ2jelNJtFoF1RSaRBwx5Iw?e=3s5Ja5).
+2. By downloading it from the PCUAE website and installing the PCUAEP version https://projectcarouselusb.eu 
 
 "I made this for me originally and thought it would be good to share it, this was the first thing I made like this before, never really played around with Linux before, accept CommodoreOS32bit 1.3 but that was more of a theme customision then changing how Linux works, first time for everything, as they say... :), I do like to know how things work, when I was a kid I liked my C64 but I liked LEGO too so loved building stuff with it, LEGO: Technic, I would build cars or trucks by just looking at the picture of it, I never looked really at how to build it, I just looked at the picture and imagine what went where, I was 12 at the time, I still used LEGO up untill the age of 19, I loved it... :) ."
 
