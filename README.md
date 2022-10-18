@@ -4,8 +4,10 @@ Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October
 
 I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way so goes with all my other minis, just wanted you to know.
 
+# HELP READ ME
 
-Key Highlights of PCUAE:
+# Key Highlights of PCUAE:
+
 
 You can run each Mode from StartUp cause PCUAE can Autoboot itself with Autoboot Mode.
 
@@ -23,7 +25,9 @@ You can run C64 or VIC20 games on THEC64 Carousel on THEC64 Mini and switch from
 There are more features on THEC64 cause its been out longer then THEA500 Mini.
 
 
-You can install PCUAE is two ways:
+
+# You can install PCUAE is two ways:
+
 
 1. By using PCUAEManager and installing it that way(PCUAES) and its modes but not all modes will be in the manager now cause some are part of Premium version(PCUAEP). [Download PCUAEManager here](https://1drv.ms/u/s!AsiWKsjhQ2jelNJtFoF1RSaRBwx5Iw?e=3s5Ja5).
 2. By downloading it from the PCUAE website and installing the PCUAEP version https://projectcarouselusb.eu 
