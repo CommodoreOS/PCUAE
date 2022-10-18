@@ -13,6 +13,8 @@ You can run each Mode from StartUp cause PCUAE can Autoboot itself with Autoboot
 
 You can load Games on THEC64 Carousel so add your own games to its carousel, not avalible at the moment on THEA500 Mini.. :(
 
+You can run C64 or VIC20 games on THEC64 Carousel on THEC64 Mini and switch from PAL to NTSC and back on THEC64.
+
 You can load VICE Mode and load C64 games on THEC64 and THEA500.
 
 You can connect to the internet and load up BBS borads in VICE Mode in THEC64(Premium).
@@ -22,8 +24,6 @@ You can load Amiga(16bit), Atari(8bit), Vice(8bit) and (RA)RetroArch Modes on TH
 On THE A500 Mini - CD32 Mode, load a CD32 game from StartUp and turn THEA500 Mini into the Amiga CD32 Console(Premium), Load a ADF file in ADF Mode and load it from StartUp, like your loading a real floppy disk.
 
 You can run AGS Mode(A500 Games Selector 1.4) on THEA500 Mini from Startup, load a collection of games and apps on the Arcade Games Selector.
-
-You can run C64 or VIC20 games on THEC64 Carousel on THEC64 Mini and switch from PAL to NTSC and back on THEC64.
 
 
 There are more features on THEC64 cause its been out longer then THEA500 Mini.
