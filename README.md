@@ -34,17 +34,20 @@ There are more features on THEC64 cause its been out longer then THEA500 Mini.
 
 "It all started with mounting over the games on the carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB... :), the first mode I added was Vice Mode and then the carousel Gamelist changer scripts became PCUAE Mode named after its name abrivated."
 
-You can remove PCUAE_THEC64 or PCUAE_THEA500 folders depending on what machine you want to use PCUAE on, if you want to run PCUAE only on THEC64 then delete the PCUAE_THEA500 folder, if you want to run PCUAE on THEA500 only then delete the PCUAE_THEC64 and Games Folders, the Games folder is for THEC64 Caousel only.
-
 
 PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(PCUAE Mode - THEC64 Mini, THEC64 and THEVIC20 Only), and load different Modes on the machines.
 
 For THEC64 Mini, THEC64, THEVIC20 and now THEA500 Mini. It is been developed by Spannernick.
 
+
+
 TIPS
 =====
 
-If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quck Shortcut back to PCUAE Mode, its Menu+B(Blue) buttons or keys CTRL+F2.
+If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its Menu+Left Triangle Button or on THEA500 Mini - Menu+B(Blue) buttons or on THEC64 Mini/C64.VIC20/A500 Mini keys CTRL+F2.
+
+You can remove PCUAE_THEC64 or PCUAE_THEA500 folders depending on what machine you want to use PCUAE on, if you want to run PCUAE only on THEC64 then delete the PCUAE_THEA500 folder, if you want to run PCUAE on THEA500 only then delete the PCUAE_THEC64 and Games Folders, the Games folder is for THEC64 Caousel only.
+
 
 
 PCUAE Shortcut Combinations
