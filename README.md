@@ -134,7 +134,7 @@ PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
 
 PCUAE WIKI is here, it should answer any questions you might have about PCUAE.. https://github.com/CommodoreOS/PCUAE/wiki
 
-You can change to different Modes(Emulators) on THEA500 Mini in PCUAE only but can not add games to its Carousel like you can with THEC64, RGL(Retro Games Ltd) have built the carousel this way on purpose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more then allowing the user to add there own games to the carousel but it has USB Media Acsess, but thats why they made the machines in the first place, to make money from it and I gusess to make sure they do not lose money, but if it was me the machines would be first and money second and I would not care if anyone hacked it cause hacking helps sales, like what happen to the PS Classic, hacking made it a better console and peolpe started to buy it.
+You can change to different Modes(Emulators) on THEA500 Mini in PCUAE only but can not add games to its Carousel like you can with THEC64, RGL(Retro Games Ltd) have built the carousel this way on purpose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more but thats why they made the machines in the first place, to make money from it and I gusess to make sure they do not lose money, I would not care if anyone hacked it cause hacking helps sales, like what happen to the PS Classic, hacking made it a better console and peolpe started to buy it cause of Bleemsync.
 
 ANYWAY....PEACE PEOPLE... :) and Enjoy using PCUAE.
 
