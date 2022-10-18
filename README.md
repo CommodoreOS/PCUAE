@@ -2,7 +2,7 @@ Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October
 
 # Now - Project Carousel USB Anniverasy Edition: Basic(PCUAEB), Project Carousel USB Anniverasy Edition: Standard (PCUAES) and Project Carousel USB Anniverasy Edition: Premium(PCUAEP). Standard version will be availble here only.
 
-I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way so goes with all my other minis, just wanted you to know.
+I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work out of the box if its the same as THEA500 Mini and just bigger), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way so goes with all my other minis, just wanted you to know.
 
 # HELP READ ME
 
