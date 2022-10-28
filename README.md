@@ -50,8 +50,6 @@ TIPS
 
 If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its Menu+Left Triangle Button or on THEA500 Mini - Menu+B(Blue) buttons or on THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3.
 
-You can remove PCUAE_THEC64 or PCUAE_THEA500 folders depending on what machine you want to use PCUAE on, if you want to run PCUAE only on THEC64 then delete the PCUAE_THEA500 folder, if you want to run PCUAE on THEA500 only then delete the PCUAE_THEC64 and Games Folders, the Games folder is for THEC64 Caousel only.
-
 
 
 PCUAE Shortcut Combinations
