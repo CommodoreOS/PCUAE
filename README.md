@@ -35,14 +35,13 @@ There are more features on THEC64 cause its been out longer then THEA500 Mini an
 
 
 
-# You can install PCUAE is two ways:
+# You can install PCUAE in two ways:
 
 
 1. By using PCUAEManager and installing it that way(PCUAES) and its modes but not all modes will be in the manager now cause some are part of Premium version(PCUAEP). [Download PCUAEManager here](https://1drv.ms/u/s!AsiWKsjhQ2jelNJtFoF1RSaRBwx5Iw?e=3s5Ja5).
 2. By downloading it from the PCUAE website and installing the PCUAEP version https://projectcarouselusb.eu 
 
 "It all started with mounting over the games on the carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB... :), the first mode I added was Vice Mode and then the carousel Gamelist changer scripts became PCUAE Mode named after its name abrivated."
-
 
 PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(PCUAE Mode - THEC64 Mini, THEC64 and THEVIC20 Only), and load different Modes on the machines.
 
