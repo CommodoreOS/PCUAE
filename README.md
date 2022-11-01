@@ -9,7 +9,10 @@ I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets ma
 # Key Highlights of PCUAE:
 
 You can find me on YouTube too under Retronuts and on there are some videos of PCUAE - YouTube channel is here - https://www.youtube.com/channel/UCrG1jnbvykIcLzfBFxC2GrA 
-Do not watch youtube videos from a phone, or the Youtube app, you will get loads of adds, they play on youtube like the every 10/15 minutes so cut into the video, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on there add free.. :) )
+
+
+Do not watch youtube videos from a phone or the Youtube app, you will get loads of adds, they play on youtube like every 10/15 minutes or so and cut into the video, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on there add free.. :)
+
 
 You can run each Mode from StartUp cause PCUAE can Autoboot itself with Autoboot Mode and its Start-Up Script.
 
