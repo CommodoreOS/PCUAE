@@ -14,10 +14,11 @@ I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets ma
 # Key Highlights of PCUAE:
 
 
-PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called, the Autoboot Start-Up Script and is the only thing thats copied to the fimware and it can boot from the firmware or from the USB Drive when it see the PCUAE USB Drive pluged in from boot up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware from boot up.
-
-
+PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called, the Autoboot Mode Start-Up Script and is the only thing that is copied to the fimware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from boot up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware from boot up.
 You can remove the Autoboot Start-Up Script if you wish too, you can install it or remove it.
+
+
+PCUAE has its own firmware too as a image too, it  mounts its own firmware as it booting so does not use the firmware at all, its to protect it, this can not be used on THEA500 Mini at the moment cause it has a problem with udev, it interferes with it so need to work out why.
 
 
 You can find me on YouTube too under Retronuts and on there are some videos of PCUAE - YouTube channel is here - https://www.youtube.com/channel/UCrG1jnbvykIcLzfBFxC2GrA 
