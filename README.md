@@ -2,11 +2,23 @@ Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October
 
 # Now - Project Carousel USB Anniverasy Edition: Basic(PCUAEB), Project Carousel USB Anniverasy Edition: Standard (PCUAES) and Project Carousel USB Anniverasy Edition: Premium(PCUAEP). Standard version will be availble here only.
 
-I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work out of the box if its the same as THEA500 Mini and just bigger), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way so goes with all my other minis, just wanted you to know.
+
+
+I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work out of the box if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
+
+
 
 # HELP READ ME
 
+
 # Key Highlights of PCUAE:
+
+
+PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called, the Autoboot Start-Up Script and is the only thing thats copied to the fimware and it can boot from the firmware or from the USB Drive when it see the PCUAE USB Drive pluged in from boot up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware from boot up.
+
+
+You can remove the Autoboot Start-Up Script if you wish too, you can install it or remove it.
+
 
 You can find me on YouTube too under Retronuts and on there are some videos of PCUAE - YouTube channel is here - https://www.youtube.com/channel/UCrG1jnbvykIcLzfBFxC2GrA 
 
