@@ -2,7 +2,7 @@ Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October
 
 # Now - Project Carousel USB Anniverasy Edition: Basic(PCUAEB), Project Carousel USB Anniverasy Edition: Standard (PCUAES) and Project Carousel USB Anniverasy Edition: Premium(PCUAEP). Standard version will be availble here only.
 
-
+WIKI - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
 
 I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work out of the box if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
 
