@@ -78,9 +78,9 @@ Key Combinations
 
 For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at section 12 of the WIKI or THE PCUAE PDF Manual. CTRL and the F Keys – Press and Hold Down the CTRL key and then press the F key you want to use for 2 seconds in PCUAE Mode below.
 
-CTRL+F1 – Carousel Gamelist Changer – Select one of the gamelist on the screen to load in the Carousel(in next version of PCUAE) - Not Available on THEA500.
+CTRL+F1 – Carousel Gamelist Changer – Select one of the gamelist on the screen to load in the Carousel - Not Available on THEA500 yet.
 
-CTRL+F3 – Carousel Version Changer – Change to a different carousel version(1.0.5,1.6.1) or 1.0.0,1.1.1 and CD32(Pro Only) and ADF Modes on THEA500. 
+CTRL+F3 – Carousel Version Changer – Change to a different carousel version(1.0.5,1.6.1 or 1.0.0,1.1.1) and CD32(Pro Only) and ADF Modes on THEA500. 
 
 CTRL+F5 – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch, VICE Modes). 
 
@@ -88,7 +88,7 @@ CTRL+F7 – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
 
 CTRL+RESTORE – Reboot the Machine(CTRL+END on THEA500 Mini on a USB Keyboard) – This makes the machine reboot, not the emulator – Just reboots, nothing special, you never know when you need a reboot/reset button… 🙂 and it saves on you pressing the power button all the time and wearing the power button out, thats why I added it.
 
-(THEA500)CTRL+LEFT ALT+DEL, (PCUAE)CTRL+LEFT SHIFT+F1 - Shutdown, this will power off the machine, I added it cause I was sick of pulling the power cable out all the time.
+(THEA500)CTRL+LEFT ALT+DEL, (PCUAE)CTRL+LEFT SHIFT+DEL - Shutdown, this will power off the machine, I added it cause I was sick of pulling the power cable out all the time on THEA500 Mini, it dose not shuttdown without the carousel running, if you press and HOLD the power button, if you hold it for more then 7 seconds it makes it do a restart and not power off(werid).
 
 
 THEC64 Joystick Button Combinations
