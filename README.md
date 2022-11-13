@@ -70,6 +70,9 @@ TIPS
 If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its Menu+Left Triangle Button or on THEA500 Mini - Menu+B(Blue) buttons or on THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3.
 
 
+You can load other programs made for THEA500 Mini in PCUAE by puting them in the PCUAE folder, that where THEA500 Mini USB Drive root is and you can add games too, ahl files can by put in THEA500-Games folder in the PCUAE folder.
+If the program needs Firmaware v1.0.0 then use Carousel Version Changer to change the Carousel to the version you need, you can use CTRL+F3 on a Keyboard or Menu+Y on THEGampad to load The Carousel Version Changer.
+
 
 PCUAE Shortcut Combinations
 =======================
@@ -155,7 +158,7 @@ PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
 
 PCUAE WIKI is here, it should answer any questions you might have about PCUAE.. https://github.com/CommodoreOS/PCUAE/wiki
 
-You can change to different Modes(Emulators) on THEA500 Mini in PCUAE only but can not add games to its Carousel like you can with THEC64, RGL(Retro Games Ltd) have built the carousel this way on purpose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more but thats why they made the machines in the first place, to make money from it and I gusess to make sure they do not lose money, I would not care if anyone hacked it cause hacking helps sales, like what happen to the PS Classic, hacking made it a better console and peolpe started to buy it cause of Bleemsync.
+You can change to different Modes(Emulators) on THEA500 Mini in PCUAE only but can not add games to its Carousel like you can with THEC64, RGL(Retro Games Ltd) have built the carousel this way on purpose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more but thats why they made the machines in the first place, to make money from it and I gusess to make sure they do not lose money, I would not care if anyone moded it cause it helps selling it, like what happen to the PS Classic, hacking made it a better console and peolpe started to buy it cause of Bleemsync.
 
 ANYWAY....PEACE PEOPLE... :) and Enjoy using PCUAE.
 
