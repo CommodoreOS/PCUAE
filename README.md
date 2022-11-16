@@ -14,28 +14,30 @@ I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets ma
 # Key Highlights of PCUAE:
 
 
-PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called, the Autoboot Mode Start-Up Script and is the only thing that is copied to the fimware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from boot up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware from boot up.
+PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called the `Autoboot Mode Start-Up Script` its in the int.d folder and is the only thing that is copied to the fimware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from boot up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware from boot up.
 You can remove the Autoboot Start-Up Script if you wish too, you can install it or remove it.
 
 
-PCUAE has its own firmware too as a image too, it  mounts its own firmware as it booting so does not use the firmware at all, its to protect it, this can not be used on THEA500 Mini at the moment cause it has a problem with udev, it interferes with it so need to work out why.
+PCUAE has its own firmware too as a image, it mounts its own firmware as it booting so does not use the firmware at all, its to protect it and it helps booting the carousel on a different model, this can not be used on THEA500 Mini at the moment cause it has a problem with udev, it interferes with it so need to work out why.
 
 
 You can find me on YouTube too under Retronuts and on there are some videos of PCUAE - YouTube channel is here - https://www.youtube.com/channel/UCrG1jnbvykIcLzfBFxC2GrA 
 
 
-Do not watch youtube videos from a phone or the Youtube app, you will get loads of adds, they play on youtube like every 10/15 minutes or so and cut into the video, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on there add free.. :)
+(Do not watch youtube videos from a phone or the Youtube app, you will get loads of adds, they play on youtube like every 10/15 minutes or so and cut into the video, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on there add free.. :) )
 
 
 You can run each Mode from StartUp cause PCUAE can Autoboot itself with Autoboot Mode and its Start-Up Script.
 
+
+THEC64 Only:
 You can load your own Games on THEC64 Carousel so add your own games to its carousel(There is a game pack availble on here too for the carousel) with PCUAE Manager, not avalible at the moment on THEA500 Mini.. :( its down to how RGL designed THEA500 Carousel on THEA500 Mini, they designed it in a way to stop you doing it, so its down to RGL not me, THEA500 Carousel needs hacking so it can do it.
 
 You can run C64 or VIC20 games on THEC64 Carousel on THEC64 Mini and switch from PAL to NTSC and back on THEC64 Mini/THEC64/THEVIC20.
 
 You can load VICE Mode and load C64 games on THEC64 and THEA500. (the pack is availble on here)
 
-You can connect to the internet and load up BBS borads in VICE Mode in THEC64.(Premium)
+You can connect to the internet and load up BBS borads in VICE Mode in THEC64.(Premium)(THEC64 Only)
 
 You can load Amiga(16bit), Atari(8bit), Vice(8bit) and RetroArch(RA) Modes on THEC64 and THEA500, THEA500 can run Pandory Mode instead of RetroArch Mode(the packs are availble on here).
 
@@ -44,7 +46,7 @@ On THE A500 Mini - CD32 Mode, load a CD32 game from StartUp and turn THEA500 Min
 You can run AGS Mode(A500 Games Selector 1.4) on THEA500 Mini from Startup, load a collection of games and apps on the Arcade Games Selector.
 
 
-There are more features on THEC64 cause its been out longer then THEA500 Mini and its not locked down like THEA500 Mini is, I think RGL did this cause of other hackers out there that take others work and hack into to Mini Consoles and then add games to it for money, like the (TBM)True Blue Mini USB Stick, its to stop this kind of thing happerening again, the True Blue Mini was a USB Stick that had games on it that could be loaded into THEC64 Mini Carousel so it changed the games on the carousel but you could only buy it, it was not free, they hacked the PS Classic and Mega Drive Mini too so its understandable, True Blue Mini was a copy of PCUAE, it uses the same code, the people behind TBM have been now charged with copyright theft in the US so no more TBM, but one goes another takes its place... :(
+There are more features on THEC64 cause its been out longer then THEA500 Mini and its not locked down like THEA500 Mini is, I think RGL did this cause they do not like there machines being modified.
 
 
 
