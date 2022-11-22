@@ -2,7 +2,7 @@ Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October
 
 # Now - Project Carousel USB Anniversary Edition: Standard version will be availble only.
 
-Sorry some Modes have been removed, RA Mode and AMIGA Mode not avaiable at the moment, I have to sort them out some other time.
+Sorry some Modes have been removed, AGS, RA Mode and AMIGA Mode not available.
 
 
 PCUAE Sites have now been closed down.
