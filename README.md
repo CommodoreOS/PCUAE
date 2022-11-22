@@ -1,6 +1,18 @@
 Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October 2020, renamed to - **Project Carousel USB Anniversary Edition** on THEC64 Mini NTSC 2 year Anniversary.
 
-# Now - Project Carousel USB Anniverasy Edition: Basic(PCUAEB), Project Carousel USB Anniverasy Edition: Standard (PCUAES) and Project Carousel USB Anniverasy Edition: Premium(PCUAEP). Standard version will be availble here only.
+# Now - Project Carousel USB Anniversary Edition: Standard version will be availble only.
+
+Sorry some Modes have been removed, RA Mode and AMIGA Mode not avaiable at the moment, I have to sort them out some other time.
+
+
+PCUAE Sites have now been closed down.
+
+
+So this is the only version thats available now, do not know if I make another version.
+
+
+I might remove support for THEA500 Mini altogether now so PCUAE will only work on THEC64 only, not sure yet.
+
 
 WIKI - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
 
