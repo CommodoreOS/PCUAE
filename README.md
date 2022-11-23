@@ -1,7 +1,5 @@
 Origanal Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October 2020, renamed to - **Project Carousel USB Anniversary Edition** on THEC64 Mini NTSC 2 year Anniversary.
 
-# Now - Project Carousel USB Anniversary Edition only now, no other version avaiable.
-
 Sorry some Modes have been removed, AGS, RA Mode and AMIGA Mode not available.
 
 
