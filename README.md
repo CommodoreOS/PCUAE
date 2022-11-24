@@ -41,7 +41,7 @@ You can run each Mode from StartUp cause PCUAE can Autoboot itself with Autoboot
 
 
 THEC64 Only:
-You can load your own Games on THEC64 Carousel so add your own games to its carousel(There is a game pack availble on here too for the carousel) with PCUAE Manager, not avalible at the moment on THEA500 Mini.. :( its down to how RGL designed THEA500 Carousel on THEA500 Mini, they designed it in a way to stop you doing it, so its down to RGL not me, THEA500 Carousel needs hacking so it can do it, I am not a haccker so can not hack into it, I am a scripter.
+You can load your own Games on THEC64 Carousel so add your own games to its carousel(There is a game pack availble on here too for the carousel) with PCUAE Manager, not avalible at the moment on THEA500 Mini.. :( its down to how RGL designed THEA500 Carousel on THEA500 Mini, they designed it in a way to stop you doing it, so its down to RGL not me, THEA500 Carousel needs hacking so it can do it, I am not a hacker so can not hack into it, I am a scripter.
 
 You can run C64 or VIC20 games on THEC64 Carousel on THEC64 Mini and switch from PAL to NTSC and back on THEC64 Mini/THEC64/THEVIC20.
 
@@ -60,20 +60,17 @@ There are more features on THEC64 cause its been out longer then THEA500 Mini an
 
 
 
-# You can install PCUAE in two ways:
+# How to Download and install PCUAE:
 
 
 1. By using PCUAEManager and installing it that way(PCUAES) and its modes but not all modes will be in the manager now cause some are part of Premium version(PCUAEP). [Download PCUAEManager here](https://1drv.ms/u/s!AsiWKsjhQ2jelNJtFoF1RSaRBwx5Iw?e=3s5Ja5).
-2. By downloading it from the PCUAE website and installing the PCUAEP version https://projectcarouselusb.eu 
-You can still use PCUAE Manager with the PCUAE Pro or Premium versions, it is available on the website too or just download from here, you can install PCUAE Standard version then install PCUAE Pro or Premium over the top of it so it becomes PCUAE Pro or Premium.
 
 
-"It all started with mounting over the games on the carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB... :), the first mode I added was Vice Mode and then the carousel Gamelist changer scripts became PCUAE Mode named after its name abrivated."
 
-PCUAE is a series of scripts and modifications, its a module program, it allows you to run games from USB on the Carousel(PCUAE Mode - THEC64 Mini, THEC64 and THEVIC20 Only), and load different Modes on the machines.
+Where The Name Came From:
+=============================
 
-For THEC64 Mini, THEC64, THEVIC20 and now THEA500 Mini. It is been developed by Spannernick.
-
+"It all started with mounting over the games on the carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB(named after Carousel USB Chooser)... :), the first mode I added was Vice Mode and then the Carousel Gamelist Changer scripts became PCU Mode named after its name abrivated then PCUAE Mode."
 
 
 TIPS
@@ -162,15 +159,14 @@ THEC64 Mini, THEC64, THEVIC20, THEA500 Mini - Copyright(c) 2022 RETRO GAMES LTD 
 
 IF you feel you want to help me out and give me a beer - https://www.paypal.com/donate/?token=qWVMumPQ58KRZUnjh4khuX2xIMHExwxviGQoH5_64rVv_hNa0ZGivFTSQ8FU8cvoO_KqOJ4KFKV6-xsq&locale.x=EN_US
 
-Main Site - https://projectcarouselusb.eu/
 
 You can use PCUAE Manager to manage your games on the Carousel and store them, import/export them from/to the PCUAE USB Drive(THEC64 ONLY).
 
-PCUAE Manager - https://thec64community.online/thread/603/pcuae-manager
+PCUAE Manager on Github - https://thec64community.online/thread/603/pcuae-manager
 
 PCUAE WIKI is here, it should answer any questions you might have about PCUAE.. https://github.com/CommodoreOS/PCUAE/wiki
 
-You can change to different Modes(Emulators) on THEA500 Mini in PCUAE only but can not add games to its Carousel like you can with THEC64, RGL(Retro Games Ltd) have built the carousel this way on purpose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more but thats why they made the machines in the first place, to make money from it and I gusess to make sure they do not lose money, I would not care if anyone moded it cause it helps selling it, like what happen to the PS Classic, hacking made it a better console and peolpe started to buy it cause of Bleemsync.
+You can change to different Modes(Emulators) on THEA500 Mini in PCUAE only but can not add games to its Carousel like you can with THEC64, RGL(Retro Games Ltd) have built the carousel this way on purpose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more but thats why they made the machines in the first place, to make money from it and I gusess to make sure they do not lose money, I would not care if anyone moded it cause it helps selling it, like what happen to the PS Classic, hacking made it a better console and users started to buy it cause of Bleemsync.
 
 ANYWAY....PEACE PEOPLE... :) and Enjoy using PCUAE.
 
