@@ -15,10 +15,11 @@ Like I said before `I will allways try to support PCUAE`, but do need breaks fro
 
 WIKI - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
 
+
 I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work out of the box if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
 
-Thinking about it now and if RGL make A1200 then maybe, the A600 and the A1200 are the best keyboard Amigas Commodore made and as well as the A3000 and A4000 Boxed Amiga/Commodores... :)
 
+Thinking about it now and if RGL make A1200 then maybe, the A600 and the A1200 are the best keyboard Amigas Commodore made and as well as the A3000 and A4000 Big Boxed Amiga... :)
 
 
 # HELP READ ME
