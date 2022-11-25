@@ -47,17 +47,23 @@ You can run each Mode from StartUp cause PCUAE can Autoboot itself with Autoboot
 THEC64 Only:
 You can load your own Games on THEC64 Carousel so add your own games to its carousel(There is a game pack availble on here too for the carousel) with PCUAE Manager, not avalible at the moment on THEA500 Mini.. :( its down to how RGL designed THEA500 Carousel on THEA500 Mini, they designed it in a way to stop you doing it, so its down to RGL not me, THEA500 Carousel needs hacking so it can do it, I am not a hacker so can not hack into it, I am a scripter.
 
+
 You can run C64 or VIC20 games on THEC64 Carousel on THEC64 Mini and switch from PAL to NTSC and back on THEC64 Mini/THEC64/THEVIC20.
+
 
 You can load VICE Mode and load C64 games on THEC64 and THEA500. (the pack is availble on here)
 
-You can connect to the internet and load up BBS borads in VICE Mode in THEC64.(Premium)(THEC64 Only)
 
-You can load Amiga(16bit), Atari(8bit), Vice(8bit) and RetroArch(RA) Modes on THEC64 and THEA500, THEA500 can run Pandory Mode instead of RetroArch Mode(the packs are availble on here).
+You can connect to the internet and load up BBS borads in VICE Mode in THEC64.(THEC64 Only)
 
-On THE A500 Mini - CD32 Mode, load a CD32 game from StartUp and turn THEA500 Mini into the Amiga CD32 Console(Premium), Load a ADF file in ADF Mode and load it from StartUp, like your loading a real floppy disk.
 
-You can run AGS Mode(A500 Games Selector 1.4) on THEA500 Mini from Startup, load a collection of games and apps on the Arcade Games Selector.
+You can load Amiga(16bit), Atari(8bit), Vice(C16/plus4,C64,VIC20,C128,8bit) and RetroArch(RA) Modes on THEC64 and THEA500, THEA500 can run Pandory Mode instead of RetroArch Mode(the packs are availble on here).
+
+
+On THE A500 Mini - CD32 Mode, load a CD32 game from StartUp and turn THEA500 Mini into the Amiga CD32 Console, Load a ADF file in ADF Mode and load it from StartUp, like your loading a real floppy disk.
+
+
+You can run AGS 500 Mode(A500 Games Selector 1.5) on THEA500 Mini from Startup, load a collection of games and apps on the Arcade Games Selector(it will need the HDD folder for it to work).
 
 
 There are more features on THEC64 cause its been out longer then THEA500 Mini and its not locked down like THEA500 Mini is, I think RGL did this cause they do not like there machines being modified.
@@ -92,17 +98,24 @@ PCUAE Shortcut Combinations
 
 Key Combinations
 
+
 For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at section 12 of the WIKI or THE PCUAE PDF Manual. CTRL and the F Keys – Press and Hold Down the CTRL key and then press the F key you want to use for 2 seconds in PCUAE Mode below.
+
 
 CTRL+F1 – Carousel Gamelist Changer – Select one of the gamelist on the screen to load in the Carousel - Not Available on THEA500 yet.
 
+
 CTRL+F3 – Carousel Version Changer – Change to a different carousel version(1.0.5,1.6.1 or 1.0.0,1.1.1) and CD32(Pro Only) and ADF Modes on THEA500. 
+
 
 CTRL+F5 – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch, VICE Modes). 
 
+
 CTRL+F7 – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
 
+
 CTRL+RESTORE – Reboot the Machine(CTRL+END on THEA500 Mini on a USB Keyboard) – This makes the machine reboot, not the emulator – Just reboots, nothing special, you never know when you need a reboot/reset button… 🙂 and it saves on you pressing the power button all the time and wearing the power button out, thats why I added it.
+
 
 (THEA500)CTRL+LEFT ALT+DEL, (PCUAE)CTRL+LEFT SHIFT+DEL - Shutdown, this will power off the machine, I added it cause I was sick of pulling the power cable out all the time on THEA500 Mini, it dose not shuttdown without the carousel running, if you press and HOLD the power button, if you hold it for more then 7 seconds it makes it do a restart and not power off(werid).
 
@@ -110,13 +123,18 @@ CTRL+RESTORE – Reboot the Machine(CTRL+END on THEA500 Mini on a USB Keyboard) 
 THEC64 Joystick Button Combinations
 ======================================
 
+
 Menu, Fire and the Triangle buttons – Press and Hold the Menu Button and then press the Left Fire, Right Fire or the Left, Right Triangle buttons you want to use for 2 seconds in PCUAE Mode, this makes it easier for you use PCUAE mode on THEC64 Mini, THEC64 Joystick now works in the menus on THEC64 Mini too now.
+
 
 Menu+Left Triangle Button – Carousel Version Changer – Change to a different Carousel version - THEC64 Carousels 1.0.5, 1.6.1.
 
+
 Menu+Right Triangle Button – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch and VICE Modes).
 
+
 Menu+Left Fire 1 Button – TheCarousel Gamelist Changer – Change to a different Carousel Gamelist thats been added with the PCUAE Manager.
+
 
 Menu+Right Fire 2 Button – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
 
@@ -125,17 +143,24 @@ Menu+Right Fire 2 Button – PCUAE Options Menu – A menu with options in it fo
 THEGAMEPAD Button Combinations
 ===============================
 
+
 Press and Hold the Menu Button and then press the A, X, Y or B buttons you want to use and hold both down for 2 seconds.
+
 
 Menu+Y Button – Carousel Version Changer – Change to a different Carousel versions - Manhattan - 1.0.0, 1.1.1, CD32(Pro Only) Amiberry 5 and ADF Modes on THEA500.
 
+
 Menu+X Button – Mode Changer – Change to a different Mode(ADF, Amiga, Atari, Linux, Retroarch(Pandory) and VICE Modes).
+
 
 Menu+B Button – Quick Switch – Back to PCUAE Mode.
 
+
 Menu+A Button – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
 
+
 Menu+Home - Restart - Reset the Mode its on.
+
 
 Menu+RSB - Quick Switch - Switch between Amiberry 3.3 and 5.3 and back in the carousel.
 
@@ -144,34 +169,48 @@ Menu+RSB - Quick Switch - Switch between Amiberry 3.3 and 5.3 and back in the ca
 PCUAE License
 ==============
 
+
 Project Carousel USB Anniversary Edition(PCUAE) by Spannernick, 
+
 
 Idea by Spannernick, Carousel USB Chooser by FaberfoX(Carousel Gamelist Changer on THEC64), 
 
+
 Fake Update by jj0, cyanic and raxrip who created the firmware unpacker/packer that makes this possible on THEC64, 
+
 
 Load Carousel Games from the USB Drive using Carousel Gamelist Changer and have different carousel gamelists on TheCarousel(THEC64 Only at the moment), 
 
+
 JIFFYDOS 6 is included, 
+
 
 C64 SID Music playing in the background, plays different SID Music on each Carousel Gamelists on TheCarousel C64 0 to G, H to R and S to Z(THEC64 ONLY).
 
+
 **This is free for non commercial use - NOT to SELL**
+
 
 THEC64 Mini, THEC64, THEVIC20, THEA500 Mini - Copyright(c) 2022 RETRO GAMES LTD - https://retrogames.biz
 
 
-IF you feel you want to help me out and give me a beer - https://www.paypal.com/donate/?token=qWVMumPQ58KRZUnjh4khuX2xIMHExwxviGQoH5_64rVv_hNa0ZGivFTSQ8FU8cvoO_KqOJ4KFKV6-xsq&locale.x=EN_US
+IF you feel you want to help me out and give me a Monster Energy or a cup of Tea - https://www.paypal.com/donate/?token=qWVMumPQ58KRZUnjh4khuX2xIMHExwxviGQoH5_64rVv_hNa0ZGivFTSQ8FU8cvoO_KqOJ4KFKV6-xsq&locale.x=EN_US
 
 
 You can use PCUAE Manager to manage your games on the Carousel and store them, import/export them from/to the PCUAE USB Drive(THEC64 ONLY).
 
+
 PCUAE Manager on Github - https://thec64community.online/thread/603/pcuae-manager
+
 
 PCUAE WIKI is here, it should answer any questions you might have about PCUAE.. https://github.com/CommodoreOS/PCUAE/wiki
 
+
 You can change to different Modes(Emulators) on THEA500 Mini in PCUAE only but can not add games to its Carousel like you can with THEC64, RGL(Retro Games Ltd) have built the carousel this way on purpose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more but thats why they made the machines in the first place, to make money from it and I gusess to make sure they do not lose money, I would not care if anyone moded it cause it helps selling it, like what happen to the PS Classic, hacking made it a better console and users started to buy it cause of Bleemsync.
+
 
 ANYWAY....PEACE PEOPLE... :) and Enjoy using PCUAE.
 
+
 Spannernick.
+
