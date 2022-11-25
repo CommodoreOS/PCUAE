@@ -7,7 +7,7 @@ PCUAE Sites have now been closed down, sorry about this but its the best way for
 Any info or you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
 
 
-So this is the only version thats available now(PCUAE Version), it will say Premium version when you load PCUAE Mode or Carousel Changer Menus so you get the whole menu, I will proberly change that now, I proberly will make another version cause I like PCUAE and I have been working on it to long not to.
+So this is the only version thats available now(PCUAE Version), it will say Premium version when you load PCUAE Options, Mode or Carousel Changer Menus so you get the whole menu, I will proberly change that now, I proberly will make another version cause I like PCUAE and I have been working on it to long not to.
 
 
 Like I said before `I will allways try to support PCUAE`, but do need breaks from it from time to time.
@@ -19,7 +19,7 @@ WIKI - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
 I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work out of the box if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
 
 
-Thinking about it now and if RGL make A1200 then maybe, the A600 and the A1200 are the best keyboard Amigas Commodore made and as well as the A3000 and A4000 Big Boxed Amigas... :)
+Thinking about it now and if RGL make A1200 then maybe, the A600 and the A1200 are the best keyboard Amigas Commodore made and as well as the A3000 and A4000 Big Boxed Amigas... :) I think now RGL can now get the AMIGA name...why... Cloanto now own the right to its name but we will see.
 
 
 # HELP READ ME
@@ -28,11 +28,11 @@ Thinking about it now and if RGL make A1200 then maybe, the A600 and the A1200 a
 # Key Highlights of PCUAE:
 
 
-PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called the `Autoboot Mode Start-Up Script` its in the int.d folder and is the only thing that is copied to the fimware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from boot up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware from boot up.
-You can remove the Autoboot Start-Up Script if you wish too, you can install it or remove it.
+PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called the `Autoboot Mode Start-Up Script` its in the `int.d` folder in the firmware, the same place its script is that tells it to run the carousel, and is the only thing that is copied to the fimware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from boot up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware from boot up.
+You can remove the Autoboot Start-Up Script if you wish too, you can add it or remove it.
 
 
-PCUAE has its own firmware too as a image, it mounts its own firmware as it booting so does not use the firmware at all, its to protect it and it helps booting the carousel on a different model, this can not be used on THEA500 Mini at the moment cause it has a problem with udev, it interferes with it so need to work out why.
+PCUAE has its own firmware too as a image, it mounts its own firmware as it booting using chroot so does not use the firmware at all, its to protect it and it helps booting the carousel on a different model like the carousel on THEC64 on THEC64 Mini, this can not be used on THEA500 Mini at the moment cause it has a problem with udev, it interferes with it so need to work out why, it has a problem working with Pandory so THEGamepad does not work.
 
 
 You can find me on YouTube too under Retronuts and on there are some videos of PCUAE - YouTube channel is here - https://www.youtube.com/channel/UCrG1jnbvykIcLzfBFxC2GrA 
