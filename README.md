@@ -3,13 +3,14 @@
 
 PCUAE Sites have now been closed down, sorry about this but its the best way forward.
 
+
 Any info or you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
 
 
-So this is the only version thats available now, do not know if I make another version.
+So this is the only version thats available now(PCUAE Version), it will say Premium version when you load PCUAE Mode or Carousel Changer Menus so you get the whole menu, I will proberly change that now, I proberly will make another version cause I like PCUAE and I have been working on it to long not to.
 
 
-I might remove support for THEA500 Mini altogether now so PCUAE will only suport THEC64 only, not sure yet.
+Like I said before `I will allways try to support PCUAE`, but do need breaks from it from time to time.
 
 
 WIKI - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
