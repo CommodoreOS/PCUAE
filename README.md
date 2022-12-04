@@ -7,6 +7,12 @@ PCUAE Sites have now been closed down, sorry about this but its the best way for
 Any info or you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
 
 
+"Contains host-rum from the Pandory500 mod"... https://github.com/emuchicken/pandory-a500
+
+
+It will from now on included host-rum.adf file from Pandory so will be back in next version of PCUAE, thanks Dajoho and Team Pandory.
+
+
 So this is the only version thats available now(PCUAE Version), it will say Premium version when you load PCUAE Options, Mode or Carousel Changer Menus so you get the whole menu, I will proberly change that now, I proberly will make another version cause I like PCUAE and I have been working on it to long not to.
 
 
