@@ -13,7 +13,7 @@ Any info or you want to discuss PCUAE go to THEC64 Community Forum - https://the
 It will from now on included host-rum.adf file from Pandory so will be back in next version of PCUAE, thanks Dajoho and Team Pandory.
 
 
-So this is the only version thats available now(PCUAE Version), it will say Premium version when you load PCUAE Options, Mode or Carousel Changer Menus so you get the whole menu, I will proberly change that now, I proberly will make another version cause I like PCUAE and I have been working on it to long not to.
+So this is the only version thats available now(PCUAE Version).
 
 
 Like I said before `I will allways try to support PCUAE`, but do need breaks from it from time to time.
