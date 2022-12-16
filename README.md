@@ -22,6 +22,9 @@ Like I said before `I will allways try to support PCUAE`, but do need breaks fro
 WIKI - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
 
 
+Coming soon in next version - I added some code so you see the Green Hard Drive LED flash as PCUAE is loading on THEA500 Mini so you know its doing something... :)
+
+
 I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work out of the box if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
 
 
