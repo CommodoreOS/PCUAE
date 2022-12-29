@@ -95,11 +95,13 @@ Where The Name Came From:
 TIPS
 =====
 
-If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its Menu+Left Triangle Button or on THEA500 Mini - Menu+B(Blue) buttons or on THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3.
+If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its Menu+Left Triangle Button or on THEA500 Mini - Menu+B(Blue) buttons or on THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3, this will not work on PCUAE Mode cause your already in the mode, this only works on any other Mode.
 
 
-You can load other programs made for THEA500 Mini in PCUAE by puting them in the PCUAE folder, that where THEA500 Mini USB Drive root is and you can add games too, ahl files can by put in THEA500-Games folder in the PCUAE folder.
-If the program needs Firmaware v1.0.0 then use Carousel Version Changer to change the Carousel to the version you need, you can use CTRL+F3 on a Keyboard or Menu+Y on THEGampad to load The Carousel Version Changer.
+You can load other programs made for THEA500 Mini in PCUAE by puting them in the THEA500-USB-MENU folder, that where THEA500 Mini USB Drive root is now and you can add games too, ahl files can be put into THEA500-Games folder in the THEA500-USB-MENU folder.
+
+
+If the program needs Firmware v1.0.0 then use Carousel Version Changer to change the Carousel to the version you need, you can use CTRL+F3 on a USB or THEC64 Keyboard or Menu+Left Triangle Button on THEC64, Menu+Y on THEGampad to load The Carousel Version Changer on PCUAE Mode only.
 
 
 PCUAE Shortcut Combinations
