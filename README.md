@@ -1,9 +1,9 @@
 # Original Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October 2020, renamed to - **Project Carousel USB Anniversary Edition** on THEC64 Mini NTSC 2 year Anniversary.
 
 If you are having a problem with PCUAE running properly then use this version, its only for THEC64 Models so not for THEA500, it was made before it... https://github.com/CommodoreOS/PCUAE/releases/tag/v1.8.5bf10
-I hope if everything goes to plan, that the next version will be relased in the next 2 days(PCUAE 3.1.0).
+I hope if everything goes to plan, that the next version will be relased in the next 2 days(PCUAE 3.1.0), Figners Crossed, I am just trying to make sure everything works before I release it... :)
 
-PCUAE Sites have now been closed down, sorry about this but its the best way forward, PCUAE does not really need a website, it creates more work so have to keep it uptodate and that so then have to work on that and PCUAE too so do not have anytime for it, only time I have is used working on PCUAE.
+PCUAE Sites have now been closed down, sorry about this but its the best way forward, PCUAE does not really need a website, it creates more work so have to keep it up todate and that so then have to work on that too and PCUAE too so do not have anytime for it, only time I have is used working on PCUAE, thats was the problem with the website before so do not want that to happen again.
 
 
 Any info or you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
