@@ -9,16 +9,16 @@ PCUAE Sites have now been closed down, sorry about this but its the best way for
 Any info or you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
 
 
-"Contains host-rum from the Pandory500 mod"... https://github.com/emuchicken/pandory-a500
+"PCUAE now contains host-rum from the Pandory500 mod"... https://github.com/emuchicken/pandory-a500
 
 
-It will from now on included host-rum.adf file from Pandory so will be back in next version of PCUAE, thanks Dajoho and Team Pandory.
+It will from now on include host-rum.adf file from Pandory so it can boot PCUAE using it, thanks Dajoho and Team Pandory.
 
 
-So this is the only version thats available now(PCUAE Version).
+So this is the only version thats available now and older versions but they are before THEA500 was added.
 
 
-Like I said before `I will allways try to support PCUAE`, but do need breaks from it from time to time.
+I will always try to support PCUAE, but do need a break from it from time to time... :)
 
 
 WIKI - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
