@@ -33,23 +33,25 @@ I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets ma
 Thinking about it now and if RGL make A1200 then maybe, the A600 and the A1200 are the best keyboard Amigas Commodore made and as well as the A3000 and A4000 Big Boxed Amigas... :) I think now RGL can now get the AMIGA name...why... Cloanto now own the right to its name but we will see.
 
 
+TODO: Add emulators as Modes: Atari - ST, ScummVM, Master System, Mega Drive, MegaCD, DOOM.
+
+If you have any idea you like me to try and add plaese post about them on here or on THEC64 Community Forum.
+
+
 # HELP READ ME
 
 
 # Key Highlights of PCUAE:
 
 
-PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called the `Autoboot Mode Start-Up Script` its in the `int.d` folder in the firmware, the same place its script is that tells it to run the carousel, and is the only thing that is copied to the fimware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from boot up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware from boot up.
-You can remove the Autoboot Start-Up Script if you wish too, you can add it or remove it.
-
-
-PCUAE has its own firmware too as a image, it mounts its own firmware as it booting using chroot so does not use the firmware at all, its to protect it and it helps booting the carousel on a different model like the carousel on THEC64 on THEC64 Mini, this can not be used on THEA500 Mini at the moment cause it has a problem with udev, it interferes with it so need to work out why, it has a problem working with Pandory so THEGamepad does not work.
+PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called the `Autoboot Mode Start-Up Script`, its in the boot folder on the PCUAE USB Drive and called `autobootfirmware.sh` and its sent to the `int.d` folder in the firmware, the same place its script is that tells it to run the carousel when the console starts up, and is the only thing that is copied to the fimware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from start up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware from start up.
+You can remove the Autoboot Start-Up Script if you wish too, you can add it or remove it, you remove it using The Mode Changer Menu or PCUAE Options Menu.
 
 
 You can find me on YouTube too under Retronuts and on there are some videos of PCUAE - YouTube channel is here - https://www.youtube.com/channel/UCrG1jnbvykIcLzfBFxC2GrA 
 
 
-(Do not watch youtube videos from a phone or the Youtube app, you will get loads of adds, they play on youtube like every 10/15 minutes or so and cut into the video, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on there add free.. :) )
+(Do not watch youtube videos from a phone or the Youtube app, you will get loads of adds, they play on youtube like every 10/15 minutes or so and cut into the video, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on Youtube add free.. :) )
 
 
 You can run each Mode from StartUp cause PCUAE can Autoboot itself with Autoboot Mode and its Start-Up Script.
