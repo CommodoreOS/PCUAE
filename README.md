@@ -1,6 +1,6 @@
 # Original Name - On 14 April 2020 - **Project Carousel USB** - On the 9th October 2020, renamed to - **Project Carousel USB: Anniversary Edition** on THEC64 Mini NTSC 2 year Anniversary, `Project` came from `Project Luna` and `Carousel USB` came from `Carousel USB Chooser` so that how it got its name... :)
 
-https://thec64community.online/attachment/download/561
+![](https://thec64community.online/attachment/download/561)
 
 If you are having a problem with PCUAE running properly then use this version, its only for THEC64 Models so not for THEA500, it was made before it... https://github.com/CommodoreOS/PCUAE/releases/tag/v1.8.5bf10
 I hope if everything goes to plan, that the next version will be relased in the next 2 days(PCUAE 3.1.0), Figners Crossed, I am just trying to make sure everything works before I release it... :)
