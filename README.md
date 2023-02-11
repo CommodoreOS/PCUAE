@@ -155,6 +155,8 @@ Menu+Left Fire 1 Button – TheCarousel Gamelist Changer – Change to a differe
 
 Menu+Right Fire 2 Button – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
 
+(Comming Soon)
+Menu+C - Quick Restart - Reboot THEC64 and Activate the PAL/NTSC Video Screen on TheCarousel v1.6.1 only(not avalible on v1.0.5).
 
 
 THEGAMEPAD Button Combinations
