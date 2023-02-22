@@ -110,10 +110,9 @@ You can load other programs made for THEA500 Mini in PCUAE by puting them in the
 If the program needs Firmware v1.0.0 then use Carousel Version Changer to change the Carousel to the version you need, you can use CTRL+F3 on a USB or THEC64 Keyboard or Menu+Left Triangle Button on THEC64, Menu+Y on THEGampad to load The Carousel Version Changer on PCUAE Mode only.
 
 
-PCUAE Shortcut Combinations
-=======================
 
-Key Combinations
+What are the PCUAE Shortcut Key Combinations
+=======================
 
 
 For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at section 12 of the WIKI or THE PCUAE PDF Manual. CTRL and the F Keys – Press and Hold Down the CTRL key and then press the F key you want to use for 2 seconds in PCUAE Mode below.
@@ -137,7 +136,8 @@ CTRL+RESTORE – Reboot the Machine(CTRL+END on THEA500 Mini on a USB Keyboard) 
 (THEA500)CTRL+LEFT ALT+DEL, (PCUAE)CTRL+LEFT SHIFT+DEL - Shutdown, this will power off the machine, I added it cause I was sick of pulling the power cable out all the time on THEA500 Mini, it dose not shuttdown without the carousel running, if you press and HOLD the power button, if you hold it for more then 7 seconds it makes it do a restart and not power off(werid).
 
 
-THEC64 Joystick Button Combinations
+
+What are THEC64 Joystick Button Combinations
 ======================================
 
 
@@ -159,7 +159,7 @@ Menu+Right Fire 2 Button – PCUAE Options Menu – A menu with options in it fo
 Menu+C - Quick Restart - Reboot THEC64 and Activate the PAL/NTSC Video Screen on TheCarousel v1.6.1 only(not avalible on v1.0.5).
 
 
-THEGAMEPAD Button Combinations
+What are THEA500 THEGAMEPAD Button Combinations
 ===============================
 
 
@@ -185,15 +185,19 @@ Menu+RSB - Quick Switch - Switch between Amiberry 3.3 and 5.3 and back in the ca
 
 
 
-How do I add games to AMIGA Mode
+How do you add games to AMIGA Mode
 ===============================
 
 
-PCUAE will have a folder in it called `WHDLoad-Games` on the root of the `USB Drive`, this is where you put your Amiga games but you can not use Windows and copy them over, it will not load the games that way, you have to load Workbench in `WinUAE` and then add the `WHDLoad-Games` folder first then copy them over that way.
-Mount the WHDLoad games that are in ahl format in `WinUAE` so put them in a folder and then add the folder to `WinUAE` and then extrack them in to the `WHDLoad-Games` folder so then they are unpacked properly, if you do not then you will have problems with scaning the games in Tiny Lanucher and running them from the folder when you see it on the Workbenach screen.
+PCUAE will have a new folder in PCUAE 3.1.0 that is for Amiga Games only and you be able to put the game files in so not in a HDF file not you will need to use `WinUAE` to copy them to the folder.
+Download `WinUAE` from here, you can use the latest version... https://www.winuae.net/download/
 
 
-DO NOT use Winrar to unpack WHDLoad Games in LHA format, you will mess them up and they will not load.
+PCUAE will have a folder in it called `WHDLoad-Games` on the root of the USB Drive, this is where you put your Amiga games but you can not use Windows and copy them over, it will not load the games that way, you have to load Workbench in `WinUAE` and then add the `WHDLoad-Games` folder first then copy them over that way.
+Add the WHDLoad games that are in ahl format in `WinUAE` so put them in a folder and then add the folder to `WinUAE` and then extrack them to the `WHDLoad-Games` folder using Directry Opus so then they are unpacked properly, if you do not then you will have problems with scaning the games in Tiny Lanucher and running them.
+
+
+DO NOT use Winrar to unpack WHDLoad Games in LHA formate, you will mess them up and they will not load.
 
 
 More FAQ comming soon.
