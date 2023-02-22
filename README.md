@@ -95,13 +95,17 @@ You can use PCUAEManager and installing it that way and its modes: [Download PCU
 Where The Name Came From:
 =============================
 
-"It all started with mounting over the games on the carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB(named after Carousel USB Chooser)... :), the first mode I added was Vice Mode and then the Carousel Gamelist Changer scripts became PCU Mode named after its name abrivated then PCUAE Mode."
+"It all started with mounting over the games on thec64 carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB(named after Carousel USB Chooser)... :), the first mode I added was Vice Mode and then the Carousel Gamelist Changer scripts became PCU Mode named after its name abrivated then changed to PCUAE Mode."
 
 
 FAQ
 =====
 
-If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its Menu+Left Triangle Button or on THEA500 Mini - Menu+B(Blue) buttons or on THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3, this will not work on PCUAE Mode cause your already in the mode, this only works on any other Mode.
+If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its:
+Menu+Left Triangle Button.
+On THEA500 Mini - Menu+B(Blue) buttons.
+On THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3, 
+this will not work on PCUAE Mode cause your already in the mode, this only works on any other Mode... :)
 
 
 You can load other programs made for THEA500 Mini in PCUAE by puting them in the THEA500-USB-MENU folder, that where THEA500 Mini USB Drive root is now and you can add games too, ahl files can be put into THEA500-Games folder in the THEA500-USB-MENU folder.
