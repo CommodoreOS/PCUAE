@@ -201,15 +201,15 @@ How do you add games to AMIGA Mode
 ===============================
 
 
-PCUAE will have a new folder in PCUAE 3.1.0 that is for Amiga Games only and you be able to put the game files in so not in a HDF file not you will need to use `WinUAE` to copy them to the folder.
+PCUAE will have a new folder in PCUAE 3.1.0 that is for Amiga Games only and you be able to put the game files in a HDF file so you will need to use `WinUAE` to copy them to the HDF file to add more and the HDF file is 1.95GB.
 Download `WinUAE` from here, you can use the latest version... https://www.winuae.net/download/
 
 
-PCUAE will have a folder in it called `WHDLoad-Games` on the root of the USB Drive, this is where you put your Amiga games but you can not use Windows and copy them over, it will not load the games that way, you have to load Workbench in `WinUAE` and then add the `WHDLoad-Games` folder first then copy them over that way.
-Add the WHDLoad games that are in ahl format in `WinUAE` so put them in a folder and then add the folder to `WinUAE` and then extrack them to the `WHDLoad-Games` folder using Directry Opus so then they are unpacked properly, if you do not then you will have problems with scaning the games in Tiny Lanucher and running them.
+PCUAE will have a folder in it called `WHDLoad-Games` on the root of the USB Drive, it will have a HDF file in it, this is where you put your Amiga games, you have to load Workbench in `WinUAE` and then add the `WHDLoad-Games-1.hdf` file first then copy them over that way.
+Add the `WHDLoad` Games that are in `LHA` format in `WinUAE` so put them in a folder and then add the folder to `WinUAE` and then extrack them to the `WHDLoad-Games-1.hdf` drive that will be in the `WHDLoad-Games` folder using Directry Opus so then they are unpacked properly.
 
 
-DO NOT use Winrar to unpack WHDLoad Games in LHA formate, you will mess them up and they will not load.
+DO NOT use Winrar to unpack WHDLoad Games in LHA format, you will mess them up and they will not load.
 
 
 More FAQ comming soon.
