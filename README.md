@@ -98,7 +98,7 @@ Where The Name Came From:
 "It all started with mounting over the games on the carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB(named after Carousel USB Chooser)... :), the first mode I added was Vice Mode and then the Carousel Gamelist Changer scripts became PCU Mode named after its name abrivated then PCUAE Mode."
 
 
-TIPS
+FAQ
 =====
 
 If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its Menu+Left Triangle Button or on THEA500 Mini - Menu+B(Blue) buttons or on THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3, this will not work on PCUAE Mode cause your already in the mode, this only works on any other Mode.
@@ -183,10 +183,6 @@ Menu+Home - Restart - Reset the Mode its on.
 
 Menu+RSB - Quick Switch - Switch between Amiberry 3.3 and 5.3 and back in the carousel.
 
-
-
-FAQ
-==============
 
 
 How do I add games to AMIGA Mode
