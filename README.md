@@ -185,6 +185,25 @@ Menu+RSB - Quick Switch - Switch between Amiberry 3.3 and 5.3 and back in the ca
 
 
 
+FAQ
+==============
+
+
+How do I add games to AMIGA Mode
+===============================
+
+
+PCUAE will have a folder in it called `WHDLoad-Games` on the root of the USB Drive, this is where you put your Amiga games but you can not use Windows and copy them over, it will not load the games that way, you have to mount Workbench in WinUAE and the folder first then copy them over that way.
+Mount the WHDLoad games that are in ahl format in WinUAE so put them in a folder and thewn add the folder to WinUAE and then exstack them to the `WHDLoad-Games` folder so then they are unpacked properly, if you do not then you will have problems with scaning the games in Tiny Lanucher and running them.
+
+
+DO NOT use Winrar to unpack WHDLoad Games in LHA formate, you will mess them up and they will not load.
+
+
+More FAQ comming soon.
+
+
+
 PCUAE License
 ==============
 
