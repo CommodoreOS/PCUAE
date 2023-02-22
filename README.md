@@ -103,8 +103,11 @@ FAQ
 
 If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its:
 Menu+Left Triangle Button.
+
 On THEA500 Mini - Menu+B(Blue) buttons.
+
 On THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3, 
+
 this will not work on PCUAE Mode cause your already in the mode, this only works on any other Mode... :)
 
 
@@ -119,22 +122,24 @@ What are the PCUAE Shortcut Key Combinations
 =======================
 
 
-For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at section 12 of the WIKI or THE PCUAE PDF Manual. CTRL and the F Keys – Press and Hold Down the CTRL key and then press the F key you want to use for 2 seconds in PCUAE Mode below.
+For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at section 12 of the WIKI.
+
+How To - Press and Hold Down the CTRL key and then press the key you want to use for 2 seconds in PCUAE Mode below.
 
 
 CTRL+F1 – Carousel Gamelist Changer – Select one of the gamelist on the screen to load in the Carousel - Not Available on THEA500 yet.
 
 
-CTRL+F3 – Carousel Version Changer – Change to a different carousel version(1.0.5,1.6.1 or 1.0.0,1.1.1) and CD32(Pro Only) and ADF Modes on THEA500. 
+CTRL+F3 – Carousel Version Changer – Change to a different carousel version 1.0.5,1.6.1 THEC64 or 1.0.0,1.1.1 THEA500.
 
 
-CTRL+F5 – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch, VICE Modes). 
+CTRL+F5 – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch, VICE Modes.. etc). 
 
 
 CTRL+F7 – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
 
 
-CTRL+RESTORE – Reboot the Machine(CTRL+END on THEA500 Mini on a USB Keyboard) – This makes the machine reboot, not the emulator – Just reboots, nothing special, you never know when you need a reboot/reset button… 🙂 and it saves on you pressing the power button all the time and wearing the power button out, thats why I added it.
+CTRL+RESTORE – Reboot the Machine(CTRL+END on THEA500 Mini on a USB Keyboard) – This makes the machines reboot, not the emulator – Just reboots, nothing special, you never know when you need a reboot/reset button… 🙂 and it saves on you pressing the power button all the time and wearing the power button out, thats why I added it.
 
 
 (THEA500)CTRL+LEFT ALT+DEL, (PCUAE)CTRL+LEFT SHIFT+DEL - Shutdown, this will power off the machine, I added it cause I was sick of pulling the power cable out all the time on THEA500 Mini, it dose not shuttdown without the carousel running, if you press and HOLD the power button, if you hold it for more then 7 seconds it makes it do a restart and not power off(werid).
@@ -161,6 +166,7 @@ Menu+Right Fire 2 Button – PCUAE Options Menu – A menu with options in it fo
 
 (Comming Soon)
 Menu+C - Quick Restart - Reboot THEC64 and Activate the PAL/NTSC Video Screen on TheCarousel v1.6.1 only(not avalible on v1.0.5).
+I found out this only works on THEC64 Mini not THEC64, it makes the Languges come up but the PAL/NTSC Video screen is not showing, I think its because its not seeing the HDMI so it works on THEC64 Mini cause it can not see disp device so can not deteck the HDMI signal, I think it has to do with this line `mv /dev/disp /dev/disp-not` I keep digging.
 
 
 What are THEA500 THEGAMEPAD Button Combinations
