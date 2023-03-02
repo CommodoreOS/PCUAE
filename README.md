@@ -1,4 +1,4 @@
-# Original Name - On 14 April 2020 - **Project Carousel USB** 
+Original Name - On 14 April 2020 - `***Project Carousel USB***`
 
 On the 9th October 2020, renamed to - **Project Carousel USB: Anniversary Edition** 
 
