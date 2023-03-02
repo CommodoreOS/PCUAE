@@ -15,11 +15,12 @@ And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a l
 If you are having a problem with PCUAE running properly then use this version, its only for THEC64 Models so not for THEA500, it was made before it... https://github.com/CommodoreOS/PCUAE/releases/tag/v1.8.5bf10
 
 
-I hope if everything goes to plan, that the next version will be relased soon(PCUAE 3.1.0), Figners Crossed, I am just trying to make sure everything works before I release it... :) Added ADF Mode now so it works with THEC64, just adding ScummVM Mode so THEA500 Mini, I have added everything it needas I think, I my need libaries when I ru it, it will say there is one missing or its menu will come up, Ihope... :)
+I hope if everything goes to plan, that the next version will be relased soon(PCUAE 3.1.0), Figners Crossed, I am just trying to make sure everything works before I release it... :) Added ADF Mode now so it works with THEC64, just adding ScummVM Mode to THEA500 Mini, I have added everything it needs I think, it might need libraries(Dependances) when I run it, it will say there is one missing or its menu will just come up, I hope... :)
 
 
-PCUAE Sites have now been closed down, sorry about this but its the best way forward, PCUAE does not really need a website, it creates more work so have to keep it up todate and that so then have to work on that too and PCUAE too so do not have anytime for it, only time I have is used working on PCUAE, thats was the problem with the website before so do not want that to happen again.
+PCUAE Sites have now been closed down, sorry about this but its the best way forward, PCUAE does not really need a website, it creates more work so have to keep it up todate and that so then have to work on that too and PCUAE too so do not have anytime for it, only time I have is used working on PCUAE, thats was the problem with the website before so do not want that to happen again and it got to big.
 
+I might make a new website at some point, just a place about PCUAE and how to use/download it and thats all it needs really, we will see.
 
 Any info or you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
 
