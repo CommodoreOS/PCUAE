@@ -117,7 +117,7 @@ Where The Name Came From:
 FAQ
 =====
 
-If you hear a echo when you have loaded the carousel in PCUAE, to fix it just press and hold CTRL and then prees down 0 to restart TheCarousel and it should sort it.
+If you hear a echo when you have loaded the carousel in PCUAE, to fix it just press and hold CTRL and then press down 0 to restart TheCarousel and it should fix it.
 
 
 If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its:
