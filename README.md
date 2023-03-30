@@ -1,10 +1,10 @@
 Original Name - On 14 April 2020 - `***Project Carousel USB***`
 
-On the 9th October 2020, renamed to - **Project Carousel USB: Anniversary Edition** 
+On the 9th October 2020, renamed to - `***Project Carousel USB: Anniversary Edition***`
 
 On THEC64 Mini NTSC 2 year Anniversary, 
 
-`Project` came from `Project Luna`, I was using `PL` on my `Sega Mega Drive Mini` at the time and it gave me the idea, and `Carousel USB` came from `Carousel USB Chooser` that Fabafox made for THEC64 that I later added to PCUAE
+`Project` came from `Project Luna`, I was using `PL` on my `Sega Mega Drive Mini` at the time and it gave me the idea, and `Carousel USB` came from `Carousel USB Chooser` that Fabafox made for THEC64 that I later added to `PCUAE`
 
 And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a lot easier... :)
 
@@ -14,6 +14,8 @@ And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a l
 
 If you are having a problem with PCUAE running properly then use this version, its only for THEC64 Models so not for THEA500, it was made before it... https://github.com/CommodoreOS/PCUAE/releases/tag/v1.8.5bf10
 
+NEW Beta out now of PCUAE 3.1.0, its here now...
+https://1drv.ms/u/s!AsiWKsjhQ2jelp1gAIvLVTHTgRMoMg?e=9UuUnu
 
 I hope if everything goes to plan, that the next version will be relased soon(PCUAE 3.1.0), Figners Crossed, I am just trying to make sure everything works before I release it... :) Added ADF Mode now so it works with THEC64, just adding ScummVM Mode to THEA500 Mini, I have added everything it needs I think, it might need libraries(Dependances) when I run it, it will say there is one missing or its menu will just come up, I hope... :)
 
