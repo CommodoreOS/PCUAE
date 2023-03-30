@@ -12,8 +12,6 @@ And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a l
 ![PCUAE SPLASH](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
 
-If you are having a problem with PCUAE running properly then use this version, its only for THEC64 Models so not for THEA500, it was made before it... https://github.com/CommodoreOS/PCUAE/releases/tag/v1.8.5bf10
-
 NEW Beta out now of PCUAE 3.1.0, its here now...
 https://1drv.ms/u/s!AsiWKsjhQ2jelp1gAIvLVTHTgRMoMg?e=9UuUnu
 
