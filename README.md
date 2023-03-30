@@ -19,8 +19,7 @@ https://1drv.ms/u/s!AsiWKsjhQ2jelp1gAIvLVTHTgRMoMg?e=9UuUnu
 
 I hope if everything goes to plan, that the next version will be relased soon(PCUAE 3.1.0), Figners Crossed, I am just trying to make sure everything works before I release it... :) Added ADF Mode now so it works with THEC64, just adding ScummVM Mode to THEA500 Mini, I have added everything it needs I think, it might need libraries(Dependances) when I run it, it will say there is one missing or its menu will just come up, I hope... :)
 
-
-PCUAE Sites have now been closed down, sorry about this but its the best way forward, PCUAE does not really need a website, it creates more work so have to keep it up todate and that so then have to work on that too and PCUAE too so do not have anytime for it, only time I have is used working on PCUAE, thats was the problem with the website before so do not want that to happen again and it got to big.
+New site finally here... https://projectcarouselusb.eu/
 
 I might make a new website at some point, just a place about PCUAE and how to use/download it and thats all it needs really, we will see.
 
