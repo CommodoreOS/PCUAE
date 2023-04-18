@@ -13,11 +13,9 @@ And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a l
 
 
 NEW RC1 out now of PCUAE 3.1.0, its here now...
-https://github.com/CommodoreOS/PCUAE/releases/download/v3.1.0/PCUAE-AIO-3.1.0-RC1.torrent
+https://github.com/CommodoreOS/PCUAE/releases/tag/v3.1.0
 
-I hope if everything goes to plan, that the next version will be relased soon(PCUAE 3.1.0), Figners Crossed, I am just trying to make sure everything works before I release it... :) Added ADF Mode now so it works with THEC64, just adding ScummVM Mode to THEA500 Mini, I have added everything it needs I think, it might need libraries(Dependances) when I run it, it will say there is one missing or its menu will just come up, I hope... :)
-
-New site finally here... https://projectcarouselusb.eu/
+New site finally here... https://projectcarouselusb.eu I changed my mind and we need a site for PCUAE, downloads are availble there and other goodies.. :) you have to be register to download files.
 
 I might make a new website at some point, just a place about PCUAE and how to use/download it and thats all it needs really, we will see.
 
