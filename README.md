@@ -12,8 +12,8 @@ And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a l
 ![PCUAE SPLASH](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
 
-NEW Beta out now of PCUAE 3.1.0, its here now...
-https://1drv.ms/u/s!AsiWKsjhQ2jelp1gAIvLVTHTgRMoMg?e=9UuUnu
+NEW RC1 out now of PCUAE 3.1.0, its here now...
+https://github.com/CommodoreOS/PCUAE/releases/download/v3.1.0/PCUAE-AIO-3.1.0-RC1.torrent
 
 I hope if everything goes to plan, that the next version will be relased soon(PCUAE 3.1.0), Figners Crossed, I am just trying to make sure everything works before I release it... :) Added ADF Mode now so it works with THEC64, just adding ScummVM Mode to THEA500 Mini, I have added everything it needs I think, it might need libraries(Dependances) when I run it, it will say there is one missing or its menu will just come up, I hope... :)
 
