@@ -38,19 +38,17 @@ WIKI is here, it might need updating so might not included new fetures or info o
 # New Stuff Added
 ==================
 
-
+I made some new boot screens now and they are now .rgba files, I maded a new boot screen for THEA500, so it say Retro Games THEA500 for 5 second then switches so it removes Retro Games and just Shows 
 I added some code so you see the Yellow Floppy Drive LED flash as PCUAE is loading on THEA500 Mini so you know its doing something... :)
 
 
-I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work out of the box if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64), I do not plan on buying one, no money and I have original Amigas(A500, A600 and A1200) already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
-
-Thinking about it now and if RGL make A1200 then maybe, the A600 and the A1200 are the best keyboard Amigas Commodore made and as well as the A3000 and A4000 Big Boxed Amigas... :) I think now RGL can now get the AMIGA name...why... Cloanto now own the right to its name but we will see.
+I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work straight out of the box, if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64 just smaller), I do not plan on buying one, no money and I have original Amigas(A500, A600 and A1200) already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
 
 
 TODO: Add emulators as Modes: Atari - ST, ScummVM(added), Master System, Mega Drive, MegaCD, DOOM.
 
 
-If you have any ideas you like me to try and add plaese post about them on here or on THEC64 Community Forum, I do look at them and sometimes add a idea to PCUAE, so all ideas are welcome because you never know... :)
+If you have any ideas you like me to try and add plaese post about them on THEC64 Community Forum, I do look at them and sometimes add a idea to PCUAE, so all ideas are welcome because you never know... :)
 
 
 
