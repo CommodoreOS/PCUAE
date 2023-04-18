@@ -40,11 +40,13 @@ I will always try to support PCUAE, but do need a break from it from time to tim
 WIKI is here, it might need updating so might not included new fetures or info on the new version of PCUAE - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
 
 # New Stuff Added
-==================
 
-I made some new boot screens now and they are now .rgba files, I maded a new boot screen for THEA500, so it say Retro Games THEA500 for 5 second then switches so it removes Retro Games and just Shows 
+I made some new boot screens now and they are now .rgba files, I made a new boot screen for THEA500 too, so it says `Retro Games` `THEA500` for 5 second then switches so it removes `Retro Games` and just shows `THEA500`
+
+
 I added some code so you see the Yellow Floppy Drive LED flash as PCUAE is loading on THEA500 Mini so you know its doing something... :)
 
+I have now added ScummVM Mode, you can add game into the THEA500
 
 I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work straight out of the box, if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64 just smaller), I do not plan on buying one, no money and I have original Amigas(A500, A600 and A1200) already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
 
@@ -226,7 +228,7 @@ Download `WinUAE` from here, you can use the latest version... https://www.winua
 
 
 PCUAE will have a folder in it called `WHDLoad-Games` on the root of the USB Drive, it will have a HDF file in it, this is where you put your Amiga games, you have to load Workbench in `WinUAE` and then add the `WHDLoad-Games-1.hdf` file first then copy them over that way.
-Add the `WHDLoad` Games that are in `LHA` format in `WinUAE` so put them in a folder and then add the folder to `WinUAE` and then extrack them to the `WHDLoad-Games-1.hdf` drive that will be in the `WHDLoad-Games` folder using Directry Opus so then they are unpacked properly.
+Add the `WHDLoad` Games that are in `LHA` format in `WinUAE` so put them in a folder and then add the folder to `WinUAE` and then extract them to the `WHDLoad-Games-1.hdf` drive that will be in the `WHDLoad-Games` folder using Directry Opus so then they are unpacked properly.
 
 
 DO NOT use Winrar to unpack WHDLoad Games in LHA format, you will mess them up and they will not load.
