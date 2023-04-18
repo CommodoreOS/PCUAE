@@ -9,46 +9,49 @@ On THEC64 Mini NTSC 2 year Anniversary,
 And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a lot easier... :)
 
 
-![PCUAE SPLASH](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
+![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
 
 NEW RC1 out now of PCUAE 3.1.0, its here now...
 https://github.com/CommodoreOS/PCUAE/releases/tag/v3.1.0
 
-New site finally here... https://projectcarouselusb.eu I changed my mind and we need a site for PCUAE, downloads are availble there and other goodies.. :) you have to be register to download files.
+Alot of work has gone in to this version to make sure eevrything runs as it should, thanks Davy for the help, PCUAE is to big for one person to work on, it would take to long to release it between versions.
+
+New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files, there is no nothing in PCUAE that not alowed to be in there.
 
 I might make a new website at some point, just a place about PCUAE and how to use/download it and thats all it needs really, we will see.
 
-Any info or you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
+If ou want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
 
 
 "PCUAE now contains host-rum from the Pandory500 mod"... https://github.com/emuchicken/pandory-a500
 
 
-It will from now on include host-rum.adf file from Pandory so it can boot PCUAE using it, thanks Dajoho and Team Pandory.
-
-
-So this is the only version thats available now and older versions but they are before THEA500 was added.
+It will from now on include host-rum.adf file from Pandory so it can boot PCUAE using it, thanks Dajoho and Team Pandory for alowing me to use it... :)
 
 
 I will always try to support PCUAE, but do need a break from it from time to time... :)
 
 
-WIKI - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
+WIKI is here, it might need updating so might not included new fetures or info on the new version of PCUAE - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
+
+# New Stuff Added
+==================
 
 
-Coming soon in next version - I added some code so you see the Green Hard Drive LED flash as PCUAE is loading on THEA500 Mini so you know its doing something... :)
+I added some code so you see the Yellow Floppy Drive LED flash as PCUAE is loading on THEA500 Mini so you know its doing something... :)
 
 
-I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work out of the box if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64), I do not plain on buying one, no money and I have full sized Amigas already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
-
+I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work out of the box if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64), I do not plan on buying one, no money and I have original Amigas(A500, A600 and A1200) already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
 
 Thinking about it now and if RGL make A1200 then maybe, the A600 and the A1200 are the best keyboard Amigas Commodore made and as well as the A3000 and A4000 Big Boxed Amigas... :) I think now RGL can now get the AMIGA name...why... Cloanto now own the right to its name but we will see.
 
 
-TODO: Add emulators as Modes: Atari - ST, ScummVM, Master System, Mega Drive, MegaCD, DOOM.
+TODO: Add emulators as Modes: Atari - ST, ScummVM(added), Master System, Mega Drive, MegaCD, DOOM.
 
-If you have any idea you like me to try and add plaese post about them on here or on THEC64 Community Forum.
+
+If you have any ideas you like me to try and add plaese post about them on here or on THEC64 Community Forum, I do look at them and sometimes add a idea to PCUAE, so all ideas are welcome because you never know... :)
+
 
 
 # HELP READ ME
@@ -57,14 +60,15 @@ If you have any idea you like me to try and add plaese post about them on here o
 # Key Highlights of PCUAE:
 
 
-PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called the `Autoboot Mode Start-Up Script`, its in the boot folder on the PCUAE USB Drive and called `autobootfirmware.sh` and its sent to the `int.d` folder in the firmware, the same place its script is that tells it to run the carousel when the console starts up, and is the only thing that is copied to the fimware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from start up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware from start up.
-You can remove the Autoboot Start-Up Script if you wish too, you can add it or remove it, you remove it using The Mode Changer Menu or PCUAE Options Menu.
+PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called the `Autoboot Mode Start-Up Script`(the script is part of Autoboot Mode), its in the boot folder on the PCUAE USB Drive and called `autobootfirmware.sh` and its sent to the `int.d` folder in the firmware, the same place its script is that tells it to run the carousel when the console starts up, its the Linux boot folder and is the only thing that is copied to the firmware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from start up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware carousel from start up.
+
+You can remove the Autoboot Start-Up Script if you wish too, you can add it or remove it, you remove it using The Mode Changer Menu or PCUAE Options Menu using PCUAE REMOVER, its now included in the PCUAE Startup Autoboot Mode.ahi in the Carousel USB Media Menu on THEA500 or in the Fake Update on THEC64 Mini/THEC64 and THEVIC20.
 
 
 You can find me on YouTube too under Retronuts and on there are some videos of PCUAE - YouTube channel is here - https://www.youtube.com/channel/UCrG1jnbvykIcLzfBFxC2GrA 
 
 
-(Do not watch youtube videos from a phone or the Youtube app, you will get loads of adds, they play on youtube like every 10/15 minutes or so and cut into the video, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on Youtube add free.. :) )
+(Do not watch youtube videos from a phone or the Youtube app, you will get loads of advertisments, they play on youtube like every 10/15 minutes or so and cut into the video like your watching a TV Channel, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on Youtube add free.)
 
 
 You can run each Mode from StartUp cause PCUAE can Autoboot itself with Autoboot Mode and its Start-Up Script.
@@ -103,14 +107,14 @@ You can use PCUAEManager and installing it that way and its modes: [Download PCU
 
 
 
-Where The Name Came From:
-=============================
+# Where The Name Came From:
+
 
 "It all started with mounting over the games on thec64 carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB(named after Carousel USB Chooser)... :), the first mode I added was Vice Mode and then the Carousel Gamelist Changer scripts became PCU Mode named after its name abrivated then changed to PCUAE Mode."
 
 
-FAQ
-=====
+# FAQ
+
 
 If you hear a echo when you have loaded the carousel in PCUAE, to fix it just press and hold CTRL and then press down 0 to restart TheCarousel and it should fix it.
 
@@ -132,8 +136,8 @@ If the program needs Firmware v1.0.0 then use Carousel Version Changer to change
 
 
 
-What are the PCUAE Shortcut Key Combinations
-=======================
+# What are the PCUAE Shortcut Key Combinations
+
 
 
 For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at section 12 of the WIKI.
@@ -160,8 +164,8 @@ CTRL+RESTORE – Reboot the Machine(CTRL+END on THEA500 Mini on a USB Keyboard) 
 
 
 
-What are THEC64 Joystick Button Combinations
-======================================
+
+# What are THEC64 Joystick Button Combinations
 
 
 Menu, Fire and the Triangle buttons – Press and Hold the Menu Button and then press the Left Fire, Right Fire or the Left, Right Triangle buttons you want to use for 2 seconds in PCUAE Mode, this makes it easier for you use PCUAE mode on THEC64 Mini, THEC64 Joystick now works in the menus on THEC64 Mini too now.
@@ -185,8 +189,9 @@ Menu+C - Quick Restart - Reboot THEC64 and Activate the PAL/NTSC Video Screen on
 I found out this only works on THEC64 Mini not THEC64, it makes the Languges come up but the PAL/NTSC Video screen is not showing, I think its because its not seeing the HDMI so it works on THEC64 Mini cause it can not see disp device so can not detect the HDMI signal, I think it has to do with this line `mv /dev/disp /dev/disp-not` I keep digging.
 
 
-What are THEA500 THEGAMEPAD Button Combinations
-===============================
+
+
+# What are THEA500 THEGAMEPAD Button Combinations
 
 
 Press and Hold the Menu Button and then press the A, X, Y or B buttons you want to use and hold both down for 2 seconds.
@@ -211,8 +216,7 @@ Menu+RSB - Quick Switch - Switch between Amiberry 3.3 and 5.3 and back in the ca
 
 
 
-How do you add games to AMIGA Mode
-===============================
+# How do you add games to AMIGA Mode
 
 
 PCUAE will have a new folder in PCUAE 3.1.0 that is for Amiga Games only and you be able to put the game files in a HDF file so you will need to use `WinUAE` to copy them to the HDF file to add more and the HDF file is 1.95GB.
@@ -230,8 +234,7 @@ More FAQ comming soon.
 
 
 
-PCUAE License
-==============
+# PCUAE License
 
 
 Project Carousel USB Anniversary Edition(PCUAE) by Spannernick, 
@@ -240,19 +243,17 @@ Project Carousel USB Anniversary Edition(PCUAE) by Spannernick,
 Idea by Spannernick, Carousel USB Chooser by FaberfoX(Carousel Gamelist Changer on THEC64), 
 
 
-Fake Update by jj0, cyanic and raxrip who created the firmware unpacker/packer that makes this possible on THEC64, 
+Load Carousel Games from the USB Drive using Carousel Gamelist Changer and C64 SID Music playing in the background, they change depending on what CGS is loaded, for only THEC64 Mini, THEC64 and THEVIC20, you can change it to a different set of games(Carousel Gamelists Screens - CGS) on TheCarousel.
 
+THEA500 Mini has been block from doing it by RGL so you can not add or do anything with THEA500 Mini's TheCarousel, it will never be possable to do anything with it, sorry this is not my fault, RGL has made the carousel on purpose this way, so you can not change its games so its impossable, this is why now the next machine do not interest me now, because they be doing this to all the machines(Devices) they make and you be stuck with the games on the carousel that you will hardly play becuase you can't change them, TheCarousel is just for show and made to make the GUI look nice and to sell it, there is no purpose to the carousel realy and its not future prove, once you played the games on it a few times then you will not use it more, if you could add games to it, it be more usefull, its kind of obvious and you have no need for a USB Media Menu on the machines.
 
-Load Carousel Games from the USB Drive using Carousel Gamelist Changer and have different carousel gamelists on TheCarousel(THEC64 Only at the moment), 
+You can change to different Modes(Emulators) on THEA500 Mini in PCUAE only but can not add games to its Carousel like you can with THEC64, RGL(Retro Games Ltd) have built the carousel this way on purpose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more but thats why they made the machines in the first place, to make money from it and I gueses to make sure they do not lose money, I would not care if anyone moded it cause it helps selling it, like what happen to the PS Classic, hacking made it a better console and users started to buy it cause of Bleemsync.
 
 
 JIFFYDOS 6 is included, 
 
 
-C64 SID Music playing in the background, plays different SID Music on each Carousel Gamelists on TheCarousel C64 0 to G, H to R and S to Z(THEC64 ONLY).
-
-
-**This is free for non commercial use - NOT to SELL**
+**This is free for non commercial use - NOT to SELL and will allways be FREE, if you have bought PCUAE from someone(eBay) ask for your money back**
 
 
 THEC64 Mini, THEC64, THEVIC20, THEA500 Mini - Copyright(c) 2022 RETRO GAMES LTD - https://retrogames.biz
@@ -268,9 +269,6 @@ PCUAE Manager on Github - https://thec64community.online/thread/603/pcuae-manage
 
 
 PCUAE WIKI is here, it should answer any questions you might have about PCUAE.. https://github.com/CommodoreOS/PCUAE/wiki
-
-
-You can change to different Modes(Emulators) on THEA500 Mini in PCUAE only but can not add games to its Carousel like you can with THEC64, RGL(Retro Games Ltd) have built the carousel this way on purpose so you can not add games to its carousel, proberly cause they are thinking about how much money they are making from THEA500 more but thats why they made the machines in the first place, to make money from it and I gusess to make sure they do not lose money, I would not care if anyone moded it cause it helps selling it, like what happen to the PS Classic, hacking made it a better console and users started to buy it cause of Bleemsync.
 
 
 ANYWAY....PEACE PEOPLE... :) and Enjoy using PCUAE.
