@@ -17,11 +17,15 @@ https://github.com/CommodoreOS/PCUAE/releases/tag/v3.1.0
 
 Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy for the help, fixing scripts and that, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
 
-New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files, there is no nothing in PCUAE that not alowed to be in there.
+New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files, there is now nothing in PCUAE that not allowed to be in it, all software like AGS, Pandory and AMiNIMiga is not included, you have to add themy yourselfs to THEA500-USB-MENU folder.
 
-I might make a new website at some point, just a place about PCUAE and how to use/download it and thats all it needs really, we will see.
 
-If ou want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
+AMiNIMiga has now been completely removed, it was to hard to keep updated, I desided to remove it completely when Amiga Workbench was removed from it, to hard to instil all of it in PCUAE and keeping its startup script working with it.
+
+You can still add it to the THEA500-USB-MENU and it will run just no option to run it from startup.
+
+
+If you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
 
 
 "PCUAE now contains host-rum from the Pandory500 mod"... https://github.com/emuchicken/pandory-a500
