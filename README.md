@@ -15,7 +15,7 @@ And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a l
 NEW RC1 out now of PCUAE 3.1.0, its here now...
 https://github.com/CommodoreOS/PCUAE/releases/tag/v3.1.0
 
-Alot of work has gone in to this version to make sure eevrything runs as it should, thanks Davy for the help, PCUAE is to big for one person to work on, it would take to long to release it between versions.
+Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy for the help, fixing scripts and that, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
 
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files, there is no nothing in PCUAE that not alowed to be in there.
 
