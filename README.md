@@ -41,7 +41,15 @@ WIKI is here, it might need updating so might not included new fetures or info o
 
 # New Stuff Added
 
-I made some new boot screens now and they are now .rgba files, I made a new boot screen for THEA500 too, so it says `Retro Games` `THEA500` for 5 second then switches so it removes `Retro Games` and just shows `THEA500`
+
+PCUAE comes with its own menu now called `PCUAE Download Menu`, you download it when you download PCUAE in PCUAE Manager(just follow what it says when you download it), you can now download different versions of PCUAE so like `PCUAE All In One(PCUAE AIO)`, `PCUAE for THEC64` or `PCUAE for THEA500`, `Modes for THEA500`, `PCUAE THEA500 Amiga CD32 Mode`, you download them via BitTorrent, it comes with Qbittorrent so you can install it if you do not have bittorrent installed yourself, if you do then you do not need to install it.
+
+I made the `PCUAE Download Menu` to make it easier to download different version of PCUAE instead of just having one version on here.
+
+
+I made some new boot screens now and they are now .rgba files, I made a new boot screen for THEA500 too, so it says `Retro Games` `THEA500` for 5 second then switches so it removes `Retro Games` and just shows `THEA500`, all boot screens are now updated.
+
+It will now show what Mode is loading on the PCUAE boot screen `Now Loading, AMIGA Mode...` under the `Project Carousel USB Anniversay Edition` Boot screen.
 
 
 I added some code so you see the Yellow Floppy Drive LED flash as PCUAE is loading on THEA500 Mini so you know its doing something... :)
