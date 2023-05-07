@@ -44,6 +44,10 @@ WIKI is here, it might need updating so might not included new fetures or info o
 
 PCUAE comes with its own menu now called `PCUAE Download Menu`, you download it when you download PCUAE in PCUAE Manager(just follow what it says when you download it), you can now download different versions of PCUAE so like `PCUAE All In One(PCUAE AIO)`, `PCUAE for THEC64` or `PCUAE for THEA500`, `Modes for THEA500`, `PCUAE THEA500 Amiga CD32 Mode`, you download them via BitTorrent, it comes with Qbittorrent so you can install it if you do not have bittorrent installed yourself, if you do then you do not need to install it.
 
+
+You can now download `Amiga Games Selector A500 v2.0` and `Pandory A500` as links in the menu too, when you download them just copy there files from there .zip file to `THEA500-USB-MENU` folder and thats it, you should then see them when you load up `PCUAE Mode`, you can `autoboot` them from startup using the `Mode Changer Menu`.
+
+
 I made the `PCUAE Download Menu` to make it easier to download different version of PCUAE instead of just having one version on here.
 
 
