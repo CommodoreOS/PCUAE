@@ -12,15 +12,18 @@ And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a l
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
 
-NEW RC1 out now of PCUAE 3.1.0, its here now...
-https://github.com/CommodoreOS/PCUAE/releases/tag/v3.1.0
+NEW RC1 out now of PCUAE 3.1.0, releases are here...
+[https://github.com/CommodoreOS/PCUAE/releases](https://github.com/CommodoreOS/PCUAE/releases)
 
 Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy for the help, fixing scripts and that, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
 
-New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files, there is now nothing in PCUAE that not allowed to be in it, all software like AGS, Pandory and AMiNIMiga is not included, you have to add themy yourselfs to THEA500-USB-MENU folder.
+New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, there is now nothing in PCUAE that not allowed to be in it, all software likeAmiga Games Selector and Pandory for THEA500 is not included but you can download them in the PCUAE Menu using there download links, you have to add them yourselfs to `THEA500-USB-MENU folder`, thats really easy to do, you just unpack them to the `THEA500-USB-MENU folder` once they have been downloaded via the PCUAE Menu.
 
 
-AMiNIMiga has now been completely removed, it was to hard to keep updated, I desided to remove it completely when Amiga Workbench was removed from it, to hard to instil all of it in PCUAE and keeping its startup script working with it.
+AMiNIMiga has now been completely removed, it was to hard to keep updated, I desided to remove it completely when Amiga Workbench was removed from it, becouse you need Workbench to run it and it can not be set up to run normally, be cause of copyright issues, this is why I do not agree with Cloanto owning old 68k Amiga copyright when Workbench 1.0 to 3.1 and Kickstarts from 1.0 to 3.1 should be free now, Cloanta do not get a lot of money from the 68k Amiga thats 30 years old now.
+Jimmy need to do a deal with Cloanto(they are called Amiga Corporation now(I find that werid, becouse they sell the Amiga copyright to other companies)
+I do not like companies only interested in making money from Amiga copyright and thats the only reason why they have it to just make money from it, like Cloanto, I think everyone should now stop buying Amiga Forever, I will never buy another version of it again, it just feeds the copyright problem, the C64 Kernal roms were free at one time too but are not now cause of Cloanto owning the C64 Kernal thats in the C64 Forever, they use to come with VICE Emulator but they don't no more cause of Cloato copyright.
+
 
 You can still add it to the THEA500-USB-MENU and it will run just no option to run it from startup.
 
