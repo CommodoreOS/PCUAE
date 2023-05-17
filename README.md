@@ -28,10 +28,12 @@ THIS IS PCUAE DOWNLOAD MENU SO YOU CAN DOWNLOAD DIFERENT VERSIONS OF PCUAE.
 IT WILL AUTOLOAD THE MENU WHEN YOU HAVE INSTALLED IT TO THE C: DRIVE IN WINDOWS.
 
 
-New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, there is now nothing in PCUAE that not allowed to be in it, all software likeAmiga Games Selector and Pandory for THEA500 is not included but you can download them in the PCUAE Menu using there download links, you have to add them yourselfs to `THEA500-USB-MENU folder`, thats really easy to do, you just unpack them to the `THEA500-USB-MENU folder` once they have been downloaded via the PCUAE Menu.
+New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site.
+
+There is now nothing in PCUAE that not allowed to be in it, all software like `Amiga Games Selector` and `Pandory for THEA500` is not included but you can download them in the PCUAE Menu using there download links, you have to add them yourself to `THEA500-USB-MENU folder`, thats really easy to do, `you just unpack there .ZIP file` to the `THEA500-USB-MENU folder` once they have been downloaded via the `PCUAE Menu` and they are then installed.
 
 
-`AMiNIMiga` has now been completely removed, I decided to remove it completely when `Amiga Workbench 3.1` was removed from THEA500 version, because you need the `Workbench 3.1 disks` now to run it and it can not be set up to run normally like a `Workbench`, `Cloanto` proberly asked him to remove it.
+`AMiNIMiga` has now been completely removed, I decided to remove it completely when `Amiga Workbench 3.1` was removed from THEA500 version, because you need the `Workbench 3.1 disks` now to run it and it can not be set up to run normally like a `Workbench`, `Cloanto` proberly asked him to remove it, its proberly on to many systems thats why, I think it would of been different of it was only on THEA500 only.
 
 
 `Cloanto` are called `Amiga Corporation` now, I find that werid, they proberly changed there name so they can sell the `Amiga copyright and Games from Amiga Forever` to other companies, now they own all of it.
