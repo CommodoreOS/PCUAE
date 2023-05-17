@@ -23,7 +23,10 @@ New site finally here... https://projectcarouselusb.eu I changed my mind about h
 AMiNIMiga has now been completely removed, I decided to remove it completely when Amiga Workbench 3.1 was removed from it, because you need the Workbench 3.1 disks now to run it and it can not be set up to run normally like a Workbench.
 
 
-Jimmy need to do a deal with Cloanto(they are called Amiga Corporation now(I find that werid, changed there name so they can sell the Amiga copyright and games to other companies)
+Jimmy need to do a deal with Cloanto to add Workbench to 3.1 but AMiNIMiga is proberly not to big and is only to many systens, it would of proberly been OK if it was just for THEA500, this what happens when things become popular.
+
+
+Cloanto are called Amiga Corporation now, I find that werid, they proberly changed there name so they can sell the Amiga copyright and games to other companies, now they own all of it.
 
 Ever woundered why VICE Emulator for Windows do not come with the C64 kernal roms no more..? the C64 Kernal roms were free at one time too but are not now because of Cloanto owning the C64 Kernal Roms copyright thats in C64 Forever, thats why THEC64 has Cloanto on its box, RGL had to pay them to use the C64 Kernal Roms in there machines.
 
