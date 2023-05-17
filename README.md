@@ -20,7 +20,7 @@ Alot of work has gone in to this version to make sure everything runs as it shou
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, there is now nothing in PCUAE that not allowed to be in it, all software likeAmiga Games Selector and Pandory for THEA500 is not included but you can download them in the PCUAE Menu using there download links, you have to add them yourselfs to `THEA500-USB-MENU folder`, thats really easy to do, you just unpack them to the `THEA500-USB-MENU folder` once they have been downloaded via the PCUAE Menu.
 
 
-AMiNIMiga has now been completely removed, I decided to remove it completely when Amiga Workbench 3.1 was removed from it, because you need the Workbench 3.1 disks now to run it and it can not be set up to run normally like a Workbench.
+AMiNIMiga has now been completely removed, I decided to remove it completely when Amiga Workbench 3.1 was removed from it, because you need the Workbench 3.1 disks now to run it and it can not be set up to run normally like a Workbench, Cloanto proberly asked him to remove it.
 
 
 Cloanto are called Amiga Corporation now, I find that werid, they proberly changed there name so they can sell the Amiga copyright and games to other companies, now they own all of it.
