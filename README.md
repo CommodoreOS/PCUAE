@@ -27,7 +27,7 @@ THIS IS PCUAE DOWNLOAD MENU SO YOU CAN DOWNLOAD DIFERENT VERSIONS OF PCUAE.
 
 IT WILL AUTOLOAD THE MENU WHEN YOU HAVE INSTALLED IT TO THE C: DRIVE IN WINDOWS.
 
-![PCUAE MENU1](https://thec64community.online/attachment/download/747)
+![PCUAE MENU1](https://thec64community.online/attachment/download/747/Screenshot 2023-05-17 004927.jpg)
 
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site.
 
