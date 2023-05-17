@@ -17,6 +17,17 @@ NEW RC5 out now of PCUAE 3.1.0, releases are here...
 
 Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy for the help, fixing scripts and that, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
 
+Please read this below...
+
+IMPORTANT
+==========
+INSTALL PCUAE-MAIN_AIO-3.1.0-RC5-DOWNLOADER3.exe TO YOUR C: DRIVE, THIS IS NOT PCUAE.
+
+THIS IS PCUAE DOWNLOAD MENU SO YOU CAN DOWNLOAD DIFERENT VERSIONS OF PCUAE.
+
+IT WILL AUTOLOAD THE MENU WHEN YOU HAVE INSTALLED IT TO THE C: DRIVE IN WINDOWS.
+
+
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, there is now nothing in PCUAE that not allowed to be in it, all software likeAmiga Games Selector and Pandory for THEA500 is not included but you can download them in the PCUAE Menu using there download links, you have to add them yourselfs to `THEA500-USB-MENU folder`, thats really easy to do, you just unpack them to the `THEA500-USB-MENU folder` once they have been downloaded via the PCUAE Menu.
 
 
