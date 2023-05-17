@@ -19,6 +19,8 @@ Please read this below...
 
 IMPORTANT
 ==========
+You might need to disable your Antivirus while running this because it might delete the PCUAE update.exe inside the menu so just disable it when you riun PCUAE Manager and download PCUAE Menu, Defender on Windows removes it and you have restore it, it a false positive so has no virus in it.
+
 INSTALL PCUAE-MAIN_AIO-3.1.0-RC5-DOWNLOADER3.exe TO YOUR C: DRIVE, THIS IS NOT PCUAE.
 
 THIS IS PCUAE DOWNLOAD MENU SO YOU CAN DOWNLOAD DIFFERENT VERSIONS OF PCUAE.
