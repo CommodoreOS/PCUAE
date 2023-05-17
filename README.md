@@ -1,8 +1,6 @@
 Original Name - On 14 April 2020 - `***Project Carousel USB***`
 
-On the 9th October 2020, renamed to - `***Project Carousel USB: Anniversary Edition***`
-
-On THEC64 Mini NTSC 2 year Anniversary, 
+On the 9th October 2020, renamed to - `***Project Carousel USB: Anniversary Edition***` on THEC64 Mini NTSC 2 year Anniversary.
 
 `Project` came from `Project Luna`, I was using `PL` on my `Sega Mega Drive Mini` at the time and it gave me the idea, and `Carousel USB` came from `Carousel USB Chooser` that Fabafox made for THEC64 that I later added to `PCUAE`
 
