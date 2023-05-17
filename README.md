@@ -32,6 +32,8 @@ IT WILL AUTOLOAD THE MENU WHEN YOU HAVE INSTALLED IT TO THE C: DRIVE IN WINDOWS.
 
 
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site.
+
+
 Showing the file has a virus but a false positive, anitviuses allways says it has the same virus(Trojan:Script/Wacatac.H!ml) when it don't have one, it because it can see scripts in it and its getting confused, if it looked properly it would see the scrits are for Linux only not Windows.
 ![PCUAE VIRUS NOT](https://i.ibb.co/72PWzd7/Screenshot-2023-05-17-215743.jpg)
 
