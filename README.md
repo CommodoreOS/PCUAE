@@ -21,8 +21,12 @@ New site finally here... https://projectcarouselusb.eu I changed my mind about h
 
 
 AMiNIMiga has now been completely removed, it was to hard to keep updated, I decided to remove it completely when Amiga Workbench 3.1 was removed from it, because you need the Workbench to run it and it can not be set up to run normally, because of copyright issues, this is why I do not agree with Cloanto owning old 68k Amiga copyright when Workbench/Kickstarts 1.0 to 3.1 should be free now, Cloanto do not get a lot of money from the 68k Amiga thats 30 years old now.
+
+
 Jimmy need to do a deal with Cloanto(they are called Amiga Corporation now(I find that werid, changed there name so they can sell the Amiga copyright and games to other companies)
 I do not like companies only interested in making money from Amiga 68k copyright and thats the only reason why they have it to just make money from it, like Cloanto, I think everyone should now stop buying Amiga Forever, I will never buy another version of it again or a product with Cloanto on its box, it just feeds the copyright problem.
+
+
 Ever woundered why VICE Emulator for Windows do not come with the C64 kernal roms no more..? the C64 Kernal roms were free at one time too but are not now cause of Cloanto owning the C64 Kernal Roms copyright thats in C64 Forever, they use to come with VICE Emulator but they don't no more cause of Cloato copyright, thats why THEC64 has Clanto on its box, RGL had to pay them to use the C64 Kernal Roms in the machines.
 
 
