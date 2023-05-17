@@ -27,10 +27,10 @@ Jimmy need to do a deal with Cloanto(they are called Amiga Corporation now(I fin
 I do not like companies only interested in making money from Amiga 68k copyright and thats the only reason why they have it to just make money from it, like Cloanto, I think everyone should now stop buying Amiga Forever, I will never buy another version of it again or a product with Cloanto on its box, it just feeds the copyright problem.
 
 
-Ever woundered why VICE Emulator for Windows do not come with the C64 kernal roms no more..? the C64 Kernal roms were free at one time too but are not now cause of Cloanto owning the C64 Kernal Roms copyright thats in C64 Forever, they use to come with VICE Emulator but they don't no more cause of Cloato copyright, thats why THEC64 has Clanto on its box, RGL had to pay them to use the C64 Kernal Roms in the machines.
+Ever woundered why VICE Emulator for Windows do not come with the C64 kernal roms no more..? the C64 Kernal roms were free at one time too but are not now cause of Cloanto owning the C64 Kernal Roms copyright thats in C64 Forever, they use to come with VICE Emulator but they don't no more cause of Cloato copyright, thats why THEC64 has Cloanto on its box, RGL had to pay them to use the C64 Kernal Roms in the machines.
 
 
-You can still add it to the THEA500-USB-MENU and it will run just no option to run it from startup.
+You can still add AMiNIMiga to the THEA500-USB-MENU and it will run just no option to run it from startup but the buitin Workbenches are just as good.
 
 
 If you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
