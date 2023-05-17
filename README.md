@@ -20,15 +20,15 @@ Alot of work has gone in to this version to make sure everything runs as it shou
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, there is now nothing in PCUAE that not allowed to be in it, all software likeAmiga Games Selector and Pandory for THEA500 is not included but you can download them in the PCUAE Menu using there download links, you have to add them yourselfs to `THEA500-USB-MENU folder`, thats really easy to do, you just unpack them to the `THEA500-USB-MENU folder` once they have been downloaded via the PCUAE Menu.
 
 
-AMiNIMiga has now been completely removed, I decided to remove it completely when Amiga Workbench 3.1 was removed from it, because you need the Workbench 3.1 disks now to run it and it can not be set up to run normally like a Workbench, Cloanto proberly asked him to remove it.
+`AMiNIMiga` has now been completely removed, I decided to remove it completely when `Amiga Workbench 3.1` was removed from THEA500 version, because you need the `Workbench 3.1 disks` now to run it and it can not be set up to run normally like a `Workbench`, `Cloanto` proberly asked him to remove it.
 
 
-Cloanto are called Amiga Corporation now, I find that werid, they proberly changed there name so they can sell the Amiga copyright and games to other companies, now they own all of it.
+`Cloanto` are called `Amiga Corporation` now, I find that werid, they proberly changed there name so they can sell the `Amiga copyright and Games from Amiga Forever` to other companies, now they own all of it.
 
-Ever woundered why VICE Emulator for Windows do not come with the C64 kernal roms no more..? the C64 Kernal roms were free at one time too but are not now because of Cloanto owning the C64 Kernal Roms copyright thats in C64 Forever, thats why THEC64 has Cloanto on its box, RGL had to pay them to use the C64 Kernal Roms in there machines.
+Ever woundered why `VICE Emulator for Windows` do not come with the `C64 kernal Roms` no more..? the `C64 Kernal Roms` were free at one time too but are not now because of `Cloanto` owning the `C64 Kernal Roms copyright` thats in `C64 Forever`, thats why `THEC64 has Cloanto` on its box, RGL had to pay them to use the `C64 Kernal Roms` in there machines.
 
 
-You can still add AMiNIMiga to the THEA500-USB-MENU and it will run just no option to run it from startup but the buitin Workbenches are just as good.
+You can still add `AMiNIMiga` to the `THEA500-USB-MENU folder` and it will run, just no options to run it from startup but the `buitin Workbenches` are just as good.
 
 
 If you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
