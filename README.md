@@ -12,7 +12,7 @@ And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a l
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
 
-NEW RC1 out now of PCUAE 3.1.0, releases are here...
+NEW RC5 out now of PCUAE 3.1.0, releases are here...
 [https://github.com/CommodoreOS/PCUAE/releases](https://github.com/CommodoreOS/PCUAE/releases)
 
 Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy for the help, fixing scripts and that, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
