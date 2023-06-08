@@ -165,12 +165,17 @@ You can use PCUAEManager and installing it that way and its modes: [Download PCU
 
 # FAQ
 
+# Where are the games kept for THEC64 Carousel
 
-If you hear a echo when you have loaded the carousel in PCUAE, to fix it just press and hold CTRL and then press down 0 to restart TheCarousel and it should fix it.
+
+There are in the `THEC64-CAROUSEL-GAMES` floder on the root of the PCUAE USBDribve now, they atre not in Games folder no more, make sure you changee the location when you exoprt your games over from PCUAE Manager, it using the old location.
 
 
-If you want to go back to PCUAE Mode at any time and for some reason it don't change Modes then use the Quick Shortcut back to PCUAE Mode, its:
-Menu+Left Triangle Button.
+
+You can go back to PCUAE Mode at any time by using the `Quick Shortcut back to PCUAE Mode`, its:
+
+
+On THEC64 Mini/THEC64/THEVIC20/THEA500 THEC64 Joystick - Menu+Left Triangle Button.
 
 On THEA500 Mini - Menu+B(Blue) buttons.
 
