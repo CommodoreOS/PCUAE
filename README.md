@@ -26,7 +26,7 @@ IMPORTANT
 
 About PCUAE Menu that is run from PCUAE Manger
 
-To updayte run PCUAE Manager agin or or will try and update itself now when you run it.
+To update the Menu, run PCUAE Manager agin or will try and update itself now when you run it.
 You might need to disable your Antivirus while running this because it might delete the pcuae-update.exe file inside the PCUAE-MAIN_AIO-3.1.0-RC5-DOWNLOADER.exe so when it gets instaled on to the C: Drive, just disable it when you start PCUAE Manager and once you started to download the PCUAE you want to download then enable it again, you only need to diable the monioring part of the Antivirus so it don't remove any files, Defender on Windows removes it and you have to restore it again, it a false positive so has no virus in it.
 
 INSTALL PCUAE-MAIN_AIO-3.1.0-RC5-DOWNLOADER.exe TO YOUR C: DRIVE, THIS IS NOT PCUAE.
