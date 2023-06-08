@@ -168,7 +168,7 @@ You can use PCUAEManager and installing it that way and its modes: [Download PCU
 # Where are the games kept for THEC64 Carousel
 
 
-There are in the `THEC64-CAROUSEL-GAMES` floder on the root of the PCUAE USBDribve now, they atre not in Games folder no more, make sure you changee the location when you exoprt your games over from PCUAE Manager, it using the old location.
+There are in the `THEC64-CAROUSEL-GAMES` folder on the root of the PCUAE USB Drive now, they are not in  the `Games` folder no more, make sure you changee the location when you export your games over from PCUAE Manager, it using the old location.
 
 
 
