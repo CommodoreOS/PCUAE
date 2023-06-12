@@ -24,6 +24,7 @@ IT WILL AUTOLOAD THE MENU WHEN YOU HAVE INSTALLED IT TO THE C:/ DRIVE IN WINDOWS
 EXAMPLER PICTURES.
 ![PCUAE MENU1](https://i.ibb.co/LnxJ1sf/Screenshot-2023-05-17-004927.jpg)
 ![PCUAE MENU2](https://i.ibb.co/znVBSyB/Screenshot-2023-05-17-005550.jpg)
+
 Just look at the `PCUAE Menu` and read it, the main options you will need is `options 1 and 2`. 
 `Option 1 for installing QBittorrent`, if you do not have a BitTorrent program on your PC already, if you do then no need to install QBittorrent, you need it to download `PCUAE All In One Installer Setup file` its 13GB so to big to upload to GitHub if you want the Full version of PCUAE. 
 
