@@ -1,43 +1,35 @@
-Thanks for installing PCUAE, Enjoy... :)
+Thanks for installing PCUAE, Enjoy... :) The PCUAE Menu should have poped up now.. :)
+Look below at... `Please read About PCUAE Menu below...` Once you have installed PCUAE Menu.
 ============================================
-Original Name - On 14 April 2020 - `***Project Carousel USB***`
-
-On the 9th October 2020, renamed to - `***Project Carousel USB: Anniversary Edition***` on THEC64 Mini NTSC 2 year Anniversary.
-
-`Project` came from `Project Luna`, I was using `PL` on my `Sega Mega Drive Mini` at the time and it gave me the idea, and `Carousel USB` came from `Carousel USB Chooser` that Fabafox made for THEC64 that I later added to `PCUAE`
-
-And that's how `PCUAE` got its name... :) I allways call it `PCUAE` now, its a lot easier... :)
-
 
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
 
-NEW PCUAE 3.2.0, releases are here...
-[https://github.com/CommodoreOS/PCUAE/releases](https://github.com/CommodoreOS/PCUAE/releases)
+NEW PCUAE 3.2.0 now avalilble in the PCUAE Menu.
 
 New Facebook Group now... https://www.facebook.com/groups/pcuae
 
 Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy for the help, fixing scripts and that, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
 
-Please read this below...
+Please read About PCUAE Menu below...
 
 IMPORTANT
 ==========
 
 About PCUAE Menu that is run from PCUAE Manger
+==========
 
-To update the Menu, run PCUAE Manager again or will try and update itself now when you run it.
-You might need to disable your Antivirus while running this because it might delete the pcuae-update.exe file inside the PCUAE-MAIN_AIO-3.1.0-RC5-DOWNLOADER.exe so when it gets instaled on to the C: Drive, just disable it when you start PCUAE Manager and once you started to download the PCUAE you want to download then enable it again, you only need to diable the monioring part of the Antivirus so it don't remove any files, Defender on Windows removes it and you have to restore it again, it a false positive so has no virus in it.
+IT WILL AUTOLOAD THE MENU WHEN YOU HAVE INSTALLED IT TO THE C:/ DRIVE IN WINDOWS.
 
-INSTALL PCUAE-MAIN_AIO-3.1.0-RC5-DOWNLOADER.exe TO YOUR C: DRIVE, THIS IS NOT PCUAE.
-
-THIS IS PCUAE DOWNLOAD MENU SO YOU CAN DOWNLOAD DIFFERENT VERSIONS OF PCUAE.
-
-IT WILL AUTOLOAD THE MENU WHEN YOU HAVE INSTALLED IT TO THE C: DRIVE IN WINDOWS.
-
+EXAMPLER PICTURES.
 ![PCUAE MENU1](https://i.ibb.co/LnxJ1sf/Screenshot-2023-05-17-004927.jpg)
 ![PCUAE MENU2](https://i.ibb.co/znVBSyB/Screenshot-2023-05-17-005550.jpg)
+Just look at the `PCUAE Menu` and read it, the main options you will need is `options 1 and 2`. 
+`Option 1 for installing QBittorrent`, if you do not have a BitTorrent program on your PC already, if you do then no need to install QBittorrent, you need it to download `PCUAE All In One Installer Setup file` its 13GB so to big to upload to GitHub if you want the Full version of PCUAE. 
 
+`Option 2 for downloading and installing PCUAE` all most all of the exe files are downloaded by the `PCUAE Menu` now for Github, the only one that's not is PCUAE AIO(its 13GB and has 4 files included) thats a torrent file so will need a Bittorrent program to download it.
+
+More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
 
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site.
 
