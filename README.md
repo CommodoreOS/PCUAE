@@ -25,17 +25,21 @@ EXAMPLER PICTURES.
 ![PCUAE MENU1](https://i.ibb.co/LnxJ1sf/Screenshot-2023-05-17-004927.jpg)
 ![PCUAE MENU2](https://i.ibb.co/znVBSyB/Screenshot-2023-05-17-005550.jpg)
 
-Just look at the `PCUAE Menu` and read it, the main options you will need is `options 1 and 2`. 
+Just look at the `PCUAE Menu` and read it, the main options you will need is `options 1 and option 2`. 
 `Option 1 for installing QBittorrent`, if you do not have a BitTorrent program on your PC already, if you do then no need to install QBittorrent, you need it to download `PCUAE All In One Installer Setup file` its 13GB so to big to upload to GitHub if you want the Full version of PCUAE. 
 
-`Option 2 for downloading and installing PCUAE` all most all of the exe files are downloaded by the `PCUAE Menu` now for Github, the only one that's not is PCUAE AIO(its 13GB and has 4 files included) thats a torrent file so will need a Bittorrent program to download it.
+`Option 2 for downloading and installing PCUAE` all most all of the exe files are downloaded by the `PCUAE Menu` now from Github, the only one that's not is PCUAE AIO(its 13GB and has 4 files included) thats a torrent file so will need a Bittorrent program to download it or The MOdes for THEA500 thats a zip file, I will change that to a exe file too when I get the time. 
+
+Left Click on the PCUAE and the type 1 for option 1 or 2 for option 2, there are other options too in the menu like downloading Amiga Games Selector v2.01 or Pandory A500 for THEA500 only.
 
 More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
 
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site.
 
 
-Showing the file has a virus but a false positive, anitviuses allways says it has the same virus(Trojan:Script/Wacatac.H!ml) when it don't have one, it because it can see scripts in it and its getting confused, if it looked properly it would see the scripts are for Linux only not Windows.
+Windown might show the exe files has having a virus but its a false positive, antiviuses allways says it has the same virus(Trojan:Script/Wacatac.H!ml) when it don't have one, it because it can see scripts in it and its getting confused, if it looked properly it would see the scripts are for Linux only not Windows.
+
+Picture of Windoew Security showing it having a virus...
 ![PCUAE VIRUS NOT](https://i.ibb.co/72PWzd7/Screenshot-2023-05-17-215743.jpg)
 
 There is now nothing in PCUAE that not allowed to be in it, all software like `Amiga Games Selector` and `Pandory for THEA500` is not included but you can download them in the PCUAE Menu using there download links, you have to add them yourself to `THEA500-USB-MENU folder`, thats really easy to do, `you just unpack there .ZIP file` to the `THEA500-USB-MENU folder` once they have been downloaded via the `PCUAE Menu` and they are then installed.
