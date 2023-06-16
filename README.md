@@ -26,13 +26,24 @@ EXAMPLER PICTURES.
 ![PCUAE MENU2](https://i.ibb.co/znVBSyB/Screenshot-2023-05-17-005550.jpg)
 
 Just look at the `PCUAE Menu` and read it, the main options you will need is `options 1 and option 2`. 
+
+
 `Option 1 for installing QBittorrent`, if you do not have a BitTorrent program on your PC already, if you do then no need to install QBittorrent, you need it to download `PCUAE All In One Installer Setup file` its 13GB so to big to upload to GitHub if you want the Full version of PCUAE. 
+
 
 `Option 2 for downloading and installing PCUAE` all most all of the exe files are downloaded by the `PCUAE Menu` now from Github, the only one that's not is PCUAE AIO(its 13GB and has 4 files included) thats a torrent file so will need a Bittorrent program to download it or The MOdes for THEA500 thats a zip file, I will change that to a exe file too when I get the time. 
 
-Left Click on the PCUAE and the type 1 for option 1 or 2 for option 2, there are other options too in the menu like downloading Amiga Games Selector v2.01 or Pandory A500 for THEA500 only.
+
+Left Click on the PCUAE Menu so you see its cursor and then type 1 for option 1 or 2 for option 2, there are other options too in the menu like downloading Amiga Games Selector v2.01 or Pandory A500 for THEA500 only and PCUAE without Modes for THEC64 and THEA500 Models.
+
 
 More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
+
+
+
+Other Info
+===========
+
 
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site.
 
