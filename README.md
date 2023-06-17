@@ -1,5 +1,6 @@
 Thanks for installing PCUAE, Enjoy... :) The PCUAE Menu should have poped up now.. :)
 Look below at... `Please read About PCUAE Menu below...` Once you have installed PCUAE Menu.
+If you just installed PCUAE and this has poped up then no need to read it.
 ============================================
 
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
