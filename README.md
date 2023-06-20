@@ -50,7 +50,7 @@ IMPORTANT
 ===========
 
 
-About PCUAE Loading and the USB Drive
+About PCUAE Loading and the PCUAE USB Drive
 ======================================
 
 
