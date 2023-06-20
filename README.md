@@ -54,9 +54,9 @@ About PCUAE Loading and the PCUAE USB Drive
 ======================================
 
 
-If when loading PCUAE is acts odd or does not load corectlly then it can be down to the USB drive, THEC64/THEA500 Models do not eject the USB Drive correctlly so can messup the USB Drive so then you need to scan it for errors on Windows 10, it should work properly after that, right click on the PCUAE USB Drive and click on Properties then on Tools then `This option will check for file system errors` and its Check button.
+If when loading PCUAE is acts odd or does not load corectlly then it can be down to the PCUAE USB drive, THEC64/THEA500 Models do not eject the PCUAE USB Drive correctlly so can messup the data on the PCUAE USB Drive and then get loading errors so then you need to scan it for errors on Windows 10, it should work properly after that, On Windows 10/11, Right Click on the PCUAE USB Drive in Windows Exployer and click on Properties then click on Tools then you see... `This option will check for file system errors` and then click on its Check button and wait for it to finish, once done put back in the machine and PCUAE should load properly.
 
-When you put the PCUAE USB Drive in the PC it might ask you to do it anyway, if so then do it, if your having problems.
+When you put the PCUAE USB Drive in the PC it might ask you to do it anyway, if so then do it, if your having problems only.
 
 
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site.
