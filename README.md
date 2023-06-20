@@ -58,6 +58,8 @@ If when loading PCUAE is acts odd or does not load corectlly then it can be down
 
 When you put the PCUAE USB Drive in the PC it might ask you to do it anyway, if so then do it, if your having problems only.
 
+And Whatever you do DO NOT TAKE OUT THE PCUAE USE DRIVE OUT WHEN ITS RUNNING, Its runs PCUAE from the drive so it will make it crash and can mess the drive up if you do.
+
 
 New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site.
 
