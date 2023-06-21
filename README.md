@@ -13,7 +13,7 @@ PCUAE Logo, PCUAE Stands for...
 
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
-PCUAE is completelly free and you do not need to pay for it or chaged to use it, if you do then you are been riped off, make sure you always download it from here or from the PCUAE Website below.
+PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
 
 NEW PCUAE v3.2.0 now avalilble in the PCUAE Menu.
 
@@ -21,7 +21,7 @@ New Facebook Group now... https://www.facebook.com/groups/pcuae
 
 Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy for the help, fixing scripts and that, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
 
-New site finally here... https://projectcarouselusb.eu 
+New PCUAE Offical Website, finally here... https://projectcarouselusb.eu 
 
 I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, if you use the PCUAE site then you will not need to use the PCUAE Menu.
 
