@@ -3,7 +3,7 @@ Look below at... `Please read About PCUAE Menu below...` Once you have installed
 If you just installed PCUAE and this has poped up then no need to read it.
 ============================================
 
-PCUAE Help File
+PCUAE README Help File
 =================
 
 I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first.
