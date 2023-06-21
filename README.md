@@ -23,7 +23,7 @@ New Facebook Group now... https://www.facebook.com/groups/pcuae
 Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy for the help, fixing scripts and that, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
 
 New PCUAE Offical Website, finally here... https://projectcarouselusb.eu 
-
+-------------------------------------------------------------------------------------------------------------------------
 I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, if you use the PCUAE site then you will not need to use the PCUAE Menu.
 
 Please read About PCUAE Menu below...
