@@ -3,14 +3,23 @@ Look below at... `Please read About PCUAE Menu below...` Once you have installed
 If you just installed PCUAE and this has poped up then no need to read it.
 ============================================
 
+PCUAE Help File
+=================
+
+PCUAE Logo, PCUAE Stands for...
+
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
 
-NEW PCUAE 3.2.0 now avalilble in the PCUAE Menu.
+NEW PCUAE v3.2.0 now avalilble in the PCUAE Menu.
 
 New Facebook Group now... https://www.facebook.com/groups/pcuae
 
 Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy for the help, fixing scripts and that, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
+
+New site finally here... https://projectcarouselusb.eu 
+
+I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, if you use the PCUAE site then you will not need to use the PCUAE Menu.
 
 Please read About PCUAE Menu below...
 
@@ -56,6 +65,7 @@ About PCUAE Loading and the PCUAE USB Drive
 
 If when loading PCUAE is acts odd or does not load corectlly then it can be down to the PCUAE USB drive, THEC64/THEA500 Models do not eject the PCUAE USB Drive correctlly so can messup the data on the PCUAE USB Drive and then get loading errors so then you need to scan it for errors on Windows 10, it should work properly after that, On Windows 10/11, Right Click on the PCUAE USB Drive in Windows Exployer and click on Properties then click on Tools then you see... `Error Checking` `This option will check for file system errors` and then click on its `Check` button and wait for it to finish, once done put back in the machine and PCUAE should load properly.
 
+
 Picture of the Tools page on the PCUAE USB Drive
 
 ![PCUAE DRIVE_TOOLS](https://i.ibb.co/H4x43zG/check-drive.jpg)
@@ -65,16 +75,23 @@ When you put the PCUAE USB Drive in the PC it might ask you to do it anyway, if 
 And Whatever you do DO NOT TAKE OUT THE PCUAE USE DRIVE OUT WHEN ITS RUNNING, Its runs PCUAE from the drive so it will make it crash and can mess the drive up if you do.
 
 
-New site finally here... https://projectcarouselusb.eu 
+About the False Positive that Antivirus Programs See In Some Of The PCUAE Installer Setups exe Files
+======================================
 
-I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, if you use the PCUAE site then you will not need to use the PCUAE Menu.
+
+Windows10/11 might show the exe files has having a virus but its a false positive(it shows it in Windows Security App Program that runs in the background, it allways says it has the same virus`(Trojan:Script/Wacatac.H!ml)` when it don't have one, it because it can see scripts in it and its getting confused because its a exe file, if it looked properly it would see the scripts are for Linux only not Windows.
 
 
-Windown might show the exe files has having a virus but its a false positive, antiviuses allways says it has the same virus(Trojan:Script/Wacatac.H!ml) when it don't have one, it because it can see scripts in it and its getting confused, if it looked properly it would see the scripts are for Linux only not Windows.
-
-Picture of Windoew Security showing it having a virus...
+Picture of Windows Security showing it having a virus...
 
 ![PCUAE VIRUS NOT](https://i.ibb.co/72PWzd7/Screenshot-2023-05-17-215743.jpg)
+
+
+It is happens then disable the Antivirus Progames monitor where it monitors your Files and Folders when running PCUAE Manager, once your finished installing PCUAE then turn it back on, you do not need to disable if your just adding games to the PCUAE USB Drive.
+
+
+More info on PCUAE
+===================
 
 There is now nothing in PCUAE that not allowed to be in it, all software like `Amiga Games Selector` and `Pandory for THEA500` is not included but you can download them in the PCUAE Menu using there download links, you have to add them yourself to `THEA500-USB-MENU folder`, thats really easy to do, `you just unpack there .ZIP file` to the `THEA500-USB-MENU folder` once they have been downloaded via the `PCUAE Menu` and they are then installed.
 
