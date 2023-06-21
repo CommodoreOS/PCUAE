@@ -6,7 +6,7 @@ If you just installed PCUAE and this has poped up then no need to read it.
 PCUAE README Help File
 =================
 
-I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first, thios file is the more inportant file to look at on how to use PCUAE, thats why it pops up when you have installed the PCUAE Menu and PCUAE.
+I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first, this file is the more important file to look at on how to use PCUAE, thats why it pops up when you have installed the PCUAE Menu and PCUAE, this file has the main stuff you will need its a quick Gude to PCUAE so you do not need to deep dive into PCUAE Manual.
 
 PCUAE Logo, PCUAE Stands for...
 
