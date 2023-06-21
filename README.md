@@ -106,6 +106,24 @@ Picture of Windows Security showing it having a virus...
 
 It is happens then disable the Antivirus Progames monitor where it monitors your Files and Folders when running PCUAE Manager, once your finished installing PCUAE then turn it back on, you do not need to disable if your just adding games to the PCUAE USB Drive.
 
+How to install PCUAE
+=====================
+
+Make sure that the USB Drive you pick is formatted in Fat32 and in MBR(do not use GPT it will not work) , You can use a 8, 16, 32, 64 and 128GB USB Drive with THEC64 models and THEA500 and PCUAE should be OK to install on them too, I use a 64GB SD card with mine, you can even use a Sata Sold State Drive, 250GB or lower, just make sure it formatted with MBR and FAT32 then it will work.
+
+
+NOW First, download `PCUAE Manager` from https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-update/pcuae-pcuaem-2.6.0-setup.exe.
+
+or `Download PCUAE` from the `Website` then you will not need to use the `PCUAE Menu`, it here... https://projectcarouselusb.eu
+
+You install `PCUAE Manager` the same way you do with `PCUAE`, but pick a location on your `PC` not on the `PCUAE USB Drive`, it will `install to the C/: drive` under `C:\Games\Project Carousel USB\PCUAE Manager` folder, if you do not change it, once its installed click on its icon on the desktop to load `PCUAE Manager`.
+
+Once `PCUAE Manager` has opened then `click on the PCUAE Tab` and you will see `PCUAE Install to a USB drive`, click on that item. 
+
+`PCUAE Manager` will then ask `do you want to download PCUAE`, then click on `Yes Button` and it will start `downloading the latest version of the PCUAE menu`, it will not take long, then it will ask `do you want to install PCUAE`, click on `Yes button again` to start the setup so you can `install PCUAE Menu to the your C:/ Drive`.
+
+`PCUAE Manager` notifies you if there is a new version of the `PCUAE Menu` when it becomes available on GitHub but it now too `updates inside the PCUAE menu now automatically`, there maybe a new version for the menu in the `PCUAE Manager` but only if the update code needs updating.
+
 
 More info on PCUAE
 ===================
