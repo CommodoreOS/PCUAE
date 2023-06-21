@@ -14,6 +14,7 @@ PCUAE Logo, PCUAE Stands for...
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
 PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
+--------------------------------------------------------------------------------------------------------------------------
 
 NEW PCUAE v3.2.0 now avalilble in the PCUAE Menu.
 
