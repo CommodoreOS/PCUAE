@@ -26,7 +26,7 @@ EXAMPLER PICTURES.
 ![PCUAE MENU1](https://i.ibb.co/LnxJ1sf/Screenshot-2023-05-17-004927.jpg)
 ![PCUAE MENU2](https://i.ibb.co/znVBSyB/Screenshot-2023-05-17-005550.jpg)
 
-Just look at the `PCUAE Menu` and read it, the main options you will need is `options 1 and option 2`. 
+Just look at the `PCUAE Menu` and read it and pick a option you want to use, its really easy to use, the main options you will need is `options 1 and option 2`. 
 
 
 `Option 1 for installing QBittorrent`, if you do not have a BitTorrent program on your PC already, if you do then no need to install QBittorrent, you need it to download `PCUAE All In One Installer Setup file` its 13GB so to big to upload to GitHub if you want the Full version of PCUAE. 
@@ -65,7 +65,9 @@ When you put the PCUAE USB Drive in the PC it might ask you to do it anyway, if 
 And Whatever you do DO NOT TAKE OUT THE PCUAE USE DRIVE OUT WHEN ITS RUNNING, Its runs PCUAE from the drive so it will make it crash and can mess the drive up if you do.
 
 
-New site finally here... https://projectcarouselusb.eu I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site.
+New site finally here... https://projectcarouselusb.eu 
+
+I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, if you use the PCUAE site then you will not need to use the PCUAE Menu.
 
 
 Windown might show the exe files has having a virus but its a false positive, antiviuses allways says it has the same virus(Trojan:Script/Wacatac.H!ml) when it don't have one, it because it can see scripts in it and its getting confused, if it looked properly it would see the scripts are for Linux only not Windows.
