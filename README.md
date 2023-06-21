@@ -6,6 +6,8 @@ If you just installed PCUAE and this has poped up then no need to read it.
 PCUAE Help File
 =================
 
+I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first.
+
 PCUAE Logo, PCUAE Stands for...
 
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
@@ -41,10 +43,14 @@ Just look at the `PCUAE Menu` and read it and pick a option you want to use, its
 `Option 1 for installing QBittorrent`, if you do not have a BitTorrent program on your PC already, if you do then no need to install QBittorrent, you need it to download `PCUAE All In One Installer Setup file` its 13GB so to big to upload to GitHub if you want the Full version of PCUAE. 
 
 
-`Option 2 for downloading and installing PCUAE` all most all of the exe files are downloaded by the `PCUAE Menu` now from Github, the only one that's not is PCUAE AIO(its 13GB and has 4 files included) thats a torrent file so will need a Bittorrent program to download it or The MOdes for THEA500 thats a zip file, I will change that to a exe file too when I get the time. 
+`Option 2 for downloading and installing PCUAE` all most all of the exe files are downloaded by the `PCUAE Menu` now from Github, the only one that's not is `PCUAE AIO(its 13GB and has 4 files included)` its a `torrent file` so you will need a Bittorrent program to download it or to download `The Modes for THEA500 Only`, thats a `zip file`, I will change that to a `exe file` too when I get the time. 
 
 
-Left Click on the PCUAE Menu so you see its cursor and then type 1 for option 1 or 2 for option 2, there are other options too in the menu like downloading Amiga Games Selector v2.01 or Pandory A500 for THEA500 only and PCUAE without Modes for THEC64 and THEA500 Models.
+How To Use the PCUAE Menu
+==========================
+
+It really easy to use, the `PCUAE Menu` is like `The Mode Changer/Carousel Changer Menus`.
+`Left Click` on the `PCUAE Menu` so you see its cursor flashing and then `type on the keyboard `1` for `option 1` or `2` for `option 2`, there are other options too in the menu like downloading `Amiga Games Selector v2.01` or `Pandory A500` for `THEA500 only` and `PCUAE without Modes for THEC64 and THEA500 Models` if you do not want them, just read the menu carefully and pick the option you want to use.
 
 
 More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
