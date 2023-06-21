@@ -50,7 +50,8 @@ How To Use the PCUAE Menu
 ==========================
 
 It really easy to use, the `PCUAE Menu` is like `The Mode Changer/Carousel Changer Menus`.
-`Left Click` on the `PCUAE Menu` so you see its cursor flashing and then `type on the keyboard `1` for `option 1` or `2` for `option 2`, there are other options too in the menu like downloading `Amiga Games Selector v2.01` or `Pandory A500` for `THEA500 only` and `PCUAE without Modes for THEC64 and THEA500 Models` if you do not want them, just read the menu carefully and pick the option you want to use.
+
+Hover the Arrow over the PCUAE Menu and `Left Click the button on your Mouse` on the `PCUAE Menu` so you see its cursor flashing at the bottom of the menu and then `type on the keyboard `1` for `option 1` or `2` for `option 2`, there are other options too in the menu like downloading `Amiga Games Selector v2.01` or `Pandory A500` for `THEA500 only` and `PCUAE without Modes for THEC64 and THEA500 Models` or download PCUAE with or without THEC64 Carousel Games, just read the menu carefully and pick the option you want to use.
 
 
 More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
