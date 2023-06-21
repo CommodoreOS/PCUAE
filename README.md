@@ -235,13 +235,6 @@ There are more features on THEC64 cause its been out longer then THEA500 Mini an
 
 
 
-# How to Download and install PCUAE:
-
-
-You can use PCUAEManager and installing it that way and its modes: [Download PCUAEManager here](https://1drv.ms/u/s!AsiWKsjhQ2jelNJtFoF1RSaRBwx5Iw?e=3s5Ja5).
-
-
-
 # Where The Name Came From:
 
 
