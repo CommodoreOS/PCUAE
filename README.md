@@ -101,6 +101,8 @@ About the False Positive that Antivirus Programs See In Some Of The PCUAE Instal
 Windows10/11 might show the exe files has having a virus but its a false positive(it shows it in Windows Security App Program that runs in the background, it allways says it has the same virus`(Trojan:Script/Wacatac.H!ml)` when it don't have one, it because it can see scripts in it and its getting confused because its a exe file, if it looked properly it would see the scripts are for Linux only not Windows.
 
 
+On THEA500 Mini when you remove the PCUAE USB Drive it marks it so makes it think in need scaning for errors, this down to RGL not ejecting the USB Drive properly so will always mark the USB Drive and make Windows thing it has errors on it when it does not, you can scan it for error and it will say it found none, its false.
+
 Picture of Windows Security showing it having a virus...
 
 ![PCUAE VIRUS NOT](https://i.ibb.co/72PWzd7/Screenshot-2023-05-17-215743.jpg)
