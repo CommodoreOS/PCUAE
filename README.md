@@ -91,7 +91,7 @@ Picture of the Tools page on the PCUAE USB Drive
 
 When you put the PCUAE USB Drive in the PC it might ask you to do it anyway, if so then do it, if your having problems only.
 
-And Whatever you do DO NOT TAKE OUT THE PCUAE USE DRIVE OUT WHEN ITS RUNNING, Its runs PCUAE from the drive so it will make it crash and can mess the drive up if you do.
+And Whatever you do DO NOT TAKE OUT THE PCUAE USB DRIVE OUT WHEN ITS RUNNING PCUAE, Its runs PCUAE from the drive so it will make it crash and can mess the drive up if you do, PCUAE runs like a Linux system does.
 
 
 On THEA500 Mini when you remove the PCUAE USB Drive it marks it so makes it think in need scaning for errors, this down to RGL not ejecting the USB Drive properly so will always mark the USB Drive and make Windows thing it has errors on it when it does not, you can scan it for error and it will say it found none, its false.
