@@ -89,12 +89,15 @@ Picture of the Tools page on the PCUAE USB Drive
 
 ![PCUAE DRIVE_TOOLS](https://i.ibb.co/H4x43zG/check-drive.jpg)
 
-When you put the PCUAE USB Drive in the PC it might ask you to do it anyway, if so then do it, if your having problems only.
+When you put the PCUAE USB Drive in the PC it might ask you to do it anyway, if so then do it, but only if your having problems with the PCUAE USB Drive, because if you plug it into THEA500 it can be fake when there is no errors on the drive, more about that below.
 
-And Whatever you do DO NOT TAKE OUT THE PCUAE USB DRIVE OUT WHEN ITS RUNNING PCUAE, Its runs PCUAE from the drive so it will make it crash and can mess the drive up if you do, PCUAE runs like a Linux system does.
+And Whatever you do `DO NOT TAKE OUT THE PCUAE USB DRIVE OUT WHEN ITS RUNNING PCUAE`, Its runs PCUAE from the drive so it will make it crash and can mess the drive up if you do, PCUAE runs like a Linux system does.
 
 
-On THEA500 Mini when you remove the PCUAE USB Drive it marks it so makes it think in need scaning for errors, this down to RGL not ejecting the USB Drive properly so will always mark the USB Drive and make Windows thing it has errors on it when it does not, you can scan it for error and it will say it found none, its false.
+The False Scan the PCUAE USB Drive for Errors in Windows from THEA500
+==========================================
+
+On THEA500 Mini when you remove the PCUAE USB Drive it marks it so makes it think it needs scaning for errors, this down to RGL not ejecting the USB Drive properly so will always mark the USB Drive and make Windows thing it has errors on it when it does not, you can scan it for error and it will say it found none, becuase its false, it does it all the time, its a bug that RGL has never fixed, they need to tell THEA500 Linux System to stop marking the drive for false errors, this is not down too PCUAE, it does it even if you use the USB Drive for just Amiga Games so RGL need to fix it.
 
 
 About the False Positive that Antivirus Programs See In Some Of The PCUAE Installer Setups exe Files
