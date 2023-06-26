@@ -93,6 +93,7 @@ When you put the PCUAE USB Drive in the PC it might ask you to do it anyway, if 
 
 And Whatever you do `DO NOT TAKE OUT THE PCUAE USB DRIVE OUT WHEN ITS RUNNING PCUAE`, Its runs PCUAE from the drive so it will make it crash and can mess the drive up if you do, PCUAE runs like a Linux system does.
 
+if your still having loading probems then it can be how much power THEC64 is getting, to run PCUAE properly its recommened to use a USB power adapter thats 5v 3A, it will work with 5v 1A but you might get loading probelms.
 
 The False Scan the PCUAE USB Drive for Errors in Windows from THEA500
 ==========================================
