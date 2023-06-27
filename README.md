@@ -143,7 +143,7 @@ Once `PCUAE Manager` has opened you might see a box apear saying new version of 
 
 `PCUAE Manager` will then ask `do you want to download PCUAE`, then click on `Yes Button` and it will start `downloading the latest version of the PCUAE menu`, it will not take long, then it will ask `do you want to install PCUAE`, click on `Yes button again` to start the setup so you can `install PCUAE Menu to the your C:/ Drive`.
 
-`PCUAE Manager` notifies you if there is a new version of the `PCUAE Menu` when it becomes available on GitHub but it now too `updates inside the PCUAE menu now automatically`, there maybe a new version of the menu in the `PCUAE Manager` but only if the update code needs updating.
+`PCUAE Manager` notifies you if there is a new version of the `PCUAE Menu Installer` when it becomes available on GitHub but it updates the `PCUAE Menu` inside the PCUAE Menu automatically now when one is uploaded, there maybe a new version of the `PCUAE Menu` in the `PCUAE Manager` but only if the `PCUAE Menu Installer.exe` needs updating.
 
 
 More info on PCUAE
