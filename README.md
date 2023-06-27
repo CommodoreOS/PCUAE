@@ -3,15 +3,21 @@ Look below at... `Please read About PCUAE Menu below...` Once you have installed
 If you just installed PCUAE and this has poped up then no need to read it.
 
 If you have just Installed PCUAE and do not know how to use its basic functions then look thought this guide before reading the Manual(Wiki).
+============================================
 
 This will guide you through...
 
 About and How to Use PCUAE Menu.
+
 About PCUAE Loading and the PCUAE USB Drive.
+
 How too Install PCUAE.
+
 What are the PCUAE Shortcut Key Combinations
+
 What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations
-============================================
+
+
 
 
 PCUAE Quick Startup Guide
