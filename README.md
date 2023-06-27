@@ -1,12 +1,23 @@
 Thanks for installing PCUAE, Enjoy... :) The PCUAE Menu should have poped up now.. :)
 Look below at... `Please read About PCUAE Menu below...` Once you have installed PCUAE Menu.
 If you just installed PCUAE and this has poped up then no need to read it.
+
+If you have just Installed PCUAE and do not know how to use its basic functions then look thought this guide before reading the Manual(Wiki).
+
+This will guide you through...
+
+About and How to Use PCUAE Menu.
+About PCUAE Loading and the PCUAE USB Drive.
+How too Install PCUAE.
+What are the PCUAE Shortcut Key Combinations
+What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations
 ============================================
 
-PCUAE README Help File
+
+PCUAE Quick Startup Guide
 =================
 
-I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first, this file is the most important file to look at on how to use PCUAE, thats why it pops up when you have installed the PCUAE Menu and PCUAE, this file has the main stuff you will need to get PCUAE working, its a quick help guide to PCUAE so you do not need to deep dive into its manual.
+I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first, this file is the most important file to look at on how to use PCUAE, thats why it pops up when you have installed the PCUAE Menu and PCUAE, this file has the main stuff you will need to get PCUAE working, its a quick startup(help) guide to PCUAE so you do not need to deep dive into its manual.
 ----------------------------------
 
 PCUAE Logo, PCUAE Stands for...
@@ -68,14 +79,6 @@ Just read the menu carefully and pick the option you want to use.
 
 More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
 
-
-
-Other Info
-===========
-
-
-IMPORTANT
-===========
 
 
 About PCUAE Loading and the PCUAE USB Drive
@@ -197,9 +200,6 @@ If you have any ideas you like me to try and add plaese post about them on THEC6
 
 
 
-# HELP READ ME
-
-
 # Key Highlights of PCUAE:
 
 
@@ -258,30 +258,10 @@ There are in the `THEC64-CAROUSEL-GAMES` folder on the root of the PCUAE USB Dri
 
 
 
-You can go back to PCUAE Mode at any time by using the `Quick Shortcut back to PCUAE Mode`, its:
-
-
-On THEC64 Mini/THEC64/THEVIC20/THEA500 THEC64 Joystick - Menu+Left Triangle Button.
-
-On THEA500 Mini - Menu+B(Blue) buttons.
-
-On THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3, 
-
-this will not work on PCUAE Mode cause your already in the mode, this only works on any other Mode... :)
-
-
-You can load other programs made for THEA500 Mini in PCUAE by puting them in the THEA500-USB-MENU folder, that where THEA500 Mini USB Drive root is now and you can add games too, ahl files can be put into THEA500-Games folder in the THEA500-USB-MENU folder.
-
-
-If the program needs Firmware v1.0.0 then use Carousel Version Changer to change the Carousel to the version you need, you can use CTRL+F3 on a USB or THEC64 Keyboard or Menu+Left Triangle Button on THEC64, Menu+Y on THEGampad to load The Carousel Version Changer on PCUAE Mode only.
-
-
-
 # What are the PCUAE Shortcut Key Combinations
 
 
 
-For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at section 12 of the WIKI.
 
 How To - Press and Hold Down the CTRL key and then press the key you want to use for 2 seconds in PCUAE Mode below.
 
@@ -302,6 +282,27 @@ CTRL+RESTORE – Reboot the Machine(CTRL+END on THEA500 Mini on a USB Keyboard) 
 
 
 (THEA500)CTRL+LEFT ALT+DEL, (PCUAE)CTRL+LEFT SHIFT+DEL - Shutdown, this will power off the machine, I added it cause I was sick of pulling the power cable out all the time on THEA500 Mini, it dose not shuttdown without the carousel running, if you press and HOLD the power button, if you hold it for more then 7 seconds it makes it do a restart and not power off(werid).
+
+
+You can go back to PCUAE Mode at any time by using the `Quick Shortcut back to PCUAE Mode`, its:
+
+
+On THEC64 Mini/THEC64/THEVIC20/THEA500 THEC64 Joystick - Menu+Left Triangle Button.
+
+On THEA500 Mini - Menu+B(Blue) buttons.
+
+On THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3, 
+
+this will not work on PCUAE Mode cause your already in the mode, this only works on any other Mode... :)
+
+
+You can load other programs made for THEA500 Mini in PCUAE by puting them in the THEA500-USB-MENU folder, that where THEA500 Mini USB Drive root is now and you can add games too, ahl files can be put into THEA500-Games folder in the THEA500-USB-MENU folder.
+
+
+If the program needs Firmware v1.0.0 then use Carousel Version Changer to change the Carousel to the version you need, you can use CTRL+F3 on a USB or THEC64 Keyboard or Menu+Left Triangle Button on THEC64, Menu+Y on THEGampad to load The Carousel Version Changer on PCUAE Mode only.
+
+
+For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at section 12 of the WIKI.
 
 
 
