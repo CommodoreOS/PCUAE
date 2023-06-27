@@ -275,28 +275,25 @@ CTRL+F3 – Carousel Version Changer – Change to a different carousel version 
 CTRL+F5 – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch, VICE Modes.. etc). 
 
 
-CTRL+F7 – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
+(THEC64/THEVIC20)CTRL+RESTOR, (THEA500)CTRL-END – Reboot the Machine – This makes the machines reboot, not the emulator – Just reboots, nothing special, you never know when you need a reboot/reset button… 🙂 and it saves on you pressing the power button all the time and wearing the power button out, thats why I added it.
 
 
-CTRL+RESTORE – Reboot the Machine(CTRL+END on THEA500 Mini on a USB Keyboard) – This makes the machines reboot, not the emulator – Just reboots, nothing special, you never know when you need a reboot/reset button… 🙂 and it saves on you pressing the power button all the time and wearing the power button out, thats why I added it.
-
-
-(THEA500)CTRL+LEFT ALT+DEL, (PCUAE)CTRL+LEFT SHIFT+DEL - Shutdown, this will power off the machine, I added it cause I was sick of pulling the power cable out all the time on THEA500 Mini, it dose not shuttdown without the carousel running, if you press and HOLD the power button, if you hold it for more then 7 seconds it makes it do a restart and not power off(werid).
+(THEC64/THEVIC20)CTRL+LEFT SHIFT+DEL, (THEA500)CTRL+LEFT ALT+DEL  - Shutdown, this will power off the machine, I added it cause I was sick of pulling the power cable out all the time on THEA500 Mini, it dose not shuttdown without the carousel running, if you press and HOLD the power button, if you hold it for more then 7 seconds it makes it do a restart and not power off(werid).
 
 
 You can go back to PCUAE Mode at any time by using the `Quick Shortcut back to PCUAE Mode`, its:
 
 
-On THEC64 Mini/THEC64/THEVIC20/THEA500 THEC64 Joystick - Menu+Left Triangle Button.
+On THEC64/THEVIC20 THEC64 Joystick - Menu+Left Triangle Button.
 
-On THEA500 Mini - Menu+B(Blue) buttons.
+On THEA500 - Menu+B(Blue) buttons.
 
 On THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3, 
 
 this will not work on PCUAE Mode cause your already in the mode, this only works on any other Mode... :)
 
 
-You can load other programs made for THEA500 Mini in PCUAE by puting them in the THEA500-USB-MENU folder, that where THEA500 Mini USB Drive root is now and you can add games too, ahl files can be put into THEA500-Games folder in the THEA500-USB-MENU folder.
+
 
 
 If the program needs Firmware v1.0.0 then use Carousel Version Changer to change the Carousel to the version you need, you can use CTRL+F3 on a USB or THEC64 Keyboard or Menu+Left Triangle Button on THEC64, Menu+Y on THEGampad to load The Carousel Version Changer on PCUAE Mode only.
@@ -313,20 +310,17 @@ For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at sec
 Menu, Fire and the Triangle buttons – Press and Hold the Menu Button and then press the Left Fire, Right Fire or the Left, Right Triangle buttons you want to use for 2 seconds in PCUAE Mode, this makes it easier for you use PCUAE mode on THEC64 Mini, THEC64 Joystick now works in the menus on THEC64 Mini too now.
 
 
-Menu+Left Triangle Button – Carousel Version Changer – Change to a different Carousel version - THEC64 Carousels 1.0.5, 1.6.1.
+Menu+Left Fire 1 Button – TheCarousel Gamelist Changer – Change to a different Carousel Gamelist thats been added with the PCUAE Manager in PCUAE Mode Only and only on THEC64 Mini/THEC64/THEVIC20.
 
 
-Menu+Right Triangle Button – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch and VICE Modes).
+Menu+Left Triangle Button – Carousel Version Changer – Change to a different Carousel version - THEC64 Carousels 1.0.5, 1.6.1 in PCUAE Mode Only.
 
 
-Menu+Left Fire 1 Button – TheCarousel Gamelist Changer – Change to a different Carousel Gamelist thats been added with the PCUAE Manager.
+Menu+Right Triangle Button – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch and VICE Modes) in PCUAE Mode Only.
 
-
-Menu+Right Fire 2 Button – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
-
-(Comming Soon)
 
 Menu+C - Quick Restart - Reboot THEC64 and Activate the PAL/NTSC Video Screen on TheCarousel v1.6.1 only(not avalible on v1.0.5).
+
 
 I found out this only works on THEC64 Mini not THEC64, it makes the Languges come up but the PAL/NTSC Video screen is not showing, I think its because its not seeing the HDMI so it works on THEC64 Mini cause it can not see disp device so can not detect the HDMI signal, I think it has to do with this line `mv /dev/disp /dev/disp-not` I keep digging.
 
@@ -339,22 +333,19 @@ I found out this only works on THEC64 Mini not THEC64, it makes the Languges com
 Press and Hold the Menu Button and then press the A, X, Y or B buttons you want to use and hold both down for 2 seconds.
 
 
-Menu+Y Button – Carousel Version Changer – Change to a different Carousel versions - Manhattan - 1.0.0, 1.1.1, CD32(Pro Only) Amiberry 5 and ADF Modes on THEA500.
+Menu+Y Button – Carousel Version Changer – Change to a different Carousel versions - Manhattan - 1.0.0, 1.1.1, Amiberry 5 and ADF Modes in PCUAE Mode Only.
 
 
-Menu+X Button – Mode Changer – Change to a different Mode(ADF, Amiga, Atari, Linux, Retroarch(Pandory) and VICE Modes).
+Menu+X Button – Mode Changer – Change to a different Mode(ADF, Amiga, Atari, Linux, Retroarch(Pandory) and VICE Modes) in PCUAE Mode Only.
 
 
-Menu+B Button – Quick Switch – Back to PCUAE Mode.
-
-
-Menu+A Button – PCUAE Options Menu – A menu with options in it for PCUAE Mode.
+Menu+B Button – Quick Switch – Back to PCUAE Mode(if your in a different Mode then PCUAE Mode so you can quickly go back to PCUAE Mode without havinbg to load the Mode Changer).
 
 
 Menu+Home - Restart - Reset the Mode its on.
 
 
-Menu+RSB - Quick Switch - Switch between Amiberry 3.3 and 5.3 and back in the carousel.
+Menu+RSB - Quick Switch - Switch between Amiberry 3.3 and 5.3 and back in the carousel, so you can run Amiberry v5.3 in the carousel if you like.
 
 
 
@@ -370,6 +361,9 @@ Add the `WHDLoad` Games that are in `LHA` format in `WinUAE` so put them in a fo
 
 
 DO NOT use Winrar to unpack WHDLoad Games in LHA format, you will mess them up and they will not load.
+
+
+You can load other programs made for THEA500 Mini in PCUAE by puting them in the THEA500-USB-MENU folder, that where THEA500 Mini USB Drive root is now and you can add games too, ahl files can be put into THEA500-Games folder in the THEA500-USB-MENU folder.
 
 
 More FAQ comming soon.
