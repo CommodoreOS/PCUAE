@@ -163,15 +163,15 @@ What the keys are ment to be, QWERTY Keyboard(English)
              Q W E R T Y U I O P [ ] #
               A S D F G H J K L ; ' Return 
 	    Shift  Z X C V B N M , . / Shift
-	           [  Space  ]
+	              [  Space  ]
   
 And what they are at the moment, AZERTY Keyboard(French)
 
 	        1 2 3 4 5 6 7 8 9 0 - = Backspace
              A Z E R T Y U I O P [ ] \
               Q S D F G H J K L , # Return
-	        Shift  W X C V B N ; M , / Shift
-	           [  Space  ]
+	    Shift  W X C V B N ; M , / Shift
+	              [  Space  ]
 
 I hope this map helps you so you know where the keys are in Amiga/Atari Mode.
 I do not know what the numberpad is like because I do not have a Keyboard with a numberpad.
