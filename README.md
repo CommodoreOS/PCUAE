@@ -149,6 +149,35 @@ Once `PCUAE Manager` has opened you might see a box apear saying new version of 
 More info on PCUAE
 ===================
 
+# About Amiga/Atari(ST) Mode Keyboard Map
+
+It looks like its using a Frence keyboard layout, AZERTY keyboard, a keyboard layout used in France and neighboring countries.
+Some keys are in the same place as a QWERTY keyboard, this is a record of where the keys are in Amiga Mode, it uses Retroarch so I have to find a way to change it to use a QWERTY keyboard map but you can not in Retroarch for some reason.
+
+
+I made this so you know where the keys are in Amiga/Atari(ST) Mode.
+
+
+What the keys are ment to be, QWERTY Keyboard(English)
+      1 2 3 4 5 6 7 8 9 0 - = Backspace
+       Q W E R T Y U I O P [ ] #
+        A S D F G H J K L ; ' Return
+  Shift  Z X C V B N M , . / Shift
+	           [  Space  ]
+
+
+And what they are at the moment, AZERTY Keyboard(French)
+      1 2 3 4 5 6 7 8 9 0 = - BackSpace
+       A Z E R T Y U I O P [ ] \
+        Q S D F G H J K L , # Return
+  Shift  W X C V B N ; M , / Shift
+	           [  Space  ]
+
+
+I do not know what the numberpad is like because I do not have a Keyboard with a numberpad.
+This is Retroarch's fault not PCUAE, its mapping them wroung for some reason, I just do not know why right now, it will take time to fix.
+
+
 There is now nothing in PCUAE that not allowed to be in it, all software like `Amiga Games Selector` and `Pandory for THEA500` is not included but you can download them in the `PCUAE Menu` using there download links, you have to add them yourself to `THEA500-USB-MENU folder`, thats really easy to do, `you just open there .ZIP or RAR file` and copy its `AGS` or `Pandory` folder to the `THEA500-USB-MENU folder` and they are then installed and will work in PCUAE, its that easy.
 
 
