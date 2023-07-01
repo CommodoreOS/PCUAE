@@ -168,14 +168,16 @@ What the keys are ment to be, QWERTY Keyboard(English)
   
 And what they are at the moment, AZERTY Keyboard(French)
 
-	    1 2 3 4 5 6 7 8 9 0 - = Backspace
-             Q W E R T Y U I O P [ ] #
-              A S D F G H J K L ; ' Return 
-	Shift  Z X C V B N M , . / Shift
-	          [  Space  ]
+	    `1 2 3 4 5 6 7 8 9 0 - = Backspace`
+            ` A Z E R T Y U I O P [ ] \`
+              `Q S D F G H J K L , # Return `
+	`Shift  W X C V B N ; M , / Shift`
+	         `[  Space  ]`
 
+I hope this map helps you so you know where the keys are in Amiga/Atari Mode.
 I do not know what the numberpad is like because I do not have a Keyboard with a numberpad.
-This is Retroarch's fault not PCUAE, its mapping them wroung for some reason, I just do not know why right now, it will take time to fix.
+This is a problem with Retroarch's only not PCUAE, its mapping them wroung for some reason, I just do not know why right now, it will take time to fix.
+I will fix this as soon as I can, once I have figered it out, you can still play Pinball games OK, the shift keys have not moved or the other keys like: CTRL and A(Amiga) keys and can still use the keyboard or you can use the Virtal Keyboard too if you like.
 
 
 There is now nothing in PCUAE that not allowed to be in it, all software like `Amiga Games Selector` and `Pandory for THEA500` is not included but you can download them in the `PCUAE Menu` using there download links, you have to add them yourself to `THEA500-USB-MENU folder`, thats really easy to do, `you just open there .ZIP or RAR file` and copy its `AGS` or `Pandory` folder to the `THEA500-USB-MENU folder` and they are then installed and will work in PCUAE, its that easy.
