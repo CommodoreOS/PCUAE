@@ -127,6 +127,7 @@ Picture of Windows Security showing it having a virus...
 
 It is happens then disable the Antivirus Progames monitor where it monitors your Files and Folders when running PCUAE Manager, once your finished installing PCUAE then turn it back on, you do not need to disable if your just adding games to the PCUAE USB Drive.
 
+
 How to install PCUAE
 =====================
 
@@ -146,13 +147,11 @@ Once `PCUAE Manager` has opened you might see a box apear saying new version of 
 `PCUAE Manager` notifies you if there is a new version of the `PCUAE Menu Installer` when it becomes available on GitHub but it updates the `PCUAE Menu` inside the PCUAE Menu automatically now when one is uploaded, there maybe a new version of the `PCUAE Menu` in the `PCUAE Manager` but only if the `PCUAE Menu Installer.exe` needs updating.
 
 
-More info on PCUAE
-===================
+About Amiga/Atari Mode(16 bit only) RA Keyboard Map
+====================================================
 
-# About Amiga/Atari(ST) Mode Keyboard Map
-
-It looks like its using a Frence keyboard layout, AZERTY keyboard, a keyboard layout used in France and neighboring countries.
-Some keys are in the same place as a QWERTY keyboard, this is a record of where the keys are in Amiga Mode, it uses Retroarch so I have to find a way to change it to use a QWERTY keyboard map but you can not in Retroarch for some reason.
+It looks like RA is using a Frence keyboard layout, AZERTY keyboard, a keyboard layout used in France and neighboring countries.
+Some keys are in the same place as a QWERTY keyboard, this is a record of where the keys are in Amiga Mode, it uses Retroarch so I have to find a way to change it to use a QWERTY keyboard map but you can not change it in Retroarch for some reason, weird.
 
 
 I mapped the keyboard(checked every key) so you know where the keys are in Amiga/Atari Mode(16 bit only) so you can still use the keyboard.
@@ -176,14 +175,18 @@ And what they are at the moment, AZERTY Keyboard(French)
 
 I hope this map helps you so you know where the keys are in Amiga/Atari Mode.
 I do not know what the numberpad is like because I do not have a Keyboard with a numberpad.
-This is a problem with Retroarch's only not PCUAE, its mapping them wroung for some reason, I just do not know why right now, it will take time to fix.
-I will fix this as soon as I can, once I have figered it out, you can still play Pinball games OK, the shift keys have not moved or the other keys like: CTRL and A(Amiga key/ALT) keys and can still use the keyboard or you can use the Virtal Keyboard too if you like.
+This is a problem with Retroarch only not PCUAE, its using the wrong mapping for some reason, I just do not know why right now, it will take time to fix.
+I will fix this as soon as I can, once I have figered it out, you can still play Pinball games OK, the shift keys have not moved or the other keys like: CTRL, A(Amiga key/ALT) and Tab keys and can still use the keyboard or you can use the Virtal Keyboard too if you like.
+
+
+More info on PCUAE
+===================
 
 
 There is now nothing in PCUAE that not allowed to be in it, all software like `Amiga Games Selector` and `Pandory for THEA500` is not included but you can download them in the `PCUAE Menu` using there download links, you have to add them yourself to `THEA500-USB-MENU folder`, thats really easy to do, `you just open there .ZIP or RAR file` and copy its `AGS` or `Pandory` folder to the `THEA500-USB-MENU folder` and they are then installed and will work in PCUAE, its that easy.
 
 
-`AMiNIMiga` has now been completely removed, I decided to remove it completely when `Amiga Workbench 3.1` was removed from THEA500 version, because you need the `Workbench 3.1 disks` now to run it and it can not be set up to run normally like a `Workbench`, `Cloanto` probably asked him to remove it, its probably on to many systems thats why, I think it would of been different if it was only on THEA500 only, this is what happens when something become popular and Cloanto hear about it, this is the problem with older version of Workbench, they should be free to use in non payed products now but `AMiNIMiga` does get donations for it, that properly why no Workbench now inside it, PCUAE Does not get donations now its now completely free, all ways of donatingh have now been removed, I do not need money for it, I made this because I wanted too, not for money.
+`AMiNIMiga` has now been completely removed, I decided to remove it completely when `Amiga Workbench 3.1` was removed from THEA500 version, because you need the `Workbench 3.1 disks` now to run it and it can not be set up to run normally like a `Workbench`, `Cloanto` probably asked him to remove it, its probably on to many systems thats why, I think it would of been different if it was only on THEA500 only, this is what happens when something become popular and Cloanto hear about it, this is the problem with older version of Workbench, they should be free to use in non payed products now but `AMiNIMiga` does get donations for it, that properly why no Workbench now inside it, PCUAE Does not get donations now its now completely free, all ways of donating have now been removed, I do not need money for it, I made this because I wanted too, not for money.
 
 
 `Cloanto` are called `Amiga Corporation` now, I find that werid, they proberly changed there name so they can sell the `Amiga copyright and Games from Amiga Forever` to other companies, now they own all of it.
