@@ -167,7 +167,7 @@ What the keys are ment to be, QWERTY Keyboard(English)
   
 And what they are at the moment, AZERTY Keyboard(French)
 
-	    1 2 3 4 5 6 7 8 9 0 - = Backspace
+	         1 2 3 4 5 6 7 8 9 0 - = Backspace
              A Z E R T Y U I O P [ ] \
               Q S D F G H J K L , # Return
 	Shift  W X C V B N ; M , / Shift
