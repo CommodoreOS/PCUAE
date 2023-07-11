@@ -254,22 +254,36 @@ You can find me on YouTube too under Retronuts and on there are some videos of P
 (Do not watch youtube videos from a phone or the Youtube app, you will get loads of advertisments, they play on youtube like every 10/15 minutes or so and cut into the video like your watching a TV Channel, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on Youtube add free.)
 
 
-# PCUAE Automaticlly Updating the Firmware(THEA500 Only)
+PCUAE Automaticlly Updating the Firmware(THEA500 Only)
+======================================================
 
 
 On THEA500 Mini... It copies to the firmware and changes the firmare for you automaticlly so upgrades(updates) it temporary from Firmware Manahttan v1.0.0 to Firmware Manahttan v1.1.1 so you do not need to update your firmware at all if you install PCUAE, it can be downgraded too, the firmware is now connected to what TheCarousel Manhattan in PCUAE Mode is on so if its on Manhattan v1.1.1, its default option, it will change the firmware carousel if its Manhattan v1.0.0 to Manhattan v1.1.1 when you turn of the machine(after booting PCUAE Mode once) from running PCUAE and then turn it back on without the PCUAE USB Drive plugged in then it will load up Manhattan v1.1.1 in the firmware.
 It will be soon added to THEC64 Modes aswell sometime, its on the to do list... :)
 
-You can remove the Autoboot Start-Up Script if you wish too now, you can add it or remove it, you remove it using The Mode Changer Menu or PCUAE Options Menu using PCUAE REMOVER, its now included in the PCUAE Startup Autoboot Mode.lha in the Carousel USB Media Menu on THEA500 or in the Fake Update on THEC64 Mini/THEC64 and THEVIC20.
+You can uninstall PCUAE now with PCUAE REMOVER
+======================================================
 
 
-You can run each Mode from StartUp cause PCUAE can Autoboot itself with Autoboot Mode and its Start-Up Script.
+You can remove the Autoboot Start-Up Script if you wish too now, you can add it or remove it, you remove it using The Mode Changer Menu or PCUAE Options Menu using PCUAE REMOVER, its now included in the PCUAE Startup Autoboot Mode.lha in the Carousel USB Media Menu on THEA500 or use the Fake Update on THEC64 Models.
 
 
-# Loading Games in TheCarousel Amora v1.6.1(THEC64 Only)
+Autoboot Mode
+==============
+
+
+You can run each Mode from StartUp cause PCUAE can Autoboot itself its called Autoboot Mode and why it need to be enabled continully, each Mode would not work without it.
+
+
+Loading Games in TheCarousel Amora v1.6.1(THEC64 Only)
+======================================================
 
 
 You can load your own Games on THEC64 Carousel Amora v1.6.1 so add your own games in its carousel, game pack is now inclued with PCUAE AIO thats included with PCUAE Manager, I am looking to another option for that because you can not use TheCarousel Manhattan, it blocked, its down to how RGL designed it on THEA500 Mini, they designed it in a way to stop you doing it or any way adding them all therte games and files are hashed so inpossable unless someone with the know how redesigns its carousel, I do not have enough experience to do it myself, I am not a coder.
+
+
+Quick Info On Modes
+==================
 
 
 You can run C64 or VIC20 games on THEC64 Carousel on THEC64 Mini and switch from PAL to NTSC and back on THEC64 Mini/THEC64/THEVIC20.
@@ -294,22 +308,25 @@ There are more features on THEC64 cause its been out longer then THEA500 Mini an
 
 
 
-# Where The Name Came From:
+Where Did The PCUAE Name Came From:
+==========================
 
 
-"It all started with mounting over the games on thec64 carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB(named after Carousel USB Chooser)... :), the first mode I added was Vice Mode and then the Carousel Gamelist Changer scripts became PCU Mode named after its name abrivated then changed to PCUAE Mode."
+"It all started with mounting over the games on THEC64 Maxi carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB(named after Carousel USB Chooser)... :), the first mode I added was Vice Mode and then the Carousel Gamelist Changer scripts became PCU Mode named after its name abrivated then changed to PCUAE Mode."
 
 
-# FAQ
+FAQ
+====
 
-# Where are the games kept for THEC64 Carousel
-
-
-There are in the `THEC64-CAROUSEL-GAMES` folder on the root of the PCUAE USB Drive now, they are not in  the `Games` folder no more, make sure you changee the location when you export your games over from PCUAE Manager, it using the old location.
-
+Where are the games kept for THEC64 Carousel
+=============================================
 
 
-# What are the PCUAE Shortcut Key Combinations
+There are in the `THEC64-CAROUSEL-GAMES` folder on the root of the PCUAE USB Drive now, they are not in the `Games` folder no more, make sure you changee the location when you export your games over from PCUAE Manager, it using the old location.
+
+
+
+What are the PCUAE Shortcut Key Combinations
 
 
 
@@ -355,7 +372,8 @@ For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at sec
 
 
 
-# What are THEC64 Joystick Button Combinations
+What are THEC64 Joystick Button Combinations
+==============================================
 
 
 Menu, Fire and the Triangle buttons – Press and Hold the Menu Button and then press the Left Fire, Right Fire or the Left, Right Triangle buttons you want to use for 2 seconds in PCUAE Mode, this makes it easier for you use PCUAE mode on THEC64 Mini, THEC64 Joystick now works in the menus on THEC64 Mini too now.
@@ -378,7 +396,8 @@ I found out this only works on THEC64 Mini not THEC64, it makes the Languges com
 
 
 
-# What are THEA500 THEGAMEPAD Button Combinations
+What are THEA500 THEGAMEPAD Button Combinations
+==============================================
 
 
 Press and Hold the Menu Button and then press the A, X, Y or B buttons you want to use and hold both down for 2 seconds.
@@ -400,7 +419,8 @@ Menu+RSB - Quick Switch - Switch between Amiberry 3.3 and 5.3 and back in the ca
 
 
 
-# How do you add games to AMIGA Mode
+How do you add games to AMIGA Mode
+==============================================
 
 
 PCUAE will have a new folder in PCUAE 3.1.0 that is for Amiga Games only and you be able to put the game files in a HDF file so you will need to use `WinUAE` to copy them to the HDF file to add more and the HDF file is 1.95GB.
