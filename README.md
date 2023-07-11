@@ -247,22 +247,29 @@ If you have any ideas you like me to try and add plaese post about them on THEC6
 # Key Highlights of PCUAE:
 
 
-PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a script, it called the `Autoboot Mode Start-Up Script`(the script is part of Autoboot Mode), its in the boot folder on the PCUAE USB Drive and called `autobootfirmware.sh` and its sent to the `int.d` folder in the firmware, the same place its script is that tells it to run the carousel when the console starts up, its the Linux boot folder and is the only thing that is copied to the firmware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from start up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware carousel from start up.
-
-You can remove the Autoboot Start-Up Script if you wish too, you can add it or remove it, you remove it using The Mode Changer Menu or PCUAE Options Menu using PCUAE REMOVER, its now included in the PCUAE Startup Autoboot Mode.ahi in the Carousel USB Media Menu on THEA500 or in the Fake Update on THEC64 Mini/THEC64 and THEVIC20.
+PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a mod, it modifies the way the machine boots so it boots from the USB Drive using a a set of scripts, the first script it boots from is called the `Autoboot Mode Start-Up Script`(the script is part of Autoboot Mode), its in the boot folder on the PCUAE USB Drive and called `autobootfirmware.sh` and its sent to the `int.d` folder in the firmware, it replaces the one in the firmware that just boots TheCarousel, its copied to the same place its script is that tells it to run the carousel when the console starts up if you have not installed PCUAE, its the LinuxOS boot folder, irts the main thing that gets copied to the firmware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from start up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware carousel from start up.
 
 
 You can find me on YouTube too under Retronuts and on there are some videos of PCUAE - YouTube channel is here - https://www.youtube.com/channel/UCrG1jnbvykIcLzfBFxC2GrA 
-
-
 (Do not watch youtube videos from a phone or the Youtube app, you will get loads of advertisments, they play on youtube like every 10/15 minutes or so and cut into the video like your watching a TV Channel, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on Youtube add free.)
+
+
+# PCUAE Automaticlly Updating the Firmware(THEA500 Only)
+
+
+On THEA500 Mini... It copies to the firmware and changes the firmare for you automaticlly so upgrades(updates) it temporary from Firmware Manahttan v1.0.0 to Firmware Manahttan v1.1.1 so you do not need to update your firmware at all if you install PCUAE, it can be downgraded too, the firmware is now connected to what TheCarousel Manhattan in PCUAE Mode is on so if its on Manhattan v1.1.1, its default option, it will change the firmware carousel if its Manhattan v1.0.0 to Manhattan v1.1.1 when you turn of the machine(after booting PCUAE Mode once) from running PCUAE and then turn it back on without the PCUAE USB Drive plugged in then it will load up Manhattan v1.1.1 in the firmware.
+It will be soon added to THEC64 Modes aswell sometime, its on the to do list... :)
+
+You can remove the Autoboot Start-Up Script if you wish too now, you can add it or remove it, you remove it using The Mode Changer Menu or PCUAE Options Menu using PCUAE REMOVER, its now included in the PCUAE Startup Autoboot Mode.lha in the Carousel USB Media Menu on THEA500 or in the Fake Update on THEC64 Mini/THEC64 and THEVIC20.
 
 
 You can run each Mode from StartUp cause PCUAE can Autoboot itself with Autoboot Mode and its Start-Up Script.
 
 
-THEC64 Only:
-You can load your own Games on THEC64 Carousel so add your own games to its carousel(There is a game pack availble on here too for the carousel) with PCUAE Manager, not avalible at the moment on THEA500 Mini.. :( its down to how RGL designed THEA500 Carousel on THEA500 Mini, they designed it in a way to stop you doing it, so its down to RGL not me, THEA500 Carousel needs hacking so it can do it, I am not a hacker so can not hack into it, I am a scripter.
+# Loading Games in TheCarousel Amora v1.6.1(THEC64 Only)
+
+
+You can load your own Games on THEC64 Carousel Amora v1.6.1 so add your own games in its carousel, game pack is now inclued with PCUAE AIO thats included with PCUAE Manager, I am looking to another option for that because you can not use TheCarousel Manhattan, it blocked, its down to how RGL designed it on THEA500 Mini, they designed it in a way to stop you doing it or any way adding them all therte games and files are hashed so inpossable unless someone with the know how redesigns its carousel, I do not have enough experience to do it myself, I am not a coder.
 
 
 You can run C64 or VIC20 games on THEC64 Carousel on THEC64 Mini and switch from PAL to NTSC and back on THEC64 Mini/THEC64/THEVIC20.
