@@ -39,7 +39,7 @@ You will need a TP-Link UE300 Ethernet Adapter because it use a RealTek 1853 chi
 
 ![TP-Link-UE300](https://i.ibb.co/RyDjgcf/20230730-141432.jpg)
 
-You plug it in into one of THEA500 USB ports, not the one next to the HDMI port, that for your PCUAE USB Drive or USB Hub(PCUAE USB Drive is then plugged into it, like mine), you can plug it into a USB Hub but it might need powering, when I tested it in mine it didn't work becauase its not powered so I did try, the adapter does not get enought power to fuction so its light might be on but its not getting the right amount of volts, I plug it into the 3rd USB Port.
+You plug it in into one of THEA500 USB ports, not the one next to the HDMI port, that for your PCUAE USB Drive or USB Hub(PCUAE USB Drive is then plugged into it, like mine), you can plug it into a USB Hub but it might need powering, when I tested it in mine it didn't work becauase its not powered so I did try, the adapter does not get enought power to fuction so its light might be on but its not getting the right amount of volts, I plug it into the 2nd USB Port.
 
 Once you pluged the adapter in to THEA500 then Open `thea500-Internet-ip.txt` in the `PCUAE USB Drive:\Network-SSID` folder to add THEA500 IP Address and the Routers Gateway IP.
 
