@@ -37,7 +37,8 @@ You plug it in into one of THEA500 USB ports, not the one next to the HDMI port,
 
 Once you pluged the adapter in to THEA500 then Open `thea500-Internet-ip.txt` in the `PCUAE USB Drive:\Network-SSID` folder to add THEA500 IP Address and the Routers Gateway IP.
 
-**IMPOTANT** Edit `thea500-internet-ip.txt` with `Notepad++` ONLY, its a Linux file, if you edit it with Notpad on Windows it will turn it into a Windows file and the Internet will not work, you need to add the ip address you want to use for THEA500 Mini so pick one thats free and not used by any other device on the network and looks the same.
+**IMPOTANT** Edit `thea500-internet-ip.txt` with `Notepad++` ONLY, `its a Linux file`, if you edit it with `Notepad on Windows` it will turn it into a `Windows file` and the Internet will not work, so download and `install Notpad++` first before editing it, is here... https://notepad-plus-plus.org
+You need to add the ip address you want to use for THEA500 Mini so pick one thats free and not used by any other device on the network and looks the same.
 Then add your Gateway ip, your routers IP, it needs this so THEA500 can connect to the internet.
 These instructions are in the `thea500-internet-ip.txt` file too as a reminder.
 Then run PCUAE and select Amiga Mode>AmigaSYS4 3.1 WinUAE Version then pick `Resoluion UAE:1280x720 RGBA` then you be able to use `IBrowse 2.4`(`IBrowse 2.5` is included, its in the other2 Amiga Hard Drive on the Workbench, you can run it from there too or move it where you want it) and load webpages in it.
