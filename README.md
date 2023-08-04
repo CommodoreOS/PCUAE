@@ -9,6 +9,8 @@ If you have just Installed PCUAE and do not know how to use its basic functions 
 
 This will guide you through...
 
+Whats New.
+
 About and How to Use PCUAE Menu.
 
 About PCUAE Loading and the PCUAE USB Drive.
