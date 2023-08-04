@@ -27,9 +27,9 @@ Whats New
 Comming in PCUAE 3.3.0
 ===================================
 
-PCUAE Network Mode has been updated now to included THEA500, so you can now use the internet on the machine like you can on THEC64 but it only works with one USB Ethernet Adater, TP-Link UE300 Ethernet Adapter, I bought one and it cost me £16 from eBay, so if you look around you might get one cheaper, I think they were original made for Apple MacOS X because it white like there old Apple Notbooks so it goes with the colour of THEA500 Mini.
+PCUAE Network Mode has been updated now to included THEA500, so you can now use the internet on the machine like you can on THEC64 but it only works with one USB Ethernet Adater, TP-Link UE300 Ethernet Adapter, I bought one and it cost me £16 from eBay, so if you look around you might get one cheaper, I think they were original made for Apple MacOS X because it white like there old Apple Notbooks so it goes with the colour of THEA500 Mini very well... :)
 
-You will need a TP-Link UE300 Ethernet Adapter because it use a RealTek 1853 chip(IC) in it that THEA500 kernel only suports, you can use a 1852 too because it the same type of IC.
+You will need a TP-Link UE300 Ethernet Adapter because it use a RealTek 1853 chip(IC) in it that THEA500 kernel only supports, you can use a 1852 too because it the same type of IC.
 
 ![TP-Link-UE300](https://i.ibb.co/RyDjgcf/20230730-141432.jpg)
 
