@@ -19,7 +19,7 @@ What are the PCUAE Shortcut Key Combinations
 
 What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations
 
-Updated - 11/07/2023
+Updated - 04/08/2023
 
 Whats New
 =============
