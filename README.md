@@ -31,7 +31,7 @@ Coming in PCUAE 3.3.0, not released yet
 
 PCUAE Network Mode has been updated now to included THEA500, so you can now use the internet on the machine like you can on THEC64 but it only works with one USB Ethernet Adater, TP-Link UE300 Ethernet Adapter, I bought one and it cost me £16 from eBay, so if you look around you might get one cheaper, I think they were original made for Apple MacOS X because it white like there old Apple Notbooks so it goes with the colour of THEA500 Mini very well... :)
 
-Currys sell the adater... https://www.currys.co.uk/products/tplink-ue300-usb-3.0-to-gigabit-ethernet-universal-adapter-10148411.html
+Currys sell the TP=Link UE300... https://www.currys.co.uk/products/tplink-ue300-usb-3.0-to-gigabit-ethernet-universal-adapter-10148411.html
 
 TP-Link website, you can buy it from there too... https://www.tp-link.com/uk/home-networking/computer-accessory/ue300/
 
