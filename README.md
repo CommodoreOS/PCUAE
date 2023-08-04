@@ -33,6 +33,8 @@ PCUAE Network Mode has been updated now to included THEA500, so you can now use 
 
 Currys sell the adater... https://www.currys.co.uk/products/tplink-ue300-usb-3.0-to-gigabit-ethernet-universal-adapter-10148411.html
 
+TP-Link website, you can buy it from there too... https://www.tp-link.com/uk/home-networking/computer-accessory/ue300/
+
 You will need a TP-Link UE300 Ethernet Adapter because it use a RealTek 1853 chip(IC) in it that THEA500 kernel only supports, you can use a 1852 too because it the same type of IC.
 
 ![TP-Link-UE300](https://i.ibb.co/RyDjgcf/20230730-141432.jpg)
