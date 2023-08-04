@@ -37,7 +37,7 @@ You plug it in into one of THEA500 USB ports, not the one next to the HDMI port,
 
 Once you pluged the adapter in to THEA500 then Open `thea500-Internet-ip.txt` in the `PCUAE USB Drive:\Network-SSID` folder to add THEA500 IP Address and the Routers Gateway IP.
 
-**IMPOTANT** Edit `thea500-internet-ip.txt` with `Notepad++` ONLY, `its a Linux file`, if you edit it with `Notepad on Windows` it will turn it into a `Windows file` and the Internet will not work, so download and `install Notpad++` first before editing it, is here... https://notepad-plus-plus.org
+**IMPOTANT** Edit `thea500-internet-ip.txt` with `Notepad++` ONLY, `its a Linux file`, if you edit it with `Notepad on Windows` it will turn it into a `Windows file` and the Internet will not work, so download and `install Notpad++` first before editing it, its here... https://notepad-plus-plus.org
 You need to add the ip address you want to use for THEA500 Mini so pick one thats free and not used by any other device on the network and looks the same.
 Then add your Gateway ip, your routers IP, it needs this so THEA500 can connect to the internet.
 These instructions are in the `thea500-internet-ip.txt` file too as a reminder.
