@@ -51,6 +51,8 @@ Then run PCUAE and select Amiga Mode>AmigaSYS4 3.1 WinUAE Version then pick `Res
 
 And thats it... :) Internet on THEA500... :)
 
+Added to AmigaSYS4 AmiSSL 4.5 so you can use https sites now, they now load ok.
+
 Video is here of it working in IBrowse 2.4... https://www.youtube.com/watch?v=Nvx4wTqNels
 
 Updated the way PCUAE loaded TheCarousels and speeded its loading time so its a bit faster.
