@@ -55,7 +55,8 @@ Added to AmigaSYS4 AmiSSL 4.5 so you can use https sites now, they now load ok.
 
 Video is here of it working in IBrowse 2.4... https://www.youtube.com/watch?v=Nvx4wTqNels
 
-Updated the way PCUAE loaded TheCarousels and speeded its loading time so its a bit faster.
+Updated the way PCUAE loaded TheCarousels and speeded its loading time so its a bit faster, including the Modes too, I would like it to load 20 or 30 seconds but to do that I would have to change the way PCUAE boots up, I will do it some time down the line, busy with other things in PCUAE, PCUAE boot like a system so have to be carfull not to brake anything as its booting, so things not time to boot or enable like PCUAE Network Mode, I can brake something if it boots to quick so then misses something so it might not be possible, one problem with it is it has to see the PCUAE USB Drive so needs time to see it so 5 seconds so makes it take longer to boot but that can not be changed.
+
 
 PCUAE Quick Startup Guide
 =================
