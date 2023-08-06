@@ -1,8 +1,8 @@
-Thanks for installing PCUAE, Enjoy... :) The PCUAE Menu should have poped up now.. :)
+Thanks for installing PCUAE, Enjoy... :) PCUAE Download Menu is been discontinued, to get PCUAE other versions like PCUAE All in One... Go to the PCUAE website.
 
 Look below at... `Please read About PCUAE Menu below...` Once you have installed PCUAE Menu.
 
-If you just installed PCUAE and this has poped up then no need to read it.
+If you just installed PCUAE and this has poped up then no need to read it fi you do not want too.
 
 If you have just Installed PCUAE and do not know how to use its basic functions then look thought this guide before reading the Manual(Wiki).
 ============================================
@@ -71,7 +71,7 @@ PCUAE Logo, PCUAE Stands for...
 PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
 --------------------------------------------------------------------------------------------------------------------------
 
-NEW PCUAE v3.2.0 now avalilble in the PCUAE Menu.
+NEW PCUAE v3.2.0 now avalilble
 
 New Facebook Group now... https://www.facebook.com/groups/pcuae
 
@@ -80,46 +80,6 @@ Alot of work has gone in to this version to make sure everything runs as it shou
 New PCUAE Offical Website, finally here... https://projectcarouselusb.eu 
 -------------------------------------------------------------------------------------------------------------------------
 I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, if you use the PCUAE site then you will not need to use the PCUAE Menu.
-
-Please read About PCUAE Menu below...
-
-IMPORTANT
-==========
-
-About PCUAE Menu that is run from PCUAE Manger
-==========
-
-IT WILL AUTOLOAD THE MENU WHEN YOU HAVE INSTALLED IT TO THE C:/ DRIVE IN WINDOWS.
-
-EXAMPLE PICTURES OF THE PCUAE MENU, THE PCUAE MENU MIGHT OF CHANGED SO MIGHT LOOK DIFFERENT BECAUSE ITS BEEN UPDATED.
-![PCUAE MENU1](https://i.ibb.co/LnxJ1sf/Screenshot-2023-05-17-004927.jpg)
-![PCUAE MENU2](https://i.ibb.co/znVBSyB/Screenshot-2023-05-17-005550.jpg)
-
-Just look at the `PCUAE Menu` and read it and pick a option you want to use, its really easy to use, the main options you will need is `options 1 and option 2`. 
-
-
-`Option 1 for installing QBittorrent`, if you do not have a BitTorrent program on your PC already, if you do then no need to install QBittorrent, you need it to download `PCUAE All In One Installer Setup file` its 13GB so to big to upload to GitHub if you want the Full version of PCUAE. 
-
-
-`Option 2 for downloading and installing PCUAE` all most all of the exe files are downloaded by the `PCUAE Menu` now from Github, the only one that's not is `PCUAE AIO(its 13GB and has 4 files included)` its a `torrent file` so you will need a Bittorrent program to download it or to download `The Modes for THEA500 Only`, thats a `zip file`, I will change that to a `exe file` too when I get the time. 
-
-
-How To Use the PCUAE Menu
-==========================
-
-It really easy to use, the `PCUAE Menu` is like `The Mode Changer/Carousel Changer Menus`.
-
-Hover the Arrow over the PCUAE Menu and `Left Click the button on your Mouse` on the `PCUAE Menu` so you see its cursor flashing at the bottom of the menu and then type on the keyboard `1` for `option 1` or `2` for `option 2`, there are other options too in the menu like: 
-Downloading...
-
-`Amiga Games Selector v2.01` or `Pandory A500` for `THEA500 only`
-
-`PCUAE without Modes for THEC64 and THEA500 Models`
-
-`PCUAE with or without THEC64 Carousel Games`
-
-Just read the menu carefully and pick the option you want to use.
-
 
 More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
 
