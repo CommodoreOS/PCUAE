@@ -73,7 +73,7 @@ PCUAE is completelly free and you do not need to pay for it or charged to use it
 If you get a `Cannot read USB stick` in `File Loader` when you press left fire on the `USB Icon`.
 
 
-Do not worry about it... Just select and press `left fire button` on the `Game Slot image`, its will show `Games Favorties 1, C64 Games, VIC20 Games` where it says what gamelist your on(its selected when you start the carousel) and it will load into `Classic Mode`(`C64 Basic` or `VIC20 Basic`) then press `Menu button` on `THEC64joystick` on the `Basic screen` and select `Media Access` and press `Left fire button` and your `USB Stick/Drive` content will apear on the screen, you should use this anyway, it has more options in it like `disk swaping`, RGL should link the `USB Icon` on the `carousel` to `Media Accsess` anyway now becuase all models use it, you do not need `two USB file loaders`, only need one... `Media Accsess`.
+Do not worry about it... Just select and press `left fire button` on the `Game Slot image`, its will show `Games Favorties 1, C64 Games, VIC20 Games` where it says what gamelist your on(its selected when you start the carousel) and it will load into `Classic Mode`(`C64 Basic` or `VIC20 Basic`) then press `Menu button` on `THEC64joystick` on the `Basic screen` and select `Media access` and press `Left fire button` and your `USB stick/drive` content will apear on the screen, you should use this anyway, it has more options in it like `disk swaping`, RGL should link the `USB Icon` on the `carousel` to `Media Accsess` anyway now becuase all models use it, you do not need `two USB file loaders`, only need one... `Media access`.
 
 On TheCarousel - Press on `left fire button` on `Game Slot image`...
 
@@ -83,7 +83,7 @@ On Classic Mode - then press `Menu button` on `THEC64joystick` on the `Basic scr
 
 ![Classic Mode](https://i.ibb.co/5jqSzrk/Screenshot-2023-08-09-153838.jpg)
 
-Media Accsess - `USB Stick/Drive` content will apear on the screen... :)
+Media Access - `USB stick/drive` content will apear on the screen... :).. BINGO.
 
 ![Media Accsess](https://i.ibb.co/YZx66Wp/Screenshot-2023-08-09-153911.jpg)
 
