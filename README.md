@@ -69,8 +69,10 @@ PCUAE Logo, PCUAE Stands for...
 PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
 --------------------------------------------------------------------------------------------------------------------------
 
-If you get a `Cannot read USB stick` in `File Loader when you press left fire on the USB Icon` 
-========================================
+
+If you get a `Cannot read USB stick` in `File Loader` when you press left fire on the `USB Icon`.
+
+
 Do not worry about it... Just select and press left fire button on the `Game Slot image`, its will show `Games Favorties 1, C64 Games, VIC20 Games` where it says what gamelist your on(its selected when you start the carousel) and it will load into Classic Mode(C64 Basic or VIC20 Basic) then press Menu on THEC64joystick on the Basic screen and select `Media Access` and press Left fire and your USB Stick/Drive content will apear, you should use this anyway, it has more options in it like disk swaping, RGL should link the USB Icon on the carousel to Media Accsess anyway now becuase all models use it, you do not need two USB file loaders, only need one... Media Accsess.
 
 
