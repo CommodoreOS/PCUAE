@@ -87,6 +87,8 @@ Media Access - `USB stick/drive` content will apear on the screen... :).. BINGO.
 
 ![Media Accsess](https://i.ibb.co/YZx66Wp/Screenshot-2023-08-09-153911.jpg)
 
+I tried to speed up the loading time PCUAE so changed the the way it loaded and now for some resion thinks the USB Drive is not free when the carousel loads when it is, so now got to work out why and what I change that caused it, it not really that important because you can use `Media Access`.
+
 
 NEW PCUAE v3.3.0 now avalilble
 ---------
