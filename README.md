@@ -24,9 +24,7 @@ Updated - 04/08/2023
 Whats New
 =============
 
-
-
-Whats New in PCUAE 3.3.0
+Whats New in PCUAE 3.3.1
 ===================================
 
 PCUAE Network Mode has been updated now to included THEA500, so you can now use the internet on the machine like you can on THEC64 but it only works with one USB Ethernet Adapter, TP-Link UE300 Ethernet Adapter, I bought one and it cost me £16 from eBay, so if you look around you might get one cheaper, I think they were original made for Apple MacOS X because it white like there old Apple Notbooks so it goes with the colour of THEA500 Mini very well... :)
@@ -63,7 +61,7 @@ PCUAE Download Menu is Back
 Download PCUAE Download Menu from here... https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-update/pcuae-download-menu-1.0.1.exe
 It now works on its own, just click on its icon of the Windows Desktop.
 It will autoload it when you install it to your PC.
-I made it so THEA500 users find it easier to download stiff for PCUAE.
+I made it so THEA500 users find it easier to download stuff for PCUAE.
 
 PCUAE Quick Startup Guide
 =================
