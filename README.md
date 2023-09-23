@@ -24,6 +24,11 @@ Updated - 04/08/2023
 Whats New
 =============
 
+Download PCUAE Download Menu from here... https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-update/pcuae-download-menu-1.0.1.exe
+It now works on its own, just click on its icon of the Windows Desktop.
+It will autoload it when you install it to your PC.
+I made it so THEA500 users find it easier to download stiff for PCUAE.
+
 Whats New in PCUAE 3.3.0
 ===================================
 
