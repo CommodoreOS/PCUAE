@@ -24,10 +24,7 @@ Updated - 04/08/2023
 Whats New
 =============
 
-Download PCUAE Download Menu from here... https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-update/pcuae-download-menu-1.0.1.exe
-It now works on its own, just click on its icon of the Windows Desktop.
-It will autoload it when you install it to your PC.
-I made it so THEA500 users find it easier to download stiff for PCUAE.
+
 
 Whats New in PCUAE 3.3.0
 ===================================
@@ -60,6 +57,13 @@ Video is here of it working in IBrowse 2.4... https://www.youtube.com/watch?v=Nv
 
 Updated the way PCUAE loaded TheCarousels and speeded its loading time so its a bit faster, including the Modes too, I would like it to load 20 or 30 seconds but to do that I would have to change the way PCUAE boots up, I will do it some time down the line, busy with other things in PCUAE, PCUAE boot like a system so have to be carfull not to brake anything as its booting, so things not time to boot or enable like PCUAE Network Mode, I can brake something if it boots to quick so then misses something so it might not be possible, one problem with it is it has to see the PCUAE USB Drive so needs time to see it so 5 seconds so makes it take longer to boot but that can not be changed.
 
+PCUAE Download Menu is Back
+============================
+
+Download PCUAE Download Menu from here... https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-update/pcuae-download-menu-1.0.1.exe
+It now works on its own, just click on its icon of the Windows Desktop.
+It will autoload it when you install it to your PC.
+I made it so THEA500 users find it easier to download stiff for PCUAE.
 
 PCUAE Quick Startup Guide
 =================
