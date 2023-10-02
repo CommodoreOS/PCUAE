@@ -9,7 +9,7 @@ https://projectcarouselusb.eu/
 
 Look below at... `Please read About PCUAE Menu below...` Once you have installed PCUAE.
 
-If you just installed PCUAE and this has poped up then no need to read it, do it in your own timme.. :) .
+If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) .
 
 If you have just Installed PCUAE and do not know how to use its basic functions then look thought this guide before reading the Manual(Wiki).
 ============================================
