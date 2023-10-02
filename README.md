@@ -1,5 +1,11 @@
 Thanks for installing PCUAE, Enjoy... :) PCUAE Download Menu is been discontinued, to get PCUAE other versions like PCUAE All in One... Go to the PCUAE website.
 
+PCUAE Logo, PCUAE Stands for...
+
+![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
+PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
+https://projectcarouselusb.eu/
+
 Look below at... `Please read About PCUAE Menu below...` Once you have installed PCUAE Menu.
 
 If you just installed PCUAE and this has poped up then no need to read it fi you do not want too.
@@ -69,11 +75,6 @@ PCUAE Quick Startup Guide
 I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first, this file is the most important file to look at on how to use PCUAE, thats why it pops up when you have installed the PCUAE Menu and PCUAE, this file has the main stuff you will need to get PCUAE working, its a quick startup(help) guide to PCUAE so you do not need to deep dive into its manual.
 ----------------------------------
 
-PCUAE Logo, PCUAE Stands for...
-
-![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
-
-PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
 --------------------------------------------------------------------------------------------------------------------------
 
 
