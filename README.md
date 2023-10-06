@@ -160,7 +160,7 @@ How to install PCUAE
 Make sure that the USB Drive you pick is formatted in Fat32 and in MBR(do not use GPT it will not work) , You can use a 8, 16, 32, 64 and 128GB USB Drive with THEC64 models and THEA500 and PCUAE should be OK to install on them too, I use a 64GB SD card with mine, you can even use a Sata Sold State Drive, 250GB or lower, just make sure it formatted with MBR and FAT32 then it will work.
 
 
-NOW First, download `PCUAE Manager` from https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-update/pcuae-manager-2.10.2-setup.exe (New Updated Version)
+NOW First, download `PCUAE Manager` from https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-update/pcuae-manager-3.3.1-setup.exe (New Updated Version)
 
 or `Download PCUAE` from the `Website` then you will not need to use the `PCUAE Menu`, it here... https://projectcarouselusb.eu
 
@@ -168,9 +168,9 @@ You install `PCUAE Manager` the same way you do with `PCUAE`, but pick a locatio
 
 Once `PCUAE Manager` has opened you might see a box apear saying new version of PCUAE is avalible, but if not then `click on the PCUAE Tab` and you will see `PCUAE Install to a USB drive`, click on that item. 
 
-`PCUAE Manager` will then ask `do you want to download PCUAE`, then click on `Yes Button` and it will start `downloading the latest version of the PCUAE menu`, it will not take long, then it will ask `do you want to install PCUAE`, click on `Yes button again` to start the setup so you can `install PCUAE Menu to the your C:/ Drive`.
+`PCUAE Manager` will then ask `do you want to download PCUAE`, then click on `Yes Button` and it will start `downloading the latest version of the PCUAE`, it will not take long, then it will ask `do you want to install PCUAE`, click on `Yes button again` to start the setup so you can `install PCUAE to the your USB Drive you want it on`.
 
-`PCUAE Manager` notifies you if there is a new version of the `PCUAE Menu Installer` when it becomes available on GitHub but it updates the `PCUAE Menu` inside the PCUAE Menu automatically now when one is uploaded, there maybe a new version of the `PCUAE Menu` in the `PCUAE Manager` but only if the `PCUAE Menu Installer.exe` needs updating.
+`PCUAE Manager` notifies you if there is a new version of the `PCUAE` when it becomes available on GitHub
 
 
 About Amiga/Atari Mode(16 bit only) RA Keyboard Map
@@ -238,16 +238,6 @@ I will always try to support PCUAE, but do need a break from it from time to tim
 WIKI is here, it might need updating so might not included new fetures or info on the new version of PCUAE - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
 
 # New Stuff Added
-
-
-PCUAE comes with its own menu now called `PCUAE Download Menu`, you download it when you download PCUAE in PCUAE Manager(just follow what it says when you download it), you can now download different versions of PCUAE so like `PCUAE All In One(PCUAE AIO)`, `PCUAE for THEC64` or `PCUAE for THEA500`, `Modes for THEA500`, `PCUAE THEA500 Amiga CD32 Mode`, you download them via BitTorrent, it comes with Qbittorrent so you can install it if you do not have bittorrent installed yourself, if you do then you do not need to install it.
-
-
-You can now download `Amiga Games Selector A500 v2.0` and `Pandory A500` as links in the menu too, when you download them just copy there files from there .zip file to `THEA500-USB-MENU` folder and thats it, you should then see them when you load up `PCUAE Mode`, you can `autoboot` them from startup using the `Mode Changer Menu`.
-
-
-I made the `PCUAE Download Menu` to make it easier to download different version of PCUAE instead of just having one version on here.
-
 
 I made some new boot screens now and they are now .rgba files, I made a new boot screen for THEA500 too, so it says `Retro Games` `THEA500` for 5 second then switches so it removes `Retro Games` and just shows `THEA500`, all boot screens are now updated.
 
