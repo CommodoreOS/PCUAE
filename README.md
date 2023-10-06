@@ -9,7 +9,7 @@ https://projectcarouselusb.eu/
 
 PCUAE is licensed under the terms of the GNU General Public License, version 3 or later.
 
-Look below at... `Please read About PCUAE Menu below...` Once you have installed PCUAE.
+Look below at... `Please read About PCUAE below...` Once you have installed PCUAE.
 
 If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) .
 
@@ -135,8 +135,6 @@ More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
 
 
 
-
-
 About PCUAE Loading and the PCUAE USB Drive
 ======================================
 
@@ -227,7 +225,7 @@ There is now nothing in PCUAE that not allowed to be in it, all software like `A
 Ever woundered why `VICE Emulator for Windows` do not come with the `C64 kernal Roms` no more..? the `C64 Kernal Roms` were free at one time too but are not now because of `Cloanto` owning the `C64 Kernal Roms copyright` thats in `C64 Forever`, thats why `THEC64 has Cloanto` on its box, RGL had to pay them to use the `C64 Kernal Roms` in there machines.
 
 
-You can still add `AMiNIMiga` to the `THEA500-USB-MENU folder` and it will run, just no options to run it from startup but the `buitin Workbenches` are just as good.
+You can still add `AMiNIMiga` to the `THEA500-USB-MENU folder` and it will run.
 
 
 If you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
