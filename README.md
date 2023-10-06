@@ -20,7 +20,7 @@ Whats New.
 
 About PCUAE Loading and the PCUAE USB Drive.
 
-How too Install PCUAE.
+How to Install PCUAE.
 
 What are the PCUAE Shortcut Key Combinations
 
@@ -99,10 +99,10 @@ I might add new stuff about PCUAE in here first before adding it to the Manual(W
 --------------------------------------------------------------------------------------------------------------------------
 
 
-If you get a `Cannot read USB stick` in `File Loader` when you press left fire button on the `USB Icon` on THEC64 Mini, THEC64, THEVIC20.
-======
+You can now use USB Media Accsess by pressing on the `Game Slot Image`on the Carousel on THEC64 Models.
+========================================================================
 
-Do not worry about it... Just select and press `left fire button` on the `Game Slot image`, its will show `Games Favorties 1, C64 Games, VIC20 Games` where it says what gamelist your on(its selected when you start the carousel) and it will load into `Classic Mode`(`C64 Basic` or `VIC20 Basic`) then press `Menu button` on `THEC64joystick` on the `Basic screen` and select `Media access` and press `Left fire button` and your `USB stick/drive` content will apear on the screen, you should use this anyway, it has more options in it like `disk swaping`, RGL should link the `USB Icon` on the `carousel` to `Media Access` anyway now becuase all models use it, you do not need `two USB file loaders`, only need one... `Media access`.
+Just select and press `left fire button` on the `Game Slot image`, its will show `Games Favorties 1, C64 Games, VIC20 Games` where it says what gamelist your on(its selected when you start the carousel) and it will load into `Classic Mode`(`C64 Basic` or `VIC20 Basic`) then press `Menu button` on `THEC64joystick` on the `Basic screen` and select `Media access` and press `Left fire button` and your `USB stick/drive` content will apear on the screen, you should use this anyway, it has more options in it like `disk swaping`, RGL should link the `USB Icon` on the `carousel` to `Media Access` anyway now becuase all models use it, you do not need `two USB file loaders`, only need one... `Media access`.
 
 On TheCarousel - Press on `left fire button` on `Game Slot image`...
 
