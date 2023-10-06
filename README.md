@@ -7,6 +7,8 @@ PCUAE Logo, PCUAE Stands for...
 PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
 https://projectcarouselusb.eu/
 
+PCUAE is licensed under the terms of the GNU General Public License, version 3 or later.
+
 Look below at... `Please read About PCUAE Menu below...` Once you have installed PCUAE.
 
 If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) .
