@@ -73,6 +73,26 @@ I made it so THEA500 users find it easier to download stuff for PCUAE.
 PCUAE Quick Startup Guide
 =================
 
+
+How to install PCUAE
+=====================
+
+Make sure that the USB Drive you pick is formatted in Fat32 and in MBR(do not use GPT it will not work) , You can use a 8, 16, 32, 64 and 128GB USB Drive with THEC64 models and THEA500 and PCUAE should be OK to install on them too, I use a 64GB SD card with mine, you can even use a Sata Sold State Drive, 250GB or lower, just make sure it formatted with MBR and FAT32 then it will work.
+
+
+NOW First, download `PCUAE Manager` from https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-update/pcuae-manager-3.3.1-setup.exe (New Updated Version)
+
+or `Download PCUAE` from the `Website` then you will not need to use the `PCUAE Menu`, it here... https://projectcarouselusb.eu
+
+You install `PCUAE Manager` the same way you do with `PCUAE`, but pick a location on your `PC` not on the `PCUAE USB Drive`, it will `install to the C/: drive` under `C:\Games\PCUAE\PCUAE-Manager` folder, if you do not change it, once its installed click on its icon on the desktop to load `PCUAE Manager`.
+
+Once `PCUAE Manager` has opened you might see a box apear saying new version of PCUAE is avalible, but if not then `click on the PCUAE Tab` and you will see `PCUAE Install to a USB drive`, click on that item. 
+
+`PCUAE Manager` will then ask `do you want to download PCUAE`, then click on `Yes Button` and it will start `downloading the latest version of the PCUAE`, it will not take long, then it will ask `do you want to install PCUAE`, click on `Yes button again` to start the setup so you can `install PCUAE to the your USB Drive you want it on`.
+
+`PCUAE Manager` notifies you if there is a new version of the `PCUAE` when it becomes available on GitHub
+
+
 I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first, this file is the most important file to look at on how to use PCUAE, thats why it pops up when you have installed the PCUAE Menu and PCUAE, this file has the main stuff you will need to get PCUAE working, its a quick startup(help) guide to PCUAE so you do not need to deep dive into its manual.
 ----------------------------------
 
@@ -110,6 +130,8 @@ New PCUAE Offical Website, finally here... https://projectcarouselusb.eu
 I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, if you use the PCUAE site then you will not need to use the PCUAE Menu.
 
 More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
+
+
 
 
 
@@ -154,23 +176,6 @@ Picture of Windows Security showing it having a virus...
 It is happens then disable the Antivirus Progames monitor where it monitors your Files and Folders when running PCUAE Manager, once your finished installing PCUAE then turn it back on, you do not need to disable if your just adding games to the PCUAE USB Drive.
 
 
-How to install PCUAE
-=====================
-
-Make sure that the USB Drive you pick is formatted in Fat32 and in MBR(do not use GPT it will not work) , You can use a 8, 16, 32, 64 and 128GB USB Drive with THEC64 models and THEA500 and PCUAE should be OK to install on them too, I use a 64GB SD card with mine, you can even use a Sata Sold State Drive, 250GB or lower, just make sure it formatted with MBR and FAT32 then it will work.
-
-
-NOW First, download `PCUAE Manager` from https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-update/pcuae-manager-3.3.1-setup.exe (New Updated Version)
-
-or `Download PCUAE` from the `Website` then you will not need to use the `PCUAE Menu`, it here... https://projectcarouselusb.eu
-
-You install `PCUAE Manager` the same way you do with `PCUAE`, but pick a location on your `PC` not on the `PCUAE USB Drive`, it will `install to the C/: drive` under `C:\Games\PCUAE\PCUAE-Manager` folder, if you do not change it, once its installed click on its icon on the desktop to load `PCUAE Manager`.
-
-Once `PCUAE Manager` has opened you might see a box apear saying new version of PCUAE is avalible, but if not then `click on the PCUAE Tab` and you will see `PCUAE Install to a USB drive`, click on that item. 
-
-`PCUAE Manager` will then ask `do you want to download PCUAE`, then click on `Yes Button` and it will start `downloading the latest version of the PCUAE`, it will not take long, then it will ask `do you want to install PCUAE`, click on `Yes button again` to start the setup so you can `install PCUAE to the your USB Drive you want it on`.
-
-`PCUAE Manager` notifies you if there is a new version of the `PCUAE` when it becomes available on GitHub
 
 
 About Amiga/Atari Mode(16 bit only) RA Keyboard Map
@@ -293,7 +298,7 @@ Loading Games in TheCarousel Amora v1.6.1(THEC64 Only)
 ======================================================
 
 
-You can load your own Games on THEC64 Carousel Amora v1.6.1 so add your own games in its carousel, game pack is now inclued with PCUAE AIO thats included with PCUAE Manager, I am looking to another option for that because you can not use TheCarousel Manhattan, it blocked, its down to how RGL designed it on THEA500 Mini, they designed it in a way to stop you doing it or any way adding them all therte games and files are hashed so inpossable unless someone with the know how redesigns its carousel, I do not have enough experience to do it myself, I am not a coder.
+You can load your own Games on THEC64 Carousel Amora v1.6.1 so add your own games in its carousel, game pack is now inclued with PCUAE AIO thats included with PCUAE Manager.
 
 
 Quick Info On Modes
