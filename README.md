@@ -62,12 +62,12 @@ Video is here of it working in IBrowse 2.4... https://www.youtube.com/watch?v=Nv
 
 Updated the way PCUAE loaded TheCarousels and speeded its loading time so its a bit faster, including the Modes too, I would like it to load 20 or 30 seconds but to do that I would have to change the way PCUAE boots up, I will do it some time down the line, busy with other things in PCUAE, PCUAE boot like a system so have to be carfull not to brake anything as its booting, so things not time to boot or enable like PCUAE Network Mode, I can brake something if it boots to quick so then misses something so it might not be possible, one problem with it is it has to see the PCUAE USB Drive so needs time to see it so 5 seconds so makes it take longer to boot but that can not be changed.
 
-PCUAE Download Menu is Back
+PCUAE Download Menu is Back, its now called just PCUAE Menu
 ============================
 
-Download PCUAE Download Menu from here... https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-menu/pcuae-menu-v1.0.3.exe
-It now works on its own, just click on its icon of the Windows Desktop.
-It will autoload it when you install it to your PC.
+Download PCUAE Menu from here... https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-menu/pcuae-menu-v1.0.3.exe
+It now works on its own, just click on its shortcut icon on the Windows Desktop.
+It will run itself when you install it to your PC.
 I made it so THEA500 users find it easier to download stuff for PCUAE.
 
 PCUAE Quick Startup Guide
@@ -116,10 +116,10 @@ Media Access - `USB stick/drive` content will apear on the screen... :).. BINGO.
 
 ![Media Accsess](https://i.ibb.co/YZx66Wp/Screenshot-2023-08-09-153911.jpg)
 
-I tried to speed up the loading time PCUAE so changed the the way it loaded and now for some resion thinks the USB Drive is not free when the carousel loads when it is, so now got to work out why and what I change that caused it, it not really that important because you can use `Media Access`.
+I tried to speed up the loading time PCUAE so changed the the way it loaded and now for some resion thinks the USB Drive is not free when the carousel loads when it is, so now got to work out why and what I change that caused it, it not really that important because you can use `Media Access`... This has now been fixed in PCUAE v3.3.3... :)
 
 
-NEW PCUAE v3.3.0 now avalilble
+NEW PCUAE v3.3.3 now avalilble
 ---------
 New Facebook Group now... https://www.facebook.com/groups/pcuae
 -----------
