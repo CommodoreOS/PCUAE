@@ -1,4 +1,4 @@
-Thanks for installing PCUAE, Enjoy... :) PCUAE Download Menu is been discontinued, to get PCUAE other versions like PCUAE All in One... Go to the PCUAE website.
+Thanks for installing PCUAE, Enjoy... :)
 
 PCUAE Logo, PCUAE Stands for...
 
