@@ -30,17 +30,15 @@ Just skip the parts you do not want too or need to read.
 
 This will guide you through...
 
-Whats New
-
 [How to Install PCUAE](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
 
 [Download the PCUAE Menu](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-download-menu-is-back-its-now-called-just-pcuae-menu)
 
-About PCUAE Loading and the PCUAE USB Drive
+[What are the PCUAE Shortcut Keyboard Combinations](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-the-pcuae-shortcut-key-combinations)
 
-What are the PCUAE Shortcut Keyboard Combinations
+[What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-thec64-joystick-button-combinations)
 
-[What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-thec64-joystick-button-combinations
+
 
 Whats New
 =============
