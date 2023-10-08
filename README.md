@@ -1,3 +1,9 @@
+Updated - 08/10/2023
+=====================
+
+Quick Startup Guide for PCUAE
+====================
+
 Thanks for installing PCUAE, Enjoy... :)
 
 PCUAE Logo, PCUAE Stands for...
@@ -27,8 +33,6 @@ How to Install PCUAE.
 What are the PCUAE Shortcut Key Combinations
 
 What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations
-
-Updated - 04/08/2023
 
 Whats New
 =============
