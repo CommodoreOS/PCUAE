@@ -1,10 +1,11 @@
 Updated - 08/10/2023
 =====================
 
-Quick Startup Guide for PCUAE
+PCUAE Quick Startup Guide
 ====================
 
 Thanks for installing PCUAE, Enjoy... :)
+
 
 PCUAE Logo, PCUAE Stands for...
 
@@ -22,15 +23,17 @@ Look below at... `Please read About PCUAE below...` Once you have installed PCUA
 If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) .
 
 If you have just Installed PCUAE and do not know how to use its basic functions then look thought this guide before reading the Manual(Wiki).
+
+Just skip the parts you do not want too or need to read.
 ============================================
 
 This will guide you through...
 
 Whats New.
 
-About PCUAE Loading and the PCUAE USB Drive.
-
 How to Install PCUAE.
+
+About PCUAE Loading and the PCUAE USB Drive.
 
 What are the PCUAE Shortcut Keyboard Combinations
 
@@ -77,9 +80,6 @@ Download PCUAE Menu from here... https://github.com/CommodoreOS/PCUAE-Update/rel
 It now works on its own, just click on its shortcut icon on the Windows Desktop.
 It will run itself when you install it to your PC.
 I made it so THEA500 users find it easier to download stuff for PCUAE.
-
-PCUAE Quick Startup Guide
-=================
 
 
 How to install PCUAE
@@ -144,7 +144,12 @@ About PCUAE Loading and the PCUAE USB Drive
 ======================================
 
 
-If when loading PCUAE is acts odd or does not load corectlly then it can be down to the PCUAE USB drive, THEC64/THEA500 Models do not eject the PCUAE USB Drive correctlly so can messup the data on the PCUAE USB Drive and then get loading errors so then you need to scan it for errors on Windows 10, it should work properly after that, On Windows 10/11, Right Click on the PCUAE USB Drive in Windows Exployer and click on Properties then click on Tools then you see... `Error Checking` `This option will check for file system errors` and then click on its `Check` button and wait for it to finish, once done put back in the machine and PCUAE should load properly.
+If when loading PCUAE is acts odd or does not load corectlly then it can be down to the PCUAE USB drive, THEC64/THEA500 Models do not eject the PCUAE USB Drive correctlly so mark the drive with a `Dirty Bit` so it neeeds scanning for errors, it can messup the data on the PCUAE USB Drive and then get loading errors so then you need to scan it for errors on Windows 10, or might even need to format it again in FAT32 but it should work properly after that, On Windows 10/11, Right Click on the PCUAE USB Drive in Windows Exployer and click on Properties then click on Tools then you see... `Error Checking` `This option will check for file system errors` and then click on its `Check` button and wait for it to finish, once done put back in the machine and PCUAE should load properly, if not then the USB Drive needs formating again with FAT32, on Windows 11 if the USB Drive is on FAT32 file system already you can format it again using the Windows Formater, right click on USB Drive and click on Format, it should of selected FAT32 already in it then click on `Quick` or `Slow Format`, I would do `Slow Format` to remove all the errors on the drive, it will take a while but its worth it, this goes to show that Windows can format USB Drives in FAT32, it still in there, it just uses NTFS instead cause its a better file system and you get less coruption on it, RGL should of used NTFS instead of FAT32, Linux OS for Armhf does support NTFS too, they copied all the other Minis thats why, you should not folow someone else, that how you make the same mistakes.
+
+I was looking into the `Dirty Bit` and why it was there resentlly and it can be fixed by using fsck.fat, it does remove the `Dirty Bit`  so no errors when you plug it back into your PC but can messup the USB drive because it see the some of the file names are too long so remnames the files on the PCUAE Drive so stops PCUAE booting so I removed it.
+
+It the carousel on THEA500 Mini thats making the `Dirty Bit` on the drive and making it when it reads it in its `USB Media Menu` cause its there if you tuen of the machine and put it in the PC the errorbox apears, its because its not been unmounted properly, its not been told to unmount it when it power off.
+If say your on the carousel and want to add a game you forget to add, you think... "ah OK I can pull the USB Drive out and add it" no you can't it needs to be unmounted first by Linux, if your using the carousel without PCUAE you need to turn it off first before pulling the USB drive out, you even have to do that in PCUAE too, it can corupt the files on the USB Drive.
 
 
 Picture of the Tools page on the PCUAE USB Drive
