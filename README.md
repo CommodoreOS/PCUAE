@@ -18,11 +18,12 @@ PCUAE is a system mod, it loads like a Linux system.
 
 PCUAE is licensed under the terms of the GNU General Public License, version 3 or later.
 
-Look below at... `Please read About PCUAE below...` Once you have installed PCUAE.
+Look below at... `This will guide you through...` Once you have installed PCUAE.
 
-If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) .
+If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) and read only the parts you need too.
 
 If you have just Installed PCUAE and do not know how to use its basic functions then look thought this guide before reading the Manual(Wiki).
+
 
 Just skip the parts you do not want too or need to read.
 ============================================
@@ -59,7 +60,7 @@ You plug it in into one of THEA500 USB ports, not the one next to the HDMI port,
 
 Once you pluged the adapter in to THEA500 then Open `thea500-Internet-ip.txt` in the `PCUAE USB Drive:\Network-SSID` folder to add THEA500 IP Address and the Routers Gateway IP.
 
-**IMPOTANT** Edit `thea500-internet-ip.txt` with `Notepad++` ONLY, `its a Linux file`, if you edit it with `Notepad on Windows` it will turn it into a `Windows file` and the Internet will not work, so download and `install Notpad++` first before editing it, its here... https://notepad-plus-plus.org
+You can now edit `thea500-internet-ip.txt` with notpad on windows 10, I added a program that checks it and turns it into a `Linux file`, now.
 You need to add the ip address you want to use for THEA500 Mini so pick one thats free and not used by any other device on the network and looks the same.
 Then add your Gateway ip, your routers IP, it needs this so THEA500 can connect to the internet.
 These instructions are in the `thea500-internet-ip.txt` file too as a reminder.
@@ -162,14 +163,7 @@ And Whatever you do `DO NOT TAKE OUT THE PCUAE USB DRIVE OUT WHEN ITS RUNNING PC
 
 if your still having loading probems then it can be how much power THEC64 is getting, to run PCUAE properly its recommened to use a USB power adapter thats 5v 3A, it will work with 5v 1A but you might get loading probelms.
 
-On THEA500 Mini when you remove the PCUAE USB Drive it marks it so makes it think it needs scaning for errors, this is down to RGL not ejecting the USB Drive properly in THEA500 Mini so will always mark the USB Drive and make Windows think it has errors on it when it does not, you can scan it for errors and it will say it `found none`, becuase its false, it does it all the time, its a bug that RGL has never fixed, they need to tell THEA500 Linux System to stop marking the drive for false errors, this is not down too PCUAE, it does it even if you use the USB Drive for just Amiga Games so RGL need to fix it, whats the point of RGL providing a way to update THEA500 Mini then if they never fix anything in it, they should of issued a update for it over 6 months a ago, its been over a year now and its still stuck on v1.1.1, well... they got there money from it now so are on to the next machine, they might as well not add a way to update the next machine, because there is no point of having it if your not going to update it or fix its problems, like: some games do not work using Amiberries Autoboot lha, not all games load and some games run slow and with broken graphics.
-
-About the Reviews Videos on YouTube about THEA500 Mini (a bit of a rant, sorry.. :) , do not always beleave what you see, not on YouTube anyway)
-==============================
-
-All the reviews on YouTube about THEA500 Mini are fake, they are made by YouTube influencers, they want you to buy it so are paid by RGL or given the console for free to review the product on there channel, that how marketing works now, yes its fucked(sorry), most stuff on YouTube is fake now, they will say its a good product if they got it for free from RGL and want the viewers to buy it so allways make sure you look at a video that the YouTuber has bought THEA500 Mini themself then it will be a honest review.
-
-YT is not like it was 10 years ago, its changed, it all about making money now from videos, when money is invoved it changes things, making YT videos for fun has gone, its now one big advertisment site now, Google has turned YT into a Marketing and Video/Film/TV programme streaming serivce when it was just about YOU only, thats why it was called YouTube, it was made to show home videos that you made so you could share them with your frends and family, because there was no site like it at the time and Google has compltely remove it from being used for that perpose, even selling Vaps to kids, YT is fucked and I am a creator on there, TikTok is more cloeser to what YT was made for now, thats why TikTok was made because YT is moving away from it its orignal perpose, ah well... rant over.. sorry... :).
+On THEA500 Mini when you remove the PCUAE USB Drive it marks it so makes it think it needs scaning for errors, this is down to RGL not ejecting the USB Drive properly in THEA500 Mini so will always mark the USB Drive and make Windows think it has errors on it when it does not, you can scan it for errors and it will say it `found none`, becuase its false, it does it all the time, its a bug that RGL has never fixed, they need to tell THEA500 Linux System to stop marking the drive for false errors, this is not down too PCUAE, it does it even if you use the USB Drive for just Amiga Games so RGL need to fix it.
 
 
 
@@ -184,7 +178,7 @@ Picture of Windows Security showing it having a virus...
 ![PCUAE VIRUS NOT](https://i.ibb.co/72PWzd7/Screenshot-2023-05-17-215743.jpg)
 
 
-It is happens then disable the Antivirus Progames monitor where it monitors your Files and Folders when running PCUAE Manager, once your finished installing PCUAE then turn it back on, you do not need to disable if your just adding games to the PCUAE USB Drive.
+It is happens then disable the antivirus program monitor where it monitors your files and folders when running PCUAE Manager, once your finished installing PCUAE then turn it back on, you do not need to disable if your just adding games to the PCUAE USB Drive.
 
 
 
