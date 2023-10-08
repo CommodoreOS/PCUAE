@@ -290,7 +290,7 @@ Autoboot Mode
 ==============
 
 
-You can run each Mode from StartUp cause PCUAE can Autoboot itself its called Autoboot Mode and why it need to be enabled continully, each Mode would not work without it.
+You can run each Mode from StartUp cause PCUAE can Autoboot itself its called Autoboot Mode and why it need to be enabled continully, it now installs it itself, each Mode would not work without it because some Modes need to be killed and the only way to do that is be rebooting the machine, like in Retroarch, you can kill it but it core(emulator) is still running on the screen so have to do a reboot it stop it, do not know why, its acting like the core is not part of retroach and runs on it own so killing Retroach does nothing.
 
 
 Loading Games in TheCarousel Amora v1.6.1(THEC64 Only)
