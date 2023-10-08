@@ -34,9 +34,9 @@ This will guide you through...
 
 [Download the PCUAE Menu](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-download-menu-is-back-its-now-called-just-pcuae-menu)
 
-[What are the PCUAE Shortcut Keyboard Combinations](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-the-pcuae-shortcut-key-combinations)
+[What are the PCUAE Shortcut Keyboard Combinations(So you can switch Modes)](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-the-pcuae-shortcut-key-combinations)
 
-[What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-thec64-joystick-button-combinations)
+[What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations(So you can switch Modes)](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-thec64-joystick-button-combinations)
 
 
 
