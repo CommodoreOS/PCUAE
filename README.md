@@ -84,7 +84,7 @@ Make sure that the USB Drive you pick is formatted in Fat32 and in MBR(do not us
 
 NOW First, download `PCUAE Manager` from https://github.com/CommodoreOS/PCUAE-Update/releases/tag/pcuae-manager (New Updated Version)
 
-or `Download PCUAE` from the `Website` then you will not need to use the `PCUAE Menu`, it here... https://projectcarouselusb.eu
+You can `Download PCUAE` from the `Website` it here... https://projectcarouselusb.eu or use the `PCUAE Menu` above, its up to you.
 
 You install `PCUAE Manager` the same way you do with `PCUAE`, but pick a location on your `PC` not on the `PCUAE USB Drive`, it will `install to the C/: drive` under `C:\Games\PCUAE\PCUAE-Manager` folder, if you do not change it, once its installed click on its icon on the desktop to load `PCUAE Manager`.
 
