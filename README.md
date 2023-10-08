@@ -32,7 +32,7 @@ This will guide you through...
 
 Whats New.
 
-How to Install PCUAE.
+![How to Install PCUAE.]( https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
 
 About PCUAE Loading and the PCUAE USB Drive.
 
