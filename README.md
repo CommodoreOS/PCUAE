@@ -82,7 +82,7 @@ How to install PCUAE
 Make sure that the USB Drive you pick is formatted in Fat32 and in MBR(do not use GPT it will not work) , You can use a 8, 16, 32, 64 and 128GB USB Drive with THEC64 models and THEA500 and PCUAE should be OK to install on them too, I use a 64GB SD card with mine, you can even use a Sata Sold State Drive, 250GB or lower, just make sure it formatted with MBR and FAT32 then it will work.
 
 
-NOW First, download `PCUAE Manager` from https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-update/pcuae-manager-3.3.1-setup.exe (New Updated Version)
+NOW First, download `PCUAE Manager` from https://github.com/CommodoreOS/PCUAE-Update/releases/tag/pcuae-manager (New Updated Version)
 
 or `Download PCUAE` from the `Website` then you will not need to use the `PCUAE Menu`, it here... https://projectcarouselusb.eu
 
