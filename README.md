@@ -67,7 +67,7 @@ Updated the way PCUAE loaded TheCarousels and speeded its loading time so its a 
 PCUAE Download Menu is Back, its now called just PCUAE Menu
 ============================
 
-Download PCUAE Menu from here... https://github.com/CommodoreOS/PCUAE-Update/releases/download/pcuae-menu/pcuae-menu-v1.0.3.exe
+Download PCUAE Menu from here... https://github.com/CommodoreOS/PCUAE-Update/releases/tag/pcuae-menu
 It now works on its own, just click on its shortcut icon on the Windows Desktop.
 It will run itself when you install it to your PC.
 I made it so THEA500 users find it easier to download stuff for PCUAE.
