@@ -30,17 +30,17 @@ Just skip the parts you do not want too or need to read.
 
 This will guide you through...
 
-Whats New.
+Whats New
 
 [How to Install PCUAE](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
 
 [Download the PCUAE Menu](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-download-menu-is-back-its-now-called-just-pcuae-menu)
 
-About PCUAE Loading and the PCUAE USB Drive.
+About PCUAE Loading and the PCUAE USB Drive
 
 What are the PCUAE Shortcut Keyboard Combinations
 
-What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations
+[What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-thec64-joystick-button-combinations
 
 Whats New
 =============
@@ -352,10 +352,8 @@ Where are the games kept for THEC64 Carousel
 There are in the `THEC64-CAROUSEL-GAMES` folder on the root of the PCUAE USB Drive now, they are not in the `Games` folder no more, make sure you changee the location when you export your games over from PCUAE Manager, it using the old location.
 
 
-
 What are the PCUAE Shortcut Key Combinations
-
-
+==============================================
 
 
 How To - Press and Hold Down the CTRL key and then press the key you want to use for 2 seconds in PCUAE Mode below.
@@ -419,8 +417,6 @@ Menu+C - Quick Restart - Reboot THEC64 and Activate the PAL/NTSC Video Screen on
 
 
 I found out this only works on THEC64 Mini not THEC64, it makes the Languges come up but the PAL/NTSC Video screen is not showing, I think its because its not seeing the HDMI so it works on THEC64 Mini cause it can not see disp device so can not detect the HDMI signal, I think it has to do with this line `mv /dev/disp /dev/disp-not` I keep digging.
-
-
 
 
 What are THEA500 THEGAMEPAD Button Combinations
