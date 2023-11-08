@@ -105,26 +105,33 @@ Once `PCUAE Manager` has opened you might see a box apear saying new version of 
 I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first, this file is the most important file to look at on how to use PCUAE, thats why it pops up when you have installed the PCUAE Menu and PCUAE, this file has the main stuff you will need to get PCUAE working, its a quick startup(help) guide to PCUAE so you do not need to deep dive into its manual.
 
 
+You can get to Media Accsess now from the Carousel by using the Game Slot Image for that carousel gamelist
+=====================================================================================================
 
-You can now use USB Media Access by pressing on the `Game Slot Image` on the Carousel on THEC64 Models.
+You can now use USB Media Access by selecting and pressing on the `Game Slot Image` on the Carousel on THEC64 Models.
 Look at the images below.
 
 
-Just select and press `left fire button` on the `Game Slot image`, its will show `Games Favorties 1, C64 Games, VIC20 Games` where it says what gamelist your on(its selected when you start the carousel) and it will load into `Classic Mode`(`C64 Basic` or `VIC20 Basic`) then press `Menu button` on `THEC64joystick` on the `Basic screen` and select `Media access` and press `Left fire button` and your `USB stick/drive` content will apear on the screen, you should use this anyway, it has more options in it like `disk swaping`, RGL should link the `USB Icon` on the `carousel` to `Media Access` anyway now becuase all models use it, you do not need `two USB file loaders`, only need one... `Media access`.
+Just select and press `left fire button` on the `Game Slot image`, its will show `Games Favorties 1, C64 Games, VIC20 Games` where it says what gamelist your on(its selected when you start the carousel) and it will load into `Classic Mode`(`C64 Basic` or `VIC20 Basic`) then press `Menu button` on `THEC64 joystick` on the `Basic screen` and select `Media access` and press `Left fire button` and your `USB stick/drive` content will apear on the screen, you should use this now anyway is better then the File Loader, it has more options in it like `disk swaping`, RGL should link the `USB Icon` on the `carousel` to `Media Access` anyway now because all models use it now, THEC64 does not need `two USB file loaders`, only need one... `USB Media Access`.
+
+Here is how to do it
+======================
+
+See pictures below
 
 On TheCarousel - Press on `left fire button` on `Game Slot image`...
 
 ![Game Slot image](https://i.ibb.co/hDBHB5X/Screenshot-2023-08-09-153743.jpg)
 
-On Classic Mode - then press `Menu button` on `THEC64joystick` on the `Basic screen` and select `Media Access`...
+On Classic Mode - then press `Menu button` on `THEC64 joystick` on the `Basic screen` and select `Media Access`...
 
 ![Classic Mode](https://i.ibb.co/5jqSzrk/Screenshot-2023-08-09-153838.jpg)
 
-Media Access - `USB stick/drive` content will apear on the screen... :).. BINGO.
+Media Access - `USB stick/drive` content will apear on the screen... :).. BINGO... :D
 
 ![Media Accsess](https://i.ibb.co/YZx66Wp/Screenshot-2023-08-09-153911.jpg)
 
-I tried to speed up the loading time PCUAE so changed the the way it loaded and now for some resion thinks the USB Drive is not free when the carousel loads when it is, so now got to work out why and what I change that caused it, it not really that important because you can use `Media Access`... This has now been fixed in PCUAE v3.3.3... :)
+And now you can get to Media Access easier... :)
 
 
 NEW PCUAE v3.3.3 now avalilble
@@ -145,11 +152,11 @@ About PCUAE Booting and the False Scan the PCUAE USB Drive for Errors in Windows
 ======================================
 
 
-If when loading PCUAE is acts odd or does not load corectly then it can be down to the PCUAE USB drive, THEC64/THEA500 Models do not eject the PCUAE USB Drive correctlly so mark the drive with a `Dirty Bit` so it neeeds scanning for errors, it can messup the data on the PCUAE USB Drive and then get loading errors so then you need to scan it for errors on Windows 10, or might even need to format it again in FAT32 but it should work properly after that, On Windows 10/11, Right Click on the PCUAE USB Drive in Windows Exployer and click on Properties then click on Tools then you see... `Error Checking` `This option will check for file system errors` and then click on its `Check` button and wait for it to finish, once done put back in the machine and PCUAE should load properly, if not then the USB Drive needs formating again with FAT32, on Windows 11 if the USB Drive is on FAT32 file system already you can format it again using the Windows Formater, right click on USB Drive and click on Format, it should of selected FAT32 already in it then click on `Quick` or `Slow Format`, I would do `Slow Format` to remove all the errors on the drive, it will take a while but its worth it, this goes to show that Windows can format USB Drives in FAT32, it still in there, it just uses NTFS instead cause its a better file system and you get less coruption on it, RGL should of used NTFS instead of FAT32, Linux OS for Armhf does support NTFS too, they copied all the other Minis thats why, you should not folow someone else, that how you make the same mistakes.
+If when loading PCUAE is acts odd or does not load corectly then it can be down to the PCUAE USB drive, THEC64/THEA500 Models do not eject the PCUAE USB Drive correctlly so mark the drive with a `Dirty Bit` so it needs scanning for errors, it can messup the data on the PCUAE USB Drive and then get loading errors so then you need to scan it for errors on Windows 10, or might even need to format it again in FAT32 but it should work properly after that, On Windows 10/11, Right Click on the PCUAE USB Drive in Windows Exployer and click on Properties then click on Tools then you see... `Error Checking` `This option will check for file system errors` and then click on its `Check` button and wait for it to finish, once done put back in the machine and PCUAE should load properly, if not then the USB Drive needs formating again with FAT32, on Windows 11 if the USB Drive is on FAT32 file system already you can format it again using the Windows Formater, right click on USB Drive and click on Format, it should of selected FAT32 already in it then click on `Quick` or `Slow Format`, I would do `Slow Format` to remove all the errors on the drive, it will take a while but its worth it, this goes to show that Windows can format USB Drives in FAT32, it still in there, it just uses NTFS instead cause its a better file system and you get less coruption on it, RGL should of used NTFS instead of FAT32, Linux OS for Armhf does support NTFS too, they copied all the other Minis thats why, you should not folow someone else, that how you make the same mistakes.
 
 I was looking into the `Dirty Bit` and why it was there recently and it can be fixed by using `fsck.fat`, it does remove the `Dirty Bit` so no errors when you plug it back into your PC but can messup the USB drive because it sees some of the file names are too long so renames the files(FSCK0000.001, FSCK0000.002 and so on) on the PCUAE USB Drive so stops PCUAE booting so I removed it.
 
-It the carousel on THEA500 Mini thats making the `Dirty Bit` on the drive and making it when it reads it in its `USB Media Menu` cause its there if you turn of the machine and put the USB Drive in the PC then the error box apears, its because its not been unmounted properly, its not been told to unmount it when it power off and because its on standybe=y do the USB Drive is still connected to the Linux system.
+It the carousel on THEA500 Mini thats making the `Dirty Bit` on the drive and making it when it reads it in its `USB Media Menu` cause its there if you turn of the machine and put the USB Drive in the PC then the error box apears, its because its not been unmounted properly, its not been told to unmount it when it power off and because its on standby so the USB Drive is still connected to the Linux system inside it.
 If say your on the carousel and want to add a game you forget to add, you think... "ah OK I can pull the USB Drive out and add it" no you can't it needs to be unmounted first by Linux, if your using the carousel without PCUAE you need to turn it off first before pulling the USB drive out, you even have to do that in PCUAE too, it can corupt the files on the USB Drive.
 
 
