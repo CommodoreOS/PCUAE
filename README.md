@@ -393,6 +393,12 @@ If the program needs Firmware v1.0.0 then use Carousel Version Changer to change
 For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at section 12 of the WIKI.
 
 
+How to change the Joystick ports, Port 1 or Port 2 via the keyboard in the Classic Mode
+====================================================================
+
+
+Press: Left SHIFT key and ←(Left Arrow)key(top row) (and hold) and now press M key (and hold) and now press A or B key (to switch Joystick Ports).
+
 
 
 What are THEC64 Joystick Button Combinations
