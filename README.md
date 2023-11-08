@@ -105,12 +105,10 @@ Once `PCUAE Manager` has opened you might see a box apear saying new version of 
 I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first, this file is the most important file to look at on how to use PCUAE, thats why it pops up when you have installed the PCUAE Menu and PCUAE, this file has the main stuff you will need to get PCUAE working, its a quick startup(help) guide to PCUAE so you do not need to deep dive into its manual.
 
 
-You can get to Media Accsess now from the Carousel by using the Game Slot Image for that carousel gamelist
+You can get to USB Media Access now from the Carousel by using the Game Slot Image for that carousel gamelist
 =====================================================================================================
 
 You can now use USB Media Access by selecting and pressing on the `Game Slot Image` on the Carousel on THEC64 Models.
-Look at the images below.
-
 
 Just select and press `left fire button` on the `Game Slot image`, its will show `Games Favorties 1, C64 Games, VIC20 Games` where it says what gamelist your on(its selected when you start the carousel) and it will load into `Classic Mode`(`C64 Basic` or `VIC20 Basic`) then press `Menu button` on `THEC64 joystick` on the `Basic screen` and select `Media access` and press `Left fire button` and your `USB stick/drive` content will apear on the screen, you should use this now anyway is better then the File Loader, it has more options in it like `disk swaping`, RGL should link the `USB Icon` on the `carousel` to `Media Access` anyway now because all models use it now, THEC64 does not need `two USB file loaders`, only need one... `USB Media Access`.
 
