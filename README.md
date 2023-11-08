@@ -1,4 +1,4 @@
-Updated - 08/10/2023
+Updated - 08/11/2023
 =====================
 
 PCUAE Quick Startup Guide
