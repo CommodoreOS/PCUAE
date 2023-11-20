@@ -1,5 +1,7 @@
-Updated - 08/11/2023
+Updated - 20/11/2023
 =====================
+
+PCUAE Menu was put up for a trial period and no one used it really and find it too hard to keep it updated so now its be removed permanently.
 
 PCUAE Quick Startup Guide
 ====================
