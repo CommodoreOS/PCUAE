@@ -52,8 +52,10 @@ This will guide you through...
 Whats New
 =============
 
-Whats New in PCUAE 3.3.1
+Whats New in PCUAE 3.3.5
 ===================================
+
+PCUAE can update itself now, UPCUAE Updater and now been added to PCUAE Network Mode, if you have PCUAE connected to the internet now, go into The Mode Changer to select it in its menu, its been added to PCUAE 3.3.5.
 
 PCUAE Network Mode has been updated now to included THEA500, so you can now use the internet on the machine like you can on THEC64 but it only works with one USB Ethernet Adapter, TP-Link UE300 Ethernet Adapter, I bought one and it cost me £16 from eBay, so if you look around you might get one cheaper, I think they were original made for Apple MacOS X because it white like there old Apple Notbooks so it goes with the colour of THEA500 Mini very well... :)
 
