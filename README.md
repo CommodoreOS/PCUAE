@@ -1,6 +1,9 @@
 Updated - 20/11/2023
 =====================
 
+PCUAE v3.3.5 RELEASED
+======================
+
 PCUAE Menu was put up for a trial period and no one used it really and I found it too hard to keep updated all the time so now its be removed permanently, sorry for any inconvenience caused.
 
 You can use PCUAE Manager to keep PCUAE updated or click on the releases to get other stuff for THEA500 Mini if its not available in the PCUAE Manager.
