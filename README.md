@@ -3,7 +3,7 @@ Updated - 20/11/2023
 
 PCUAE Menu was put up for a trial period and no one used it really and I found it too hard to keep updated all tthe time so now its be removed permanently.
 You can use PCUAE Manager to keep PCUAE updated or click on the releases to get other stuff for THEA500 Mini if its not available in the PCUAE Manager.
-PCUAE can now update itself if you have PCUAE connected to the internet now, go into The Mode Changer to select it in its menu.
+PCUAE can now update itself if you have PCUAE connected to the internet now, go into The Mode Changer to select it in its menu, its been added to PCUAE 3.3.5.
 
 PCUAE Quick Startup Guide
 ====================
