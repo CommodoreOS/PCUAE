@@ -39,9 +39,7 @@ Just skip the parts you do not want too or need to read.
 
 This will guide you through...
 
-[How to Install PCUAE](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
-
-[Download the PCUAE Menu](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-download-menu-is-back-its-now-called-just-pcuae-menu)
+[How to Install PCUAE and Install and run a Mode Pack Dummpy Walkthrough](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
 
 [What are the PCUAE Shortcut Keyboard Combinations(So you can switch Modes)](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-the-pcuae-shortcut-key-combinations)
 
@@ -89,6 +87,8 @@ Updated the way PCUAE loaded TheCarousels and speeded its loading time so its a 
 How to install PCUAE
 =====================
 
+How to Install PCUAE and Install and Run a Mode Pack Dummpy Walkthroughs.
+
 Look here for THEC64 Models:
 
 https://thec64community.online/thread/1613/pcuae-walkthrough-updated-thec64-models
@@ -104,27 +104,16 @@ For THEC64 Models and THEA500:
 PCUAE Automaticlly Updating the Firmware(THEA500 Only)
 ======================================================
 
-
-On THEA500 Mini... It copies to the firmware and changes the firmare for you automaticlly so upgrades(updates) it temporary from Firmware Manahttan v1.0.0 to Firmware Manahttan v1.1.1 so you do not need to update your firmware at all if you install PCUAE, it can be downgraded too, the firmware is now connected to what TheCarousel Manhattan in PCUAE Mode is on so if its on Manhattan v1.1.1, its default option, it will change the firmware carousel if its Manhattan v1.0.0 to Manhattan v1.1.1 when you turn of the machine(after booting PCUAE Mode once) from running PCUAE and then turn it back on without the PCUAE USB Drive plugged in then it will load up Manhattan v1.1.1 in the firmware.
-It will be soon added to THEC64 Modes aswell sometime, its on the to do list... :)
+It changes the carosel in the firmware to the one in the Carousel Changer, (it temporary changes it) Manahttan v1.0.0 to Manahttan v1.1.1 , it can be downgraded too, It can be disabled to in the PCUAE System Menu, it defauit is on.
 
 
 You can uninstall PCUAE now with PCUAE REMOVER
 ======================================================
 
-You can remove the Autoboot Start-Up Script if you wish too now, you can add it or remove it, you remove it using The Mode Changer Menu or PCUAE Options Menu using PCUAE REMOVER, its now included in the PCUAE Startup Autoboot Mode.lha in the Carousel USB Media Menu on THEA500 or use the Fake Update on THEC64 Models.
-
-
-
-Autoboot Mode
-==============
-
-
-You can run each Mode from StartUp cause PCUAE can Autoboot itself its called Autoboot Mode and why it need to be enabled continully, it now installs it itself, each Mode would not work without it because some Modes need to be killed and the only way to do that is be rebooting the machine, like in Retroarch, you can kill it but it core(emulator) is still running on the screen so have to do a reboot it stop it, do not know why, its acting like the core is not part of retroach and runs on it own so killing Retroach does nothing.
+You can remove the Autoboot Start-Up Script if you wish too now, you can add it or remove it, you remove it using PCUAE System Menu using PCUAE REMOVER.
 
 
 For THEC64 Models Only:
-
 Loading Games in TheCarousel Amora v1.6.1(All THEC64 Models Only)
 ======================================================
 
@@ -157,8 +146,9 @@ You can run AGS 500 Mode(A500 Games Selector 1.5) on THEA500 Mini from Startup, 
 
 There are more features on THEC64 cause its been out longer then THEA500 Mini and its not locked down like THEA500 Mini is, I think RGL did this cause they do not like there machines being modified.
 
-For THEC64 Models Only:
 
+
+For THEC64 Models Only:
 You can get to USB Media Access now from the Carousel by using the Game Slot Image for that carousel gamelist
 ===============================================================================================================
 
@@ -200,49 +190,7 @@ More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
 
 
 
-About PCUAE Booting and the False Scan the PCUAE USB Drive for Errors in Windows from THEA500 and maybe THEC64 Models
-======================================
-
-
-If when loading PCUAE is acts odd or does not load corectly then it can be down to the PCUAE USB drive, THEC64/THEA500 Models do not eject the PCUAE USB Drive correctlly so mark the drive with a `Dirty Bit` so it needs scanning for errors, it can messup the data on the PCUAE USB Drive and then get loading errors so then you need to scan it for errors on Windows 10, or might even need to format it again in FAT32 but it should work properly after that, On Windows 10/11, Right Click on the PCUAE USB Drive in Windows Exployer and click on Properties then click on Tools then you see... `Error Checking` `This option will check for file system errors` and then click on its `Check` button and wait for it to finish, once done put back in the machine and PCUAE should load properly, if not then the USB Drive needs formating again with FAT32, on Windows 11 if the USB Drive is on FAT32 file system already you can format it again using the Windows Formater, right click on USB Drive and click on Format, it should of selected FAT32 already in it then click on `Quick` or `Slow Format`, I would do `Slow Format` to remove all the errors on the drive, it will take a while but its worth it, this goes to show that Windows can format USB Drives in FAT32, it still in there, it just uses NTFS instead cause its a better file system and you get less coruption on it, RGL should of used NTFS instead of FAT32, Linux OS for Armhf does support NTFS too, they copied all the other Minis thats why, you should not folow someone else, that how you make the same mistakes.
-
-I was looking into the `Dirty Bit` and why it was there recently and it can be fixed by using `fsck.fat`, it does remove the `Dirty Bit` so no errors when you plug it back into your PC but can messup the USB drive because it sees some of the file names are too long so renames the files(FSCK0000.001, FSCK0000.002 and so on) on the PCUAE USB Drive so stops PCUAE booting so I removed it.
-
-It the carousel on THEA500 Mini thats making the `Dirty Bit` on the drive and making it when it reads it in its `USB Media Menu` cause its there if you turn of the machine and put the USB Drive in the PC then the error box apears, its because its not been unmounted properly, its not been told to unmount it when it power off and because its on standby so the USB Drive is still connected to the Linux system inside it.
-If say your on the carousel and want to add a game you forget to add, you think... "ah OK I can pull the USB Drive out and add it" no you can't it needs to be unmounted first by Linux, if your using the carousel without PCUAE you need to turn it off first before pulling the USB drive out, you even have to do that in PCUAE too, it can corupt the files on the USB Drive.
-
-
-Picture of the Tools page on the PCUAE USB Drive
-
-![PCUAE DRIVE_TOOLS](https://i.ibb.co/H4x43zG/check-drive.jpg)
-
-When you put the PCUAE USB Drive in the PC it might ask you to do it anyway, if so then do it, but only if your having problems with the PCUAE USB Drive, because if you plug it into THEA500 it can be fake when there is no errors on the drive at all, more about that below.
-
-And Whatever you do `DO NOT TAKE OUT THE PCUAE USB DRIVE OUT WHEN ITS RUNNING PCUAE`, Its runs PCUAE from the drive so it will make it crash and can mess the drive up if you do, PCUAE runs like a Linux system does, PCUAE boots from it.
-
-if your still having loading probems then it can be how much power THEC64 is getting, to run PCUAE properly its recommened to use a USB power adapter thats 5v 3A, it will work with 5v 1A but you might get loading probelms.
-
-On THEA500 Mini when you remove the PCUAE USB Drive it marks it so makes it think it needs scaning for errors, this is down to RGL not ejecting the USB Drive properly in THEA500 Mini so will always mark the USB Drive and make Windows think it has errors on it when it does not, you can scan it for errors and it will say it `found none`, becuase its false, it does it all the time, its a bug that RGL has never fixed, they need to tell THEA500 Linux System to stop marking the drive for false errors, this is not down too PCUAE, it does it even if you use the USB Drive for just Amiga Games so RGL need to fix it.
-
-
-
-About the False Positive that Antivirus Programs See In Some Of The PCUAE Installer Setups exe Files
-======================================
-
-
-Windows10/11 might show the exe files has having a virus but its a false positive(it shows it in Windows Security App Program that runs in the background, it allways says it has the same virus`(Trojan:Script/Wacatac.H!ml)` when it don't have one, it because it can see scripts in it and its getting confused because its a exe file, if it looked properly it would see the scripts are for Linux only not Windows.
-
-Picture of Windows Security showing it having a virus...
-
-![PCUAE VIRUS NOT](https://i.ibb.co/72PWzd7/Screenshot-2023-05-17-215743.jpg)
-
-
-It is happens then disable the antivirus program monitor where it monitors your files and folders when running PCUAE Manager, once your finished installing PCUAE then turn it back on, you do not need to disable if your just adding games to the PCUAE USB Drive.
-
-
-
-For THEC64 Models  Only:
-
+For THEC64 Models Only:
 About Amiga/Atari Mode(16 bit only) RA Keyboard Map
 ====================================================
 
@@ -275,6 +223,7 @@ This is a problem with Retroarch only not PCUAE, its using the wrong mapping for
 I will fix this as soon as I can, once I have figered it out, you can still play Pinball games OK, the shift keys have not moved or the other keys like: CTRL, A(Amiga key/ALT) and Tab keys and can still use the keyboard or you can use the Virtal Keyboard too if you like.
 
 
+
 More info on PCUAE
 ===================
 
@@ -290,59 +239,12 @@ There is now nothing in PCUAE that not allowed to be in it, all software like `A
 Ever woundered why `VICE Emulator for Windows` do not come with the `C64 kernal Roms` no more..? the `C64 Kernal Roms` were free at one time too but are not now because of `Cloanto` owning the `C64 Kernal Roms copyright` thats in `C64 Forever`, thats why `THEC64 has Cloanto` on its box, RGL had to pay them to use the `C64 Kernal Roms` in there machines.
 
 
-PCUAE WILL BE SUPORTING  `AMiNIMiga` `AMM` again and added to the `THEA500-USB-MENU folder` again... :)
-
-
+PCUAE WILL BE SUPORTING  `AMiNIMiga` `AMM` again and added to the `THEA500-USB-MENU folder` again but no HDFs files inclued, only suporting it, you will need to add it... :)
 If you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
-
-
 "PCUAE now contains host-rum from the Pandory500 mod"... https://github.com/emuchicken/pandory-a500
-
-
 It will from now on include host-rum.adf file from Pandory so it can boot PCUAE using it, thanks Dajoho and Team Pandory for alowing me to use it... :)
-
-
 I will always try to support PCUAE, but do need a break from it from time to time... :)
-
-
 WIKI is here, it might need updating so might not included new fetures or info on the new version of PCUAE - PCUAE Manual is here - https://github.com/CommodoreOS/PCUAE/wiki
-
-# New Stuff Added
-
-I made some new boot screens now and they are now .rgba files, I made a new boot screen for THEA500 too, so it says `Retro Games` `THEA500` for 5 second then switches so it removes `Retro Games` and just shows `THEA500`, all boot screens are now updated.
-
-It will now show what Mode is loading on the PCUAE boot screen `Now Loading, AMIGA Mode...` under the `Project Carousel USB Anniversay Edition` Boot screen.
-
-
-I added some code so you see the Yellow Floppy Drive LED flash as PCUAE is loading on THEA500 Mini so you know its doing something... :)
-
-I have now added ScummVM Mode, you can add game into the THEA500
-
-I have no plans of PCUAE being ported to THEA500 Full Size Version(if it gets made, PCUAE might work straight out of the box, if its the same as THEA500 Mini and just bigger (like THEC64 Mini is the same as THEC64 just smaller), I do not plan on buying one, no money and I have original Amigas(A500, A600 and A1200) already so it don't really interest me, I got THEA500 Mini causes its small and not in the way and to port PCUAE to it and goes with all my other minis, just wanted you to know.
-
-
-TODO: Add emulators as Modes: Atari - ST, ScummVM(added), Master System, Mega Drive, MegaCD, DOOM.
-
-
-If you have any ideas you like me to try and add plaese post about them on THEC64 Community Forum, I do look at them and sometimes add a idea to PCUAE, so all ideas are welcome because you never know... :)
-
-
-
-# Key Highlights of PCUAE:
-
-
-PCUAE is not a hack, it does not hack the machines or copy over its firmware or change it, its a system mod, it loads like a Linux system, it modifies the way the machine boots so it boots from the USB Drive using a a set of scripts, the first script it boots from is called the `Autoboot Mode Start-Up Script`(the script is part of Autoboot Mode), its in the boot folder on the PCUAE USB Drive and called `autobootfirmware.sh` and its sent to the `int.d` folder in the firmware, it replaces the one in the firmware that just boots TheCarousel, its copied to the same place its script is that tells it to run the carousel when the console starts up if you have not installed PCUAE, its the LinuxOS boot folder, irts the main thing that gets copied to the firmware and it can boot from the firmware or from the PCUAE USB Drive when it see it plugged in, from start up, it does not touch the firmware at all and all the modifcations added are from the USB Drive only, once you take out the drive then the machine is back to booting up from the firmware carousel from start up.
-
-
-You can find me on YouTube too under Retronuts and on there are some videos of PCUAE - YouTube channel is here - https://www.youtube.com/channel/UCrG1jnbvykIcLzfBFxC2GrA 
-(Do not watch youtube videos from a phone or the Youtube app, you will get loads of advertisments, they play on youtube like every 10/15 minutes or so and cut into the video like your watching a TV Channel, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on Youtube add free.)
-
-
-Where Did The PCUAE Name Came From:
-==========================
-
-
-"It all started with mounting over the games on THEC64 Maxi carousel, I made a script so you could start it from the fake update and change the games on the carousel so thats why it was called Project Carousel USB(named after Carousel USB Chooser)... :), the first mode I added was Vice Mode and then the Carousel Gamelist Changer scripts became PCU Mode named after its name abrivated then changed to PCUAE Mode."
 
 
 FAQ
@@ -352,121 +254,7 @@ Where are the games kept for THEC64 Carousel
 =============================================
 
 
-There are in the `THEC64-CAROUSEL-GAMES` folder on the root of the PCUAE USB Drive now, they are not in the `Games` folder no more, make sure you changee the location when you export your games over from PCUAE Manager, it using the old location.
-
-
-What are the PCUAE Shortcut Key Combinations
-==============================================
-
-
-How To - Press and Hold Down the CTRL key and then press the key you want to use for 2 seconds in PCUAE Mode below.
-
-
-CTRL+F1 – Carousel Gamelist Changer – Select one of the gamelist on the screen to load in the Carousel - Not Available on THEA500 yet.
-
-
-CTRL+F3 – Carousel Version Changer – Change to a different carousel version 1.0.5,1.6.1 THEC64 or 1.0.0,1.1.1 THEA500.
-
-
-CTRL+F5 – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch, VICE Modes.. etc). 
-
-
-(THEC64/THEVIC20)CTRL+RESTOR, (THEA500)CTRL-END – Reboot the Machine – This makes the machines reboot, not the emulator – Just reboots, nothing special, you never know when you need a reboot/reset button… 🙂 and it saves on you pressing the power button all the time and wearing the power button out, thats why I added it.
-
-
-(THEC64/THEVIC20)CTRL+LEFT SHIFT+DEL, (THEA500)CTRL+LEFT ALT+DEL  - Shutdown, this will power off the machine, I added it cause I was sick of pulling the power cable out all the time on THEA500 Mini, it dose not shuttdown without the carousel running, if you press and HOLD the power button, if you hold it for more then 7 seconds it makes it do a restart and not power off(werid).
-
-
-You can go back to PCUAE Mode at any time by using the `Quick Shortcut back to PCUAE Mode`, its:
-
-
-On THEC64/THEVIC20 THEC64 Joystick - Menu+Left Triangle Button.
-
-On THEA500 - Menu+B(Blue) buttons.
-
-On THEC64 Mini/THEC64/THEVIC20/THEA500 Mini keyboard - CTRL+F3, 
-
-this will not work on PCUAE Mode cause your already in the mode, this only works on any other Mode... :)
-
-
-
-
-
-If the program needs Firmware v1.0.0 then use Carousel Version Changer to change the Carousel to the version you need, you can use CTRL+F3 on a USB or THEC64 Keyboard or Menu+Left Triangle Button on THEC64, Menu+Y on THEGampad to load The Carousel Version Changer on PCUAE Mode only.
-
-
-For more info on the Modes in PCUAE, go to... `How to Use the Modes`, its at section 12 of the WIKI.
-
-
-How to change the Joystick ports, Port 1 or Port 2 via the keyboard in the Classic Mode
-====================================================================
-
-
-Press: Left SHIFT key and ←(Left Arrow)key(top row) (and hold) and now press M key (and hold) and now press A or B key (to switch Joystick Ports).
-
-
-
-What are THEC64 Joystick Button Combinations
-==============================================
-
-
-Menu, Fire and the Triangle buttons – Press and Hold the Menu Button and then press the Left Fire, Right Fire or the Left, Right Triangle buttons you want to use for 2 seconds in PCUAE Mode, this makes it easier for you use PCUAE mode on THEC64 Mini, THEC64 Joystick now works in the menus on THEC64 Mini too now.
-
-
-Menu+Left Fire 1 Button – TheCarousel Gamelist Changer – Change to a different Carousel Gamelist thats been added with the PCUAE Manager in PCUAE Mode Only and only on THEC64 Mini/THEC64/THEVIC20.
-
-
-Menu+Left Triangle Button – Carousel Version Changer – Change to a different Carousel version - THEC64 Carousels 1.0.5, 1.6.1 in PCUAE Mode Only.
-
-
-Menu+Right Triangle Button – Mode Changer – Change to a different Mode(Amiga, Atari, Linux, Retroarch and VICE Modes) in PCUAE Mode Only.
-
-
-Menu+C - Quick Restart - Reboot THEC64 and Activate the PAL/NTSC Video Screen on TheCarousel v1.6.1 only(not avalible on v1.0.5).
-
-
-I found out this only works on THEC64 Mini not THEC64, it makes the Languges come up but the PAL/NTSC Video screen is not showing, I think its because its not seeing the HDMI so it works on THEC64 Mini cause it can not see disp device so can not detect the HDMI signal, I think it has to do with this line `mv /dev/disp /dev/disp-not` I keep digging.
-
-
-What are THEA500 THEGAMEPAD Button Combinations
-==============================================
-
-
-Press and Hold the Menu Button and then press the A, X, Y or B buttons you want to use and hold both down for 2 seconds.
-
-
-Menu+Y Button – Carousel Version Changer – Change to a different Carousel versions - Manhattan - 1.0.0, 1.1.1, Amiberry 5 and ADF Modes in PCUAE Mode Only.
-
-
-Menu+X Button – Mode Changer – Change to a different Mode(ADF, Amiga, Atari, Linux, Retroarch(Pandory) and VICE Modes) in PCUAE Mode Only.
-
-
-Menu+B Button – Quick Switch – Back to PCUAE Mode(if your in a different Mode then PCUAE Mode so you can quickly go back to PCUAE Mode without havinbg to load the Mode Changer).
-
-
-Menu+Home - Restart - Reset the Mode its on.
-
-
-Menu+RSB - Quick Switch - Switch between Amiberry 3.3 and 5.3 and back in the carousel, so you can run Amiberry v5.3 in the carousel if you like.
-
-
-
-How do you add games to AMIGA Mode
-==============================================
-
-
-PCUAE will have a new folder in PCUAE 3.1.0 that is for Amiga Games only and you be able to put the game files in a HDF file so you will need to use `WinUAE` to copy them to the HDF file to add more and the HDF file is 1.95GB.
-Download `WinUAE` from here, you can use the latest version... https://www.winuae.net/download/
-
-
-PCUAE will have a folder in it called `WHDLoad-Games` on the root of the USB Drive, it will have a HDF file in it, this is where you put your Amiga games, you have to load Workbench in `WinUAE` and then add the `WHDLoad-Games-1.hdf` file first then copy them over that way.
-Add the `WHDLoad` Games that are in `LHA` format in `WinUAE` so put them in a folder and then add the folder to `WinUAE` and then extract them to the `WHDLoad-Games-1.hdf` drive that will be in the `WHDLoad-Games` folder using Directry Opus so then they are unpacked properly.
-
-
-DO NOT use Winrar to unpack WHDLoad Games in LHA format, you will mess them up and they will not load.
-
-
-You can load other programs made for THEA500 Mini in PCUAE by puting them in the THEA500-USB-MENU folder, that where THEA500 Mini USB Drive root is now and you can add games too, ahl files can be put into THEA500-Games folder in the THEA500-USB-MENU folder.
+There are in the `THEC64-CAROUSEL-GAMES` folder on the root of the PCUAE USB Drive now.
 
 
 More FAQ comming soon.
