@@ -98,7 +98,67 @@ Look here for THEA500:
 https://thec64community.online/thread/1614/pcuae-walkthrough-updated-thea500
 
 
+
+For THEC64 Models and THEA500:
+
+PCUAE Automaticlly Updating the Firmware(THEA500 Only)
+======================================================
+
+
+On THEA500 Mini... It copies to the firmware and changes the firmare for you automaticlly so upgrades(updates) it temporary from Firmware Manahttan v1.0.0 to Firmware Manahttan v1.1.1 so you do not need to update your firmware at all if you install PCUAE, it can be downgraded too, the firmware is now connected to what TheCarousel Manhattan in PCUAE Mode is on so if its on Manhattan v1.1.1, its default option, it will change the firmware carousel if its Manhattan v1.0.0 to Manhattan v1.1.1 when you turn of the machine(after booting PCUAE Mode once) from running PCUAE and then turn it back on without the PCUAE USB Drive plugged in then it will load up Manhattan v1.1.1 in the firmware.
+It will be soon added to THEC64 Modes aswell sometime, its on the to do list... :)
+
+
+You can uninstall PCUAE now with PCUAE REMOVER
+======================================================
+
+You can remove the Autoboot Start-Up Script if you wish too now, you can add it or remove it, you remove it using The Mode Changer Menu or PCUAE Options Menu using PCUAE REMOVER, its now included in the PCUAE Startup Autoboot Mode.lha in the Carousel USB Media Menu on THEA500 or use the Fake Update on THEC64 Models.
+
+
+
+Autoboot Mode
+==============
+
+
+You can run each Mode from StartUp cause PCUAE can Autoboot itself its called Autoboot Mode and why it need to be enabled continully, it now installs it itself, each Mode would not work without it because some Modes need to be killed and the only way to do that is be rebooting the machine, like in Retroarch, you can kill it but it core(emulator) is still running on the screen so have to do a reboot it stop it, do not know why, its acting like the core is not part of retroach and runs on it own so killing Retroach does nothing.
+
+
 For THEC64 Models Only:
+
+Loading Games in TheCarousel Amora v1.6.1(All THEC64 Models Only)
+======================================================
+
+
+You can load your own Games on THEC64 Carousel Amora v1.6.1, THEC64 Maxi Carousel, all THEC64 models use it now.
+You can add your own games in its carousel, a set of games(for C64 and VIC20) are now inclued with PCUAE All In One Version and are included with PCUAE Manager too so you can export them to the PCUAE USB Drive, to enable PCUAE Mode on THEC64 Models you need to export over Favories 1 Gameslist to THEC64-CAROUSEL-GAMES folder on the root of THE PCUAE USB Drive for it to see the gameslists you add, you can add what games you like in the Favories 1 Gamelist in PCUAE Manager, it will need games adding to it if the carousel see no games at all it will not load the carousel, if favorites 1 is not added then a blue screen will apear and say there is no Favortes 1 Gamelist and then load the Firmware carousel with its default games instead of PCUAE Mode.
+
+
+Quick Info On Modes
+==================
+
+
+You can run C64 or VIC20 games on THEC64 Carousel on THEC64 Mini and switch from PAL to NTSC and back on THEC64 Mini/THEC64/THEVIC20.
+
+
+You can load VICE Mode and load C64 games on THEC64 and THEA500. (the pack is availble on here)
+
+
+You can connect to the internet and load up BBS borads in VICE Mode in THEC64.(THEC64 Only)
+
+
+You can load Amiga(16bit), Atari(8bit), Vice(C16/plus4,C64,VIC20,C128,8bit) and RetroArch(RA) Modes on THEC64 and THEA500, THEA500 can run Pandory Mode instead of RetroArch Mode(the packs are availble on here).
+
+
+On THE A500 Mini - CD32 Mode, load a CD32 game from StartUp and turn THEA500 Mini into the Amiga CD32 Console, Load a ADF file in ADF Mode and load it from StartUp, like your loading a real floppy disk.
+
+
+You can run AGS 500 Mode(A500 Games Selector 1.5) on THEA500 Mini from Startup, load a collection of games and apps on the Arcade Games Selector(it will need the HDD folder for it to work).
+
+
+There are more features on THEC64 cause its been out longer then THEA500 Mini and its not locked down like THEA500 Mini is, I think RGL did this cause they do not like there machines being modified.
+
+For THEC64 Models Only:
+
 You can get to USB Media Access now from the Carousel by using the Game Slot Image for that carousel gamelist
 ===============================================================================================================
 
@@ -181,6 +241,7 @@ It is happens then disable the antivirus program monitor where it monitors your 
 
 
 
+For THEC64 Models  Only:
 
 About Amiga/Atari Mode(16 bit only) RA Keyboard Map
 ====================================================
@@ -229,7 +290,7 @@ There is now nothing in PCUAE that not allowed to be in it, all software like `A
 Ever woundered why `VICE Emulator for Windows` do not come with the `C64 kernal Roms` no more..? the `C64 Kernal Roms` were free at one time too but are not now because of `Cloanto` owning the `C64 Kernal Roms copyright` thats in `C64 Forever`, thats why `THEC64 has Cloanto` on its box, RGL had to pay them to use the `C64 Kernal Roms` in there machines.
 
 
-You can still add `AMiNIMiga` to the `THEA500-USB-MENU folder` and it will run.
+PCUAE WILL BE SUPORTING  `AMiNIMiga` `AMM` again and added to the `THEA500-USB-MENU folder` again... :)
 
 
 If you want to discuss PCUAE go to THEC64 Community Forum - https://thec64community.online
@@ -275,61 +336,6 @@ PCUAE is not a hack, it does not hack the machines or copy over its firmware or 
 
 You can find me on YouTube too under Retronuts and on there are some videos of PCUAE - YouTube channel is here - https://www.youtube.com/channel/UCrG1jnbvykIcLzfBFxC2GrA 
 (Do not watch youtube videos from a phone or the Youtube app, you will get loads of advertisments, they play on youtube like every 10/15 minutes or so and cut into the video like your watching a TV Channel, use Google Chrome or Edge and then use the (ABP) Add Blocker Plus Extension, its free, best way to watch add free, you do not need to pay Google to watch videos on Youtube add free.)
-
-
-PCUAE Automaticlly Updating the Firmware(THEA500 Only)
-======================================================
-
-
-On THEA500 Mini... It copies to the firmware and changes the firmare for you automaticlly so upgrades(updates) it temporary from Firmware Manahttan v1.0.0 to Firmware Manahttan v1.1.1 so you do not need to update your firmware at all if you install PCUAE, it can be downgraded too, the firmware is now connected to what TheCarousel Manhattan in PCUAE Mode is on so if its on Manhattan v1.1.1, its default option, it will change the firmware carousel if its Manhattan v1.0.0 to Manhattan v1.1.1 when you turn of the machine(after booting PCUAE Mode once) from running PCUAE and then turn it back on without the PCUAE USB Drive plugged in then it will load up Manhattan v1.1.1 in the firmware.
-It will be soon added to THEC64 Modes aswell sometime, its on the to do list... :)
-
-
-You can uninstall PCUAE now with PCUAE REMOVER
-======================================================
-
-You can remove the Autoboot Start-Up Script if you wish too now, you can add it or remove it, you remove it using The Mode Changer Menu or PCUAE Options Menu using PCUAE REMOVER, its now included in the PCUAE Startup Autoboot Mode.lha in the Carousel USB Media Menu on THEA500 or use the Fake Update on THEC64 Models.
-
-
-Autoboot Mode
-==============
-
-
-You can run each Mode from StartUp cause PCUAE can Autoboot itself its called Autoboot Mode and why it need to be enabled continully, it now installs it itself, each Mode would not work without it because some Modes need to be killed and the only way to do that is be rebooting the machine, like in Retroarch, you can kill it but it core(emulator) is still running on the screen so have to do a reboot it stop it, do not know why, its acting like the core is not part of retroach and runs on it own so killing Retroach does nothing.
-
-
-Loading Games in TheCarousel Amora v1.6.1(All THEC64 Models Only)
-======================================================
-
-
-You can load your own Games on THEC64 Carousel Amora v1.6.1, THEC64 Maxi Carousel, all THEC64 models use it now.
-You can add your own games in its carousel, a set of games(for C64 and VIC20) are now inclued with PCUAE All In One Version and are included with PCUAE Manager too so you can export them to the PCUAE USB Drive, to enable PCUAE Mode on THEC64 Models you need to export over Favories 1 Gameslist to THEC64-CAROUSEL-GAMES folder on the root of THE PCUAE USB Drive for it to see the gameslists you add, you can add what games you like in the Favories 1 Gamelist in PCUAE Manager, it will need games adding to it if the carousel see no games at all it will not load the carousel, if favorites 1 is not added then a blue screen will apear and say there is no Favortes 1 Gamelist and then load the Firmware carousel with its default games instead of PCUAE Mode.
-
-
-Quick Info On Modes
-==================
-
-
-You can run C64 or VIC20 games on THEC64 Carousel on THEC64 Mini and switch from PAL to NTSC and back on THEC64 Mini/THEC64/THEVIC20.
-
-
-You can load VICE Mode and load C64 games on THEC64 and THEA500. (the pack is availble on here)
-
-
-You can connect to the internet and load up BBS borads in VICE Mode in THEC64.(THEC64 Only)
-
-
-You can load Amiga(16bit), Atari(8bit), Vice(C16/plus4,C64,VIC20,C128,8bit) and RetroArch(RA) Modes on THEC64 and THEA500, THEA500 can run Pandory Mode instead of RetroArch Mode(the packs are availble on here).
-
-
-On THE A500 Mini - CD32 Mode, load a CD32 game from StartUp and turn THEA500 Mini into the Amiga CD32 Console, Load a ADF file in ADF Mode and load it from StartUp, like your loading a real floppy disk.
-
-
-You can run AGS 500 Mode(A500 Games Selector 1.5) on THEA500 Mini from Startup, load a collection of games and apps on the Arcade Games Selector(it will need the HDD folder for it to work).
-
-
-There are more features on THEC64 cause its been out longer then THEA500 Mini and its not locked down like THEA500 Mini is, I think RGL did this cause they do not like there machines being modified.
-
 
 
 Where Did The PCUAE Name Came From:
