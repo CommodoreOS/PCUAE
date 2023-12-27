@@ -34,16 +34,13 @@ If you have just Installed PCUAE and do not know how to use its basic functions 
 PCUAE Quick Startup Guide
 ====================
 
-Just skip the parts you do not want too or need to read.
+You only need one link...
 ============================================
 
 This will guide you through...
 
 [How to Install PCUAE and Install and run a Mode Pack Dummpy Walkthrough](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
 
-[What are the PCUAE Shortcut Keyboard Combinations(So you can switch Modes)](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-the-pcuae-shortcut-key-combinations)
-
-[What are the PCUAE Shortcut THEC64 Joystick/THEGamepad Combinations(So you can switch Modes)](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#what-are-thec64-joystick-button-combinations)
 
 
 
