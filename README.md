@@ -98,8 +98,9 @@ Look here for THEA500:
 https://thec64community.online/thread/1614/pcuae-walkthrough-updated-thea500
 
 
+For THEC64 Models Only:
 You can get to USB Media Access now from the Carousel by using the Game Slot Image for that carousel gamelist
-=====================================================================================================
+===============================================================================================================
 
 You can now use USB Media Access by selecting and pressing on the `Game Slot Image` on the Carousel on THEC64 Models.
 
