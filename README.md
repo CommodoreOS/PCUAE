@@ -39,7 +39,7 @@ You only need one link...
 
 This will guide you through...
 
-[How to Install PCUAE and Install and run a Mode Pack Dummpy Walkthrough](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
+[How to Install PCUAE and Install and run a Mode Pack - Dummy Walkthrough](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
 
 
 
@@ -84,13 +84,13 @@ Updated the way PCUAE loaded TheCarousels and speeded its loading time so its a 
 How to install PCUAE
 =====================
 
-How to Install PCUAE and Install and Run a Mode Pack Dummpy Walkthroughs.
+How to Install PCUAE and Install and Run a Mode Pack - Dummy Walkthroughs.
 
-Look here for THEC64 Models:
+Look here for THEC64 Models Dummy Walkthrough:
 
 https://thec64community.online/thread/1613/pcuae-walkthrough-updated-thec64-models
 
-Look here for THEA500:
+Look here for THEA500 Dummy Walkthrough:
 
 https://thec64community.online/thread/1614/pcuae-walkthrough-updated-thea500
 
