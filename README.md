@@ -89,7 +89,7 @@ Updated the way PCUAE loaded TheCarousels and speeded its loading time so its a 
 How to install PCUAE
 =====================
 
-Look here foor THEC64 Models:
+Look here for THEC64 Models:
 
 https://thec64community.online/thread/1613/pcuae-walkthrough-updated-thec64-models
 
