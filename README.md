@@ -89,23 +89,13 @@ Updated the way PCUAE loaded TheCarousels and speeded its loading time so its a 
 How to install PCUAE
 =====================
 
-Make sure that the USB Drive you pick is formatted in Fat32 and in MBR(do not use GPT it will not work) , You can use a 8, 16, 32, 64 and 128GB USB Drive with THEC64 models and THEA500 and PCUAE should be OK to install on them too, I use a 64GB SD card with mine, you can even use a Sata Sold State Drive, 250GB or lower, just make sure it formatted with MBR and FAT32 then it will work.
+Look here foor THEC64 Models:
 
+https://thec64community.online/thread/1613/pcuae-walkthrough-updated-thec64-models
 
-NOW First, download `PCUAE Manager` from https://github.com/CommodoreOS/PCUAE-Update/releases/tag/pcuae-manager (New Updated Version)
+Look here for THEA500:
 
-You can `Download PCUAE` from the `Website` it here... https://projectcarouselusb.eu or use the `PCUAE Menu` above, its up to you.
-
-You install `PCUAE Manager` the same way you do with `PCUAE`, but pick a location on your `PC` not on the `PCUAE USB Drive`, it will `install to the C/: drive` under `C:\Games\PCUAE\PCUAE-Manager` folder, if you do not change it, once its installed click on its icon on the desktop to load `PCUAE Manager`.
-
-Once `PCUAE Manager` has opened you might see a box apear saying new version of PCUAE is avalible, but if not then `click on the PCUAE Tab` and you will see `PCUAE Install to a USB drive`, click on that item. 
-
-`PCUAE Manager` will then ask `do you want to download PCUAE`, then click on `Yes Button` and it will start `downloading the latest version of the PCUAE`, it will not take long, then it will ask `do you want to install PCUAE`, click on `Yes button again` to start the setup so you can `install PCUAE to the your USB Drive you want it on`.
-
-`PCUAE Manager` notifies you if there is a new version of the `PCUAE` when it becomes available on GitHub
-
-
-I might add new stuff about PCUAE in here first before adding it to the Manual(WIKI) so look here first, this file is the most important file to look at on how to use PCUAE, thats why it pops up when you have installed the PCUAE Menu and PCUAE, this file has the main stuff you will need to get PCUAE working, its a quick startup(help) guide to PCUAE so you do not need to deep dive into its manual.
+https://thec64community.online/thread/1614/pcuae-walkthrough-updated-thea500
 
 
 You can get to USB Media Access now from the Carousel by using the Game Slot Image for that carousel gamelist
