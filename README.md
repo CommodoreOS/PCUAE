@@ -1,10 +1,10 @@
 Updated - 27/12/2023
 =====================
 
-PCUAE v3.3.5 RELEASED
+PCUAE v3.3.6 RELEASED
 ======================
 
-PCUAE Menu was put up for a trial period and no one used it really and I found it too hard to keep updated all the time so now its be removed permanently, sorry for any inconvenience caused.
+If your having a probem loading PCUAE and its stuck on the PCUAE splash screen then update the firmware it can stop it loading properly if the Caroousel is on v1.0.10, it needs to be on the lestest version.
 
 You can use PCUAE Manager to keep PCUAE updated or click on the releases to get other stuff for THEA500 Mini if its not available in the PCUAE Manager.
 
