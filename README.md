@@ -4,7 +4,7 @@ Updated - 27/12/2023
 PCUAE v3.3.6 RELEASED
 ======================
 
-THEC64 Models ONLY - If your having a problem loading PCUAE and its stuck on the PCUAE splash screen then update the firmware it can stop it loading properly if THEC64 Carousel is on v1.0.10, it needs to be on the lestest version.
+THEC64 Models ONLY - Just found a problem with older firmware - If your having a problem loading PCUAE and its stuck on the PCUAE splash screen then update the firmware, it can stop PCUAE loading properly if THEC64 Carousel is on v1.0.10 or lower, it needs to be on the latest version for the firmware.
 
 You can use PCUAE Manager to keep PCUAE updated or click on the releases to get other stuff for THEA500 Mini if its not available in the PCUAE Manager.
 
