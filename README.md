@@ -1,15 +1,14 @@
 Updated - 27/12/2023
 =====================
 
-PCUAE v3.3.6 RELEASED
+PCUAE v3.4.0 RELEASED
 ======================
 
 THEC64 Models ONLY - Just found a problem with older firmware - If your having a problem loading PCUAE and its stuck on the PCUAE splash screen then update the firmware, it can stop PCUAE loading properly if THEC64 Carousel is on v1.0.10 or lower, it needs to be on the latest version of the firmware.
 
-You can use PCUAE Manager to keep PCUAE updated or click on the releases to get other stuff for THEA500 Mini if its not available in the PCUAE Manager.
+Nintendo 64 Mode just been added to PCUAE and for THEA500 Only, it only for THEA500 Mini because it has 512MB RAM and THEC64 has 256 so would have a problem running it and would run out of memory and kill the Mode, if you want to use N64 Mode then you will need THEA500 Mini.
 
-PCUAE can update itself now, PCUAE Updater has now been added to PCUAE Network Mode, if you have PCUAE connected to the internet now, go into The Mode Changer to select it in its menu, its been added to PCUAE 3.3.5.
-Thanks for installing PCUAE, Enjoy... :)
+You can use PCUAE Manager to keep PCUAE updated or PCUAE can update itself now, PCUAE Updater has now been added to PCUAE Network Mode, if you have PCUAE connected to the internet, go into The Mode Changer and select PCUAE Updater in its menu, its been added to PCUAE 3.3.5.
 
 
 PCUAE Logo, PCUAE Stands for...
