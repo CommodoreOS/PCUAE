@@ -99,12 +99,10 @@ https://thec64community.online/thread/1614/pcuae-walkthrough-updated-thea500
 
 
 
-For THEC64 Models and THEA500:
-
-PCUAE Automaticlly Updating the Firmware(THEA500 Only)
+PCUAE Automaticlly Updating the Firmware(TheCarousel in THEA500 Only)
 ======================================================
 
-It changes the carosel in the firmware to the one in the Carousel Changer, (it temporary changes it) Manahttan v1.0.0 to Manahttan v1.1.1 , it can be downgraded too, It can be disabled to in the PCUAE System Menu, it defauit is on.
+It changes TheCarousel in the firmware to the one used in TheCarousel Changer(it temporary changes it) so if you change from Manahttan v1.0.0 to Manahttan v1.2.1, it will use v1.2.1 in the firmware too, it can be downgraded too, It can be disabled as well in the PCUAE System Menu, it defauit is on automaticlly so switches TheCarousel in the firmware(when you remove the USB Drive and load the Firmware) to the same as TheCarousel used in PCUAE Mode.
 
 
 You can uninstall PCUAE now with PCUAE REMOVER
