@@ -46,8 +46,12 @@ This will guide you through...
 Whats New
 =============
 
-Whats New in PCUAE 3.3.5
+
+Whats New in PCUAE 3.4.0
 ===================================
+
+
+Nintendo 64 Mode has just been added and Atari Mode has been updated to make it easier to load games.
 
 PCUAE Updater has now been added to PCUAE Network Mode, if you have PCUAE connected to the internet now and is using a Ethernet Adapter with THEC64 Models/THEA500, then go into the PCUAE System Menu to check if PCUAE has any updates avalible, its been added to PCUAE 3.3.5.
 
@@ -172,7 +176,6 @@ Media Access - `USB stick/drive` content will apear on the screen... :).. BINGO.
 And now you can get to Media Access easier... :)
 
 
-NEW PCUAE v3.3.3 now avalilble
 ---------
 New Facebook Group now... https://www.facebook.com/groups/pcuae
 -----------
