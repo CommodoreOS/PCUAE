@@ -133,7 +133,7 @@ You can load VICE Mode and load C64 games on THEC64 and THEA500. (the pack is av
 You can connect to the internet and load up BBS borads in VICE Mode in THEC64.(THEC64 Only)
 
 
-You can load Amiga(16bit), Atari(8bit), Vice(C16/plus4,C64,VIC20,C128,8bit) and RetroArch(RA) Modes on THEC64 and THEA500, THEA500 can run Pandory Mode instead of RetroArch Mode(the packs are availble on here).
+You can load Amiga(16bit), Atari(8bit), Vice(C16/plus4,C64,VIC20,C128,8bit) and RetroArch(RA) Modes on THEC64 and THEA500, THEA500 can run RetroAami Mode instead of RetroArch Mode, they are now all in one installer now under Retroarch Mode Pack(the packs are availble on here).
 
 
 On THE A500 Mini - CD32 Mode, load a CD32 game from StartUp and turn THEA500 Mini into the Amiga CD32 Console, Load a ADF file in ADF Mode and load it from StartUp, like your loading a real floppy disk.
@@ -142,7 +142,7 @@ On THE A500 Mini - CD32 Mode, load a CD32 game from StartUp and turn THEA500 Min
 You can run AGS 500 Mode(A500 Games Selector 1.5) on THEA500 Mini from Startup, load a collection of games and apps on the Arcade Games Selector(it will need the HDD folder for it to work).
 
 
-There are more features on THEC64 cause its been out longer then THEA500 Mini and its not locked down like THEA500 Mini is, I think RGL did this cause they do not like there machines being modified.
+There are more features on THEC64 cause its been out longer then THEA500 Mini and its not locked down like THEA500 Mini is, I think RGL did this cause to stop copyright games been added by people that have no rights to sell them, like what happened with the True Blue Mini USB Stick.
 
 
 
