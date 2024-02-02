@@ -1,8 +1,10 @@
-Updated - 22/01/2024
+Updated - 02/02/2024
 =====================
 
-PCUAE v3.4.0 RELEASED
+PCUAE v3.5.0 RELEASED
 ======================
+
+PCUAE Msx/Colecovision Mode now available
 
 THEC64 Models ONLY - Just found a problem with older firmware - If your having a problem loading PCUAE and its stuck on the PCUAE splash screen then update the firmware, it can stop PCUAE loading properly if THEC64 Carousel is on v1.0.10 or lower, it needs to be on the latest version of the firmware.
 
