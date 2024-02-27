@@ -1,8 +1,10 @@
 Updated - 02/02/2024
 =====================
 
-PCUAE v3.5.0 RELEASED
+PCUAE v3.6.0 RELEASED
 ======================
+
+You can now load PCUAE on the Atari2600 Plus.
 
 PCUAE MSX/Colecovision Mode now available
 
