@@ -1,4 +1,4 @@
-Updated - 02/02/2024
+Updated - 26/02/2024
 =====================
 
 PCUAE v3.6.0 RELEASED
