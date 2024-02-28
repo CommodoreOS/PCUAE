@@ -4,7 +4,7 @@ Updated - 26/02/2024
 PCUAE v3.6.0 RELEASED
 ======================
 
-You can now load PCUAE on the Atari2600 Plus and load ROM(.a26 2600 files and .bin 7800 files) Games on it from the USB Drive.
+You can now load PCUAE on the Atari2600 Plus and load ROM(.a26 2600 files and .bin 7800 files) Games on it from the USB Drive instead of cartridges, you can still run cartidges too.
 
 PCUAE MSX/Colecovision Mode now available
 
