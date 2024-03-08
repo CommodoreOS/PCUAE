@@ -8,7 +8,7 @@ What Models does PCUAE run on:
 
 THEC64 Mini,
 
-THEC64
+THEC64,
 
 THEVIC20,
 
