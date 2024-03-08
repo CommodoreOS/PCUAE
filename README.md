@@ -4,6 +4,20 @@ Updated - 26/02/2024
 PCUAE v3.6.0 RELEASED
 ======================
 
+What Models does PCUAE run on:
+
+THEC64 Mini,
+
+THEC64
+
+THEVIC20,
+
+THEA500 Mini,
+
+The Atari2600 Plus.
+
+The are plans for it run on on THE400 Mini too, but we will see, have to wait and see what its like first but do not see why PCUAE would not run on it too.
+
 You can now load PCUAE on the Atari2600 Plus and load ROM(.a26/.bin 2600 files and .a78/.bin 7800 files) Games on it from the USB Drive instead of cartridges, you can still run cartidges too, you can run Stella Emulator on it too and run cartridges in Stella as well.
 
 Look in START-PCUAE-ON-ATARI2600-PLUS folder and read the PLEASE-READ-ME_FOR-ATARI2600-PLUS.txt file for more infomation.
