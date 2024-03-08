@@ -1,7 +1,7 @@
-Updated - 26/02/2024
+Updated - 08/03/2024
 =====================
 
-PCUAE v3.6.0 RELEASED
+PCUAE v3.6.4 RELEASED
 ======================
 
 What Models does PCUAE run on:
