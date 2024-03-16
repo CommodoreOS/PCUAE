@@ -20,7 +20,7 @@ The are plans for it run on THE400 Mini too, but we will see, have to wait and s
 
 You can now load PCUAE on the Atari2600 Plus and load ROM(.a26/.bin 2600 files and .a78/.bin 7800 files) Games on it from the USB Drive instead of cartridges, you can still run cartidges too, you can run Stella Emulator on it too and run cartridges in Stella as well.
 
-Look in START-PCUAE-ON-ATARI2600-PLUS folder and read the PLEASE-READ-ME_FOR-ATARI2600-PLUS.txt file for more infomation.
+Look in START-PCUAE-ON-ATARI2600-PLUS folder and read the PLEASE-READ-ME_FOR-ATARI2600-PLUS.txt file for more infomation or here... https://github.com/CommodoreOS/PCUAE-Atari2600-USB-ROM-Loader/blob/main/README.md
 
 PCUAE MSX/Colecovision Mode now available
 
