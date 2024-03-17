@@ -22,7 +22,7 @@ You can now load PCUAE on the Atari2600 Plus and load ROM(.a26/.bin 2600 files a
 
 Look in START-PCUAE-ON-ATARI2600-PLUS folder and read the PLEASE-READ-ME_FOR-ATARI2600-PLUS.txt file for more infomation or here... https://github.com/CommodoreOS/PCUAE-Atari2600-USB-ROM-Loader/blob/main/README.md
 
-Always put cartridge in slot when using PCUAE on the Atari 2600 plus, its so the switches on the console work and it will not load the ROM file.
+Always have a cartridge in slot when using PCUAE on the Atari 2600 Plus, its so the switches on the console work and it will not load the ROM file if no cartridge.
 
 PCUAE MSX/Colecovision Mode now available
 
