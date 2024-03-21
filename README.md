@@ -16,7 +16,7 @@ THEA500 Mini,
 
 The Atari2600 Plus.
 
-The are plans for it run on THE400 Mini too, but we will see, have to wait and see what its like first but do not see why PCUAE would not run on it too.
+I will be adding PCUAE to THE400 Mini, but I have to wait and see, have to wait and see what its like first but do not see why PCUAE would not run on it too.
 
 You can now load PCUAE on the Atari2600 Plus and load ROM(.a26/.bin 2600 files and .a78/.bin 7800 files) Games on it from the USB Drive instead of cartridges, you can still run cartidges too, you can run Stella Emulator on it too and run cartridges in Stella as well.
 
