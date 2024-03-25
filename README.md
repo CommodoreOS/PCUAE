@@ -4,6 +4,8 @@ Updated - 16/03/2024
 PCUAE v3.6.5 RELEASED
 ======================
 
+https://thec64community.online/thread/1664/release-pcuae-3-6-5
+
 What Models does PCUAE run on:
 
 THEC64 Mini,
