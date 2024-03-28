@@ -82,7 +82,7 @@ Nintendo 64 Mode has just been added and Atari Mode has been updated to make it 
 
 PCUAE Updater has now been added to PCUAE Network Mode, if you have PCUAE connected to the internet now and is using a Ethernet Adapter with THEC64 Models/THEA500, then go into the PCUAE System Menu to check if PCUAE has any updates avalible, its been added to PCUAE 3.3.5.
 
-PCUAE Network Mode has been updated now to included THEA500 and the Atari2600 Plus too, so you can now use the internet on the machine like you can on THEC64 but it only works with one USB Ethernet Adapter on THEA500 and you can use the ether Net Atapters on THEC64 Mini/Maxi on the Atari2600 Plus too, TP-Link UE300 Ethernet Adapter works only on THEA500 Mini now at the moment and works on the Atari2600 Plus too, I bought one and it cost £16 from eBay, so if you look around you might get one cheaper, I think they were original made for Apple MacOS X because it white like there old Apple Notbooks so it goes with the colour of THEA500 Mini very well... :)
+PCUAE Network Mode has been updated now to included THEA500 and the Atari2600 Plus too, so you can now use the internet on the machine like you can on THEC64 but it only works with one USB Ethernet Adapter on THEA500 and you can use the other Ethernet Atapters on THEC64 Mini/Maxi on the Atari2600 Plus too, TP-Link UE300 Ethernet Adapter works only on THEA500 Mini at the moment and works on the Atari2600 Plus too, I bought one and it cost £16 from eBay, so if you look around you might get one cheaper, I think they were original made for Apple MacOS X because it white like there old Apple Notbooks so it goes with the colour of THEA500 Mini very well... :)
 
 TP-Link UE300 Ethernet Adapter works in the Atari2600 Plus with PCUAE Network Mode too.
 
