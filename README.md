@@ -76,7 +76,7 @@ Whats New
 Whats New in PCUAE 3.7.5
 ===================================
 
-Game Mode has been added to the Atari2600 Plus so you can load ROM games using a shortciut on the keyboard(CTRL+Key), Game Mode shows the shortcuts on the screen sop like a menu so you know which shortcut you can use to load a game on the Atari2600 Plus, Game Mode shortcut is CTRL+G and when your in a game you can go back to the Game Mode Menu Screen by pressing CTRL+G again in the game to load a different game.
+Game Mode has been added to the Atari2600 Plus so you can load ROM games using a two shortcut key combo on the keyboard(CTRL+Key), Game Mode shows the shortcuts on the screen so like a menu so you know which shortcut you can use to load a game on the Atari2600 Plus, Game Mode shortcut combo is CTRL+G and when your in a game you can go back to the Game Mode Menu Screen by pressing CTRL+G again in the game to load a different game.
 
 Nintendo 64 Mode has just been added and Atari Mode has been updated to make it easier to load games.
 
