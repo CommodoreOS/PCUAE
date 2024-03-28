@@ -1,7 +1,7 @@
-Updated - 16/03/2024
+Updated - 28/03/2024
 =====================
 
-PCUAE v3.6.5 RELEASED
+PCUAE v3.7.5 RELEASED
 ======================
 
 https://thec64community.online/thread/1664/release-pcuae-3-6-5
@@ -73,15 +73,16 @@ Whats New
 =============
 
 
-Whats New in PCUAE 3.4.0
+Whats New in PCUAE 3.7.5
 ===================================
 
+Game Mode has been added to the Atari2600 Plus so you can load ROM games using a shortciut on the keyboard(CTRL+Key), Game Mode shows the shortcuts on the screen sop like a menu so you know which shortcut you can use to load a game on the Atari2600 Plus, Game Mode shortcut is CTRL+G and when your in a game you can go back to the Game Mode Menu Screen by pressing CTRL+G again in the game to load a different game.
 
 Nintendo 64 Mode has just been added and Atari Mode has been updated to make it easier to load games.
 
 PCUAE Updater has now been added to PCUAE Network Mode, if you have PCUAE connected to the internet now and is using a Ethernet Adapter with THEC64 Models/THEA500, then go into the PCUAE System Menu to check if PCUAE has any updates avalible, its been added to PCUAE 3.3.5.
 
-PCUAE Network Mode has been updated now to included THEA500, so you can now use the internet on the machine like you can on THEC64 but it only works with one USB Ethernet Adapter, TP-Link UE300 Ethernet Adapter, I bought one and it cost me £16 from eBay, so if you look around you might get one cheaper, I think they were original made for Apple MacOS X because it white like there old Apple Notbooks so it goes with the colour of THEA500 Mini very well... :)
+PCUAE Network Mode has been updated now to included THEA500 and the Atari2600 Plus too, so you can now use the internet on the machine like you can on THEC64 but it only works with one USB Ethernet Adapter on THEA500 and you can use the ether Net Atapters on THEC64 Mini/Maxi on the Atari2600 Plus too, TP-Link UE300 Ethernet Adapter works only on THEA500 Mini at the moment, I bought one and it cost £16 from eBay, so if you look around you might get one cheaper, I think they were original made for Apple MacOS X because it white like there old Apple Notbooks so it goes with the colour of THEA500 Mini very well... :)
 
 Currys sell the TP-Link UE300... https://www.currys.co.uk/products/tplink-ue300-usb-3.0-to-gigabit-ethernet-universal-adapter-10148411.html
 
