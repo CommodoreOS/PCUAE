@@ -20,7 +20,7 @@ What Models does PCUAE run on:
 
 `THE400 Mini(comming Soon)`
 
-I will be adding PCUAE to THE400 Mini, but I have to wait and see, all indications say its a cross between THEC64 and THEA500, it has THEC64 main board inside it, and uses the same `NAND(128MB)Kioxia(Toshiba)`,`RAM(256MB)Hynix` and `SoC(Allwiner H3)` and uses THEA500 `THECarousel Manhattan(like the place in New York)` that they have called it `THECarousel Charm` because its a different build only but uses the same code so that makes it easier to modify so do not see why PCUAE would not run on it and proberly take a couple of weeks to add, maybe less.
+I will be adding PCUAE to THE400 Mini, but I have to wait and see, all indications say its a cross between THEC64 and THEA500, it has THEC64 main board inside it(modifed), and uses the same `NAND(128MB)Kioxia(Toshiba)`,`RAM(256MB)Hynix` and `SoC(Allwiner H3)` and uses THEA500 `THECarousel Manhattan(like the place in New York)` that they have called it `THECarousel Charm` because its a different build only but uses the same code so that makes it easier to modify so do not see why PCUAE would not run on it and it will need hacking as RGL like to add stuff to stop it been hacked.
 
 You can now load PCUAE on the Atari2600 Plus and load ROM(.a26/.bin 2600 files and .a78/.bin 7800 files) Games on it from the USB Drive instead of cartridges, you can still run cartidges too, you can run Stella Emulator on it too and run cartridges in Stella as well.
 
