@@ -7,6 +7,7 @@ PCUAE v3.7.5 RELEASED
 https://thec64community.online/thread/1664/release-pcuae-3-6-5
 
 What Models does PCUAE run on:
+================================
 
 `THEC64 Mini`,
 
@@ -18,19 +19,22 @@ What Models does PCUAE run on:
 
 `The Atari2600 Plus`.
 
-`THE400 Mini(comming Soon)`
+`THE400 Mini(Comming Soon... real soon now... :) )`
 
-I will be adding PCUAE to THE400 Mini, but I have to wait and see, all indications say its a cross between THEC64 and THEA500, it has THEC64 main board inside it(modifed), and uses the same `NAND(128MB)Kioxia(Toshiba)`,`RAM(256MB)Hynix` and `SoC(Allwiner H3)` and uses THEA500 `THECarousel Manhattan(like the place in New York)` that they have called it `THECarousel Charm` because its a different build only but uses the same code so that makes it easier to modify so do not see why PCUAE would not run on it and it will need hacking as RGL like to add stuff to stop it been hacked.
+I will be adding PCUAE to THE400 Mini, but I have to wait and see, all indications say its a cross between THEC64 and THEA500, it has THEC64 main board inside it(modifed), and uses the same `NAND(128MB)Kioxia(Toshiba)`,`RAM(256MB)Hynix` and `SoC(Allwiner H3)` and uses THEA500 `THECarousel Manhattan Skyline` that they have called it `THECarousel Charm` because its a different build only but its binaries are named the sameuses so is the same code so that makes it easier to modify so do not see why PCUAE would not run on it and it will need hacking as RGL like to add stuff to stop it been hacked.
 
-THE400 Mini will be the last machine that will be added to PCUAE , well it has been almost 4 years now, PCUAE started, 14 April 2020.
+THE400 Mini will be the last machine that will be added to PCUAE, well it has been almost 4 years now, PCUAE started, 14 April 2020, I am not really inteased in geting any of the Maxi models.
 
-You can now load PCUAE on the Atari2600 Plus and load ROM(.a26/.bin 2600 files and .a78/.bin 7800 files) Games on it from the USB Drive instead of cartridges, you can still run cartidges too, you can run Stella Emulator on it too and run cartridges in Stella as well.
+The games for Media Accsess are on the PCUAE USB Drive at `PCUAE-Atari-Games/THE400-USB-MENU` so thats where you can add your own games too, to enable PCUAE on THE400 Mini will have to use FEL Mode and Win32 Disk Imager to copy the nandb image over to it so it copies the PCUAE Autoboot Startup Script so PCUAE can boot on THE400 Mini so like on the Atari2600 Plus.
+
+You can now load PCUAE on the Atari2600 Plus now and load ROM(.a26/.bin 2600 files and .a78/.bin 7800 files) Games on it from the USB Drive instead of cartridges, you can still run cartidges too, you can run the original Stella Emulator 7.0 pre on it too(its not Retroarch) and run cartridges in original Stella as well.
 
 Look in START-PCUAE-ON-ATARI2600-PLUS folder and read the PLEASE-READ-ME_FOR-ATARI2600-PLUS.txt file for more infomation or here... https://github.com/CommodoreOS/PCUAE-Atari2600-USB-ROM-Loader/blob/main/README.md
 
 Always have a cartridge in slot when using PCUAE on the Atari 2600 Plus, its so the switches on the console work and it will not load the ROM file if no cartridge.
 
 PCUAE MSX/Colecovision Mode now available
+===========================================
 
 THEC64 Models ONLY - Just found a problem with older firmware - If your having a problem loading PCUAE and its stuck on the PCUAE splash screen then update the firmware, it can stop PCUAE loading properly if THEC64 Carousel is on v1.0.10 or lower, it needs to be on the latest version of the firmware.
 
