@@ -21,7 +21,7 @@ What Models does PCUAE run on:
 
 `THE400 Mini(Comming Soon... real soon now... :) )`
 
-I will be adding PCUAE to THE400 Mini, but I have to wait and see, all indications say its a cross between THEC64 and THEA500, it has THEC64 main board inside it(modifed), and uses the same `NAND(256MB)Kioxia(Toshiba)`,`RAM(256MB)Hynix` and `SoC(Allwiner H3)` and uses THEA500 `THECarousel Manhattan Skyline` that they have called `THECarousel Charm` because its a different build only but its binaries are named the same so is the same code so that makes it easier to modify so do not see why PCUAE would not run on it and it will need hacking as RGL like to add stuff to stop it been hacked.
+I will be adding PCUAE to THE400 Mini, but I have to wait and see, all indications say its a cross between THEC64 and THEA500, it has THEC64 main board inside it(modifed), and uses the same `NAND(256MB)Kioxia(Toshiba)`,`RAM(256MB)Hynix` and `CPU SoC(Allwiner H3)` and uses THEA500 `THECarousel Manhattan Skyline` that they have called `THECarousel Charm` because its a different build only but its binaries are named the same so is the same code so that makes it easier to modify so do not see why PCUAE would not run on it and it will need hacking as RGL like to add stuff to stop it been hacked.
 
 THE400 Mini will be the last machine that will be added to PCUAE, well it has been almost 4 years now, PCUAE started, 14 April 2020, I am not really interested in geting any of the Maxi models, I only like the original machines and I already have them.
 
