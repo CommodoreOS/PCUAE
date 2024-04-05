@@ -36,9 +36,11 @@ Always have a cartridge in slot when using PCUAE on the Atari 2600 Plus, its so 
 PCUAE MSX/Colecovision Mode now available
 ===========================================
 
-THEC64 Models ONLY - Just found a problem with older firmware - If your having a problem loading PCUAE and its stuck on the PCUAE splash screen then update the firmware, it can stop PCUAE loading properly if THEC64 Carousel is on v1.0.10 or lower, it needs to be on the latest version of the firmware.
+About THEC64 Models ONLY - Just found a problem with the older firmware - If your having a problem loading PCUAE and its stuck on the PCUAE splash screen then update the firmware, it can stop PCUAE loading properly if THE64 Carousel is on v1.0.10 or lower, it needs to be on the latest version of the firmware so v1.6.1.
 
-Nintendo 64 Mode has just been added to PCUAE and for THEA500 Only, it only for THEA500 Mini because it has 512MB RAM and THEC64 Mini/THEC64 and THEVIC20 has 256MB RAM so would have a problem running on them so would run out of memory and kill the Mode, if you want to use N64 Mode in PCUAE then you will need THEA500 Mini to do it.
+Nintendo 64 Mode has just been added to PCUAE 
+==============================================
+and for THEA500 Only, it only for THEA500 Mini because it has 512MB RAM and THEC64 Mini/THEC64 and THEVIC20 has 256MB RAM so would have a problem running on them so would run out of memory and kill the Mode, if you want to use N64 Mode in PCUAE then you will need THEA500 Mini to do it.
 
 You can use PCUAE Manager to keep PCUAE updated or PCUAE can update itself now, PCUAE Updater has now been added to PCUAE Network Mode, if you have PCUAE connected to the internet, go into The Mode Changer and select option 1 - PCUAE System Menu then option 2 PCUAE System Update Menu, its been added to PCUAE 3.3.5.
 
