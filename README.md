@@ -17,9 +17,9 @@ What Models does PCUAE run on:
 
 `THEA500 Mini`,
 
-`The Atari2600 Plus`.
+`The Atari2600 Plus`,
 
-`THE400 Mini(Comming Soon... real soon now... :) )`
+`THE400 Mini`/
 
 I will be adding PCUAE to THE400 Mini, but I have to wait and see, all indications say its a cross between THEC64 and THEA500, it has THEC64 main board inside it(modifed), and uses the same `NAND(256MB)Kioxia(Toshiba)`,`RAM(256MB)Hynix` and `CPU SoC(Allwinner H3)`(THEC64 board is based on the Orange PI PC H3) and uses THEA500 `THECarousel Manhattan Skyline` that they have called `Charm` because its a different build only so the same carousel, its binaries are named the same as THEA500 so is the same code, its just be modified to work with `RGL's Atari 8 bit THEColleen Emulator(Colleen (c)Copyright 2023 Chris Smith)` so in realaity THE400 Mini is THEC64 just modified so changed to look like THE400 so its a hybrd of the 2 consoles(like THEVIC20), THEC64 and THEA500, THEC64 Hardware and THEA500 Software in one.
 
