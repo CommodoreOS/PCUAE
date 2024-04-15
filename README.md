@@ -1,7 +1,7 @@
-Updated - 06/04/2024
+Updated - 15/04/2024
 =====================
 
-PCUAE v4.0.0 RELEASED
+PCUAE v4.0.1 RELEASED
 ======================
 
 https://thec64community.online/thread/1664/release-pcuae-3-6-5
@@ -23,9 +23,9 @@ and now... `THE400 Mini`.
 
 THE400 Mini is now added to PCUAE, it works the same way as THEC64, thats what basically it is its just uses THECarousel from THEA500, it uses the same `NAND(256MB)Kioxia(Toshiba)`,`RAM(256MB)Hynix` and `CPU SoC(Allwinner H3)`(THEC64 board is based on the Orange PI PC H3) and uses THEA500 `THECarousel Manhattan Skyline` that they have called `Charm` because its a different build only so the same carousel, its binaries are named the same as THEA500 so is the same code, its just be modified to work with `RGL's Atari 8 bit THEColleen Emulator(Colleen (c)Copyright 2023 Chris Smith` its not Colleen from Android, it proberly the Atari800 Emulator 4.20 or something and they named it differenty, the name Colleen come from one of the Atari ICs in the machine, there is not source for Colleen on Android) so in realaity THE400 Mini is THEC64 just modified so changed to look like THE400 so its a hybrd of the two consoles(like THEVIC20), THEC64 and THEA500, THEC64 Hardware and THEA500 Software in one.
 
-THE400 Mini will be the last machine that will be added to PCUAE, well it has been almost 4 years now, PCUAE started, 14 April 2020, I am not really interested in geting any of the Maxi models and PCUAE might work on them anyway if the same as the mini's, I only like the original machines and I already have them, I like the mini consoles becuase they are mini versions of them and do not take up any space.
+THE400 Mini will be the last machine that will be added to PCUAE, well it has been almost 4 years now, PCUAE started, 14 April 2020, I am not really interested in geting any of the Maxi models and PCUAE might work on them anyway if they are the same as the mini's, I only like the original machines and I already have them, I like the mini consoles becuase they are mini versions of them and do not take up any space.
 
-THE400 games folder for USB Media Accsess are on the PCUAE USB Drive at `PCUAE-Atari-Games/THE400-USB-MENU` so thats where you can add your own games too, to enable PCUAE on THE400 Mini you will have to use FEL Mode and Win32 Disk Imager to copy the nandb image over to its nandb so it copies the PCUAE Autoboot Startup Script so PCUAE can boot on THE400 Mini so like on the Atari2600 Plus, there is no way of modifing THECarousel or THEColleen Emulator.
+THE400 games folder for USB Media Accsess are on the PCUAE USB Drive at `PCUAE-Atari-Games/THE400-USB-MENU` so thats where you can add your own games too, to enable PCUAE on THE400 Mini you will have to use FEL Mode and Win32 Disk Imager to copy the nandb image over to its nandb so it copies the PCUAE Autoboot Startup Script so PCUAE can boot on THE400 Mini so like on the Atari2600 Plus, there is no way of modifing THECarousel or THEColleen Emulator, well not yet.
 
 You can now load PCUAE on the Atari2600 Plus now and load ROM(.a26/.bin 2600 files and .a78/.bin 7800 files) Games on it from the USB Drive instead of cartridges, you can still run cartidges too, you can run the original Stella Emulator 7.0 pre on it too(its not Retroarch) and run cartridges in original Stella as well.
 
