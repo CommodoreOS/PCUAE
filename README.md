@@ -7,7 +7,7 @@ PCUAE v4.0.1 RELEASED
 https://thec64community.online/thread/1664/release-pcuae-3-6-5
 
 
-Make sure you have a USB stick formatted as FAT32 ([use Rufus](https://rufus.ie/en/)).
+Make sure you have a USB stick formatted as FAT32 ([use Rufu if you need too](https://rufus.ie/en/)).
 
 
 What Models does PCUAE run on:
