@@ -25,6 +25,37 @@ What Models does PCUAE run on:
 
 and now... `THE400 Mini`.
 
+PCUAE Quick Startup Guide
+====================
+
+You only need one link...
+============================================
+
+This will guide you through...
+
+[How to Install PCUAE and Install and run a Mode Pack - Dummy Walkthrough](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
+
+Info on the PCUAE for the Atari2600 Plus look here: https://thec64community.online/thread/1658/pcuae-atari2600-plus-deeplay-loader
+
+PCUAE Logo, What does PCUAE Stands for...
+================================
+![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
+
+PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
+https://projectcarouselusb.eu/
+
+PCUAE is a system mod, it loads like a Linux system.
+
+PCUAE is licensed under the terms of the GNU General Public License, version 3 or later.
+
+Look below at... `This will guide you through...` Once you have installed PCUAE.
+
+If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) and read only the parts you need too.
+
+If you have just Installed PCUAE and do not know how to use its basic functions then look thought this guide before reading the Manual(Wiki).
+
+Whats New
+=============
 THE400 Mini is now added to PCUAE, it works the same way as THEC64, thats what basically it is its just uses THECarousel from THEA500, it uses the same `NAND(256MB)Kioxia(Toshiba)`,`RAM(256MB)Hynix` and `CPU SoC(Allwinner H3)`(THEC64 board is based on the Orange PI PC H3) and uses THEA500 `THECarousel Manhattan Skyline` that they have called `Charm` because its a different build only so the same carousel, its binaries are named the same as THEA500 so is the same code, its just be modified to work with `RGL's Atari 8 bit THEColleen Emulator(Colleen (c)Copyright 2023 Chris Smith` its not Colleen from Android, it proberly the Atari800 Emulator 4.20 or something and they named it differenty, the name Colleen come from one of the Atari ICs in the machine, there is not source for Colleen on Android) so in realaity THE400 Mini is THEC64 just modified so changed to look like THE400 so its a hybrd of the two consoles(like THEVIC20), THEC64 and THEA500, THEC64 Hardware and THEA500 Software in one.
 
 THE400 Mini will be the last machine that will be added to PCUAE, well it has been almost 4 years now, PCUAE started, 14 April 2020, I am not really interested in geting any of the Maxi models and PCUAE might work on them anyway if they are the same as the mini's, I only like the original machines and I already have them, I like the mini consoles becuase they are mini versions of them and do not take up any space.
@@ -46,47 +77,9 @@ Nintendo 64 Mode has just been added to PCUAE
 ==============================================
 For THEA500 Only, it only for THEA500 Mini because it has 512MB RAM and THEC64 Mini/THEC64/THEVIC20, THE400 Mini has 256MB RAM so would have a problem running on them so would run out of memory and kill the Mode, if you want to use N64 Mode in PCUAE then you will need THEA500 Mini to do it.
 
-PCUAE Updater is in PCUAE Network Mode
+PCUAE Updater is in PCUAE Network Mode Now
 =======================================
 You can use PCUAE Manager to keep PCUAE updated or PCUAE can update itself now, PCUAE Updater has now been added to PCUAE Network Mode, if you have PCUAE connected to the internet, go into The Mode Changer and select option 1 - PCUAE System Menu then option 2 PCUAE System Update Menu, its been added to PCUAE 3.3.5.
-
-
-PCUAE Logo, PCUAE Stands for...
-
-![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
-
-PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
-https://projectcarouselusb.eu/
-
-PCUAE is a system mod, it loads like a Linux system.
-
-PCUAE is licensed under the terms of the GNU General Public License, version 3 or later.
-
-Look below at... `This will guide you through...` Once you have installed PCUAE.
-
-If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) and read only the parts you need too.
-
-If you have just Installed PCUAE and do not know how to use its basic functions then look thought this guide before reading the Manual(Wiki).
-
-
-
-PCUAE Quick Startup Guide
-====================
-
-You only need one link...
-============================================
-
-This will guide you through...
-
-[How to Install PCUAE and Install and run a Mode Pack - Dummy Walkthrough](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
-
-
-Info on the PCUAE for the Atari2600 Plus look here: https://thec64community.online/thread/1658/pcuae-atari2600-plus-deeplay-loader
-
-
-Whats New
-=============
-
 
 Whats New in PCUAE 3.7.5
 ===================================
