@@ -126,7 +126,7 @@ How to install PCUAE
 
 How to Install PCUAE and Install and Run a Mode Pack - Dummy Walkthroughs.
 
-Look here for THEC64 Models Dummy Walkthrough:
+Look here for THEC64/THE400 Models Dummy Walkthrough:
 
 https://thec64community.online/thread/1613/pcuae-walkthrough-updated-thec64-models
 
