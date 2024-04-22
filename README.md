@@ -48,26 +48,26 @@ You only need one link...
 ============================================
 
 This will guide you through...
-
+-------
 [How to Install PCUAE and Install and run a Mode Pack - Dummy Walkthrough](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
-
+-------
 Info on the PCUAE for the Atari2600 Plus look here: https://thec64community.online/thread/1658/pcuae-atari2600-plus-deeplay-loader
-
+-------
 PCUAE Logo, What does PCUAE Stands for...
 ================================
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
 PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
 https://projectcarouselusb.eu/
-
+------
 PCUAE is a system mod, it loads like a Linux system.
-
+--------
 PCUAE is licensed under the terms of the GNU General Public License, version 3 or later.
-
+---------
 If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) and read only the parts you need too.
-
+-------
 If you have just Installed PCUAE and alraedy used the walkthough above then thanks for installing PCUAE and I hope you enjoy using it... :) This load up when PCUAE has finished to show you its finished installing it.
-
+--------
 Whats New
 =============
 THE400 Mini is now added to PCUAE, it works the same way as THEC64, thats what basically it is its just uses THECarousel from THEA500, it uses the same `NAND(256MB)Kioxia(Toshiba)`,`RAM(256MB)Hynix` and `CPU SoC(Allwinner H3)`(THEC64 board is based on the Orange PI PC H3) and uses THEA500 `THECarousel Manhattan Skyline` that they have called `Charm` because its a different build only so the same carousel, its binaries are named the same as THEA500 so is the same code, its just be modified to work with `RGL's Atari 8 bit THEColleen Emulator(Colleen (c)Copyright 2023 Chris Smith` its not Colleen from Android, it proberly the Atari800 Emulator 4.20 or something and they named it differenty, the name Colleen come from one of the Atari ICs in the machine, there is not source for Colleen on Android) so in realaity THE400 Mini is THEC64 just modified so changed to look like THE400 so its a hybrd of the two consoles(like THEVIC20), THEC64 and THEA500, THEC64 Hardware and THEA500 Software in one.
