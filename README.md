@@ -7,7 +7,7 @@ PCUAE v4.0.1 RELEASED
 https://thec64community.online/thread/1664/release-pcuae-3-6-5
 
 
- Make sure you have a USB stick formatted as FAT32 ([use Rufus if you need too](https://rufus.ie/en/)), PCUAE does not work on any other file system, all machines only use FAT32 to read games in its USB Media Accsess Browser, so FAT, NTFS, EXT3, EXT4 is not supported, you can split the USB Drive so it has two partitions but the USB Media Acsess will not read extra partions on the USB Drive so only use FAT32 and format(MBR) the whole USB Drive.
+ Make sure you have a USB stick formatted as FAT32 ([use Rufus if you need too](https://rufus.ie/en/)), PCUAE does not work on any other file system, all machines only use FAT32 to read games in its USB Media Access Browser, so FAT, NTFS, EXT3, EXT4 is not supported, you can split the USB Drive so it has two partitions but the USB Media Access will not read extra partions on the USB Drive so only use FAT32 and format(MBR) the whole USB Drive.
 --------
 You can use bigger drives with PCUAE - SSD, SD, USB Sticks, 32GB, 64GB and 128GB+.
 ---------
