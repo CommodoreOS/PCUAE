@@ -11,7 +11,8 @@ Look here for the Quick Startup Guide: https://github.com/CommodoreOS/PCUAE/blob
 You can download PCUAE Manager here to download PCUAE and its Modes: https://github.com/CommodoreOS/PCUAE-Update/releases/tag/pcuae-manager
 ------------
 
- Make sure you have a USB stick formatted as FAT32 ([use Rufus if you need too](https://rufus.ie/en/)), PCUAE does not work on any other file system, all machines only use FAT32 to read games in its USB Media Access Browser, so FAT, NTFS, EXT3, EXT4 is not supported, you can split the USB Drive so it has two partitions but the USB Media Access will not read extra partions on the USB Drive so only use FAT32 and format(MBR) the whole USB Drive.
+ Make sure you have a USB stick formatted as FAT32 ([use Rufus if you need too](https://rufus.ie/en/)), 
+ PCUAE does not work on any other file system, all machines only use FAT32 to read games in its USB Media Access Browser, so FAT, NTFS, EXT3, EXT4 is not supported, you can split the USB Drive so it has two partitions but the USB Media Access will not read extra partions on the USB Drive so only use FAT32 and format(MBR) the whole USB Drive.
 --------
 You can use bigger drives with PCUAE - SSD, SD, USB Sticks, 32GB, 64GB and 128GB+.
 ---------
@@ -60,6 +61,7 @@ PCUAE Logo, What does PCUAE Stands for...
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
 PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here or from the PCUAE Offical Website below.
+
 https://projectcarouselusb.eu/
 ------
 PCUAE is a system mod, it loads like a Linux system.
