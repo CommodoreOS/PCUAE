@@ -44,15 +44,15 @@ and now... `THE400 Mini`.
 PCUAE Quick Startup Guide
 ====================
 
-You only need one link...
-============================================
+You only need one link for THEC64 Mini, THEC64, THEVIC20 Atari2600 Plus and THE400 Mini:
+---------
 
-This will guide you through...
+This will guide you through:
 -------
 [How to Install PCUAE and Install and run a Mode Pack - Dummy Walkthrough](https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae)
--------
+
 Info on the PCUAE for the Atari2600 Plus look here: https://thec64community.online/thread/1658/pcuae-atari2600-plus-deeplay-loader
--------
+
 PCUAE Logo, What does PCUAE Stands for...
 ================================
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
