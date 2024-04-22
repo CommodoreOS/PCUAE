@@ -6,6 +6,8 @@ PCUAE v4.1.1 RELEASED
 
 https://thec64community.online/board/88/pcuae-releases-updates
 
+Look here for the Quick Strt Guide: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide
+-----------
 You can download PCUAE Manager here to download PCUAE and its Modes: https://github.com/CommodoreOS/PCUAE-Update/releases/tag/pcuae-manager
 ------------
 
