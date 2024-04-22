@@ -44,7 +44,7 @@ and now... `THE400 Mini`.
 PCUAE Quick Startup Guide
 ====================
 
-You only need one link for THEC64 Mini, THEC64, THEVIC20 Atari2600 Plus and THE400 Mini:
+You only need one link for THEC64 Mini, THEC64, THEVIC20, THEA500 Mini Atari2600 Plus and THE400 Mini:
 ---------
 
 This will guide you through:
