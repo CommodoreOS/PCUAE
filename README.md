@@ -19,7 +19,10 @@ Only use MBR - Master Boot Record, not GPT - GUID Partiton Table, its not suppor
  You do not need all of PCUAE, becuase it can be installed in parts so you can download only the Mode you want to use, so if your on the Atari 2600 Plus/THE400 Mini and only interested in Atari games only, then you just download PCUAE Main Setup and Atari Mode only and then run Atari 8bit Mode.
 ---------
 
-PCUAE now shows its shortcut keys/buttons on the screen now so might slow down PCUAE booting but you will be able to hide them, you need to see them otherwise you will not know what shortcut to use to load the Mode Changer to change a Mode and Carousel Gamelist Changer to change the Gamelist on THEC64, THEVIC20 Carousel and other options available, might be a good idea to take a photo of the screen with your phone when they come up on screen so you can look at them at any time.
+PCUAE now shows its shortcut keys/buttons on the screen now so might slow down PCUAE booting but you will be able to hide them, you need to see them otherwise you will not know what shortcut to use to load the Mode Changer to change a Mode and Carousel Gamelist Changer to change the Gamelist on THEC64, THEVIC20 Carousel and other options available. 
+
+It might be a good idea to take a photo of the screen with your phone when they come up on screen so you can look at them at any time.
+
 You can not hide the screens at the moment but it is comming too all machines, you can only hide them on the Atari2600 Plus at the moment by changing the setting in the PCUAE-Setting.txt file from 5 to 0 seconds.
 ---------
 
