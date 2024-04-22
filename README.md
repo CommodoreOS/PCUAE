@@ -7,8 +7,15 @@ PCUAE v4.0.1 RELEASED
 https://thec64community.online/thread/1664/release-pcuae-3-6-5
 
 
-Make sure you have a USB stick formatted as FAT32 ([use Rufus if you need too](https://rufus.ie/en/)).
+ Make sure you have a USB stick formatted as FAT32 ([use Rufus if you need too](https://rufus.ie/en/)), PCUAE does not work on any other file system, all machines only use FAT32 to read games in its USB Media Accsess Browser, so FAT, NTFS, EXT3, EXT4 is not supported, you can split the USB Drive so it has ywo partitions but the USB Media Acsess will not read extra partions on the USB Drive so only use FAT32 and format(MBR) the whole USB Drive.
+--------
+You can use bigger drives with PCUAE - SSD, SD, USB Sticks, 32GB, 64GB and 128GB+.
+---------
+Only use MBR - Master Boot Record, not GTP - GUID Table Partiton, its not supported by the machines.
+--------
 
+ You do not need all of PCUAE, becuase its in parts you can download only the stuff you want to use only so if your on the Atari 2600 Plus/THE400 Mini and only interested in Atari only, then you just download PCUAE Main Setup and Atari Mode only.
+---------
 
 What Models does PCUAE run on:
 ================================
