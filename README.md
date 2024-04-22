@@ -6,6 +6,8 @@ PCUAE v4.1.1 RELEASED
 
 https://thec64community.online/board/88/pcuae-releases-updates
 
+You can download PCUAE Manager here to download PCUAE and its Modes: https://github.com/CommodoreOS/PCUAE-Update/releases/tag/pcuae-manager
+------------
 
  Make sure you have a USB stick formatted as FAT32 ([use Rufus if you need too](https://rufus.ie/en/)), PCUAE does not work on any other file system, all machines only use FAT32 to read games in its USB Media Access Browser, so FAT, NTFS, EXT3, EXT4 is not supported, you can split the USB Drive so it has two partitions but the USB Media Access will not read extra partions on the USB Drive so only use FAT32 and format(MBR) the whole USB Drive.
 --------
