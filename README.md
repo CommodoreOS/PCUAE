@@ -14,7 +14,7 @@ You can use bigger drives with PCUAE - SSD, SD, USB Sticks, 32GB, 64GB and 128GB
 Only use MBR - Master Boot Record, not GTP - GUID Table Partiton, its not supported by the machines.
 --------
 
- You do not need all of PCUAE, becuase its in parts you can download only the stuff you want to use only so if your on the Atari 2600 Plus/THE400 Mini and only interested in Atari only, then you just download PCUAE Main Setup and Atari Mode only.
+ You do not need all of PCUAE, becuase it can be installed in parts so you can download only the Mode you want to use, so if your on the Atari 2600 Plus/THE400 Mini and only interested in Atari games only, then you just download PCUAE Main Setup and Atari Mode only and then run Atari 8bit Mode.
 ---------
 
 What Models does PCUAE run on:
