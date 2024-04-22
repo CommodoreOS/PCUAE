@@ -55,11 +55,9 @@ PCUAE is a system mod, it loads like a Linux system.
 
 PCUAE is licensed under the terms of the GNU General Public License, version 3 or later.
 
-Look below at... `This will guide you through...` Once you have installed PCUAE.
-
 If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) and read only the parts you need too.
 
-If you have just Installed PCUAE and do not know how to use its basic functions then look thought this guide before reading the Manual(Wiki).
+If you have just Installed PCUAE and alraedy used the walkthough above then thanks for installing PCUAE and I hope you enjoy using it... :) This load up when PCUAE has finished to show you its finished installing it.
 
 Whats New
 =============
