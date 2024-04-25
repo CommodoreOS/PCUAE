@@ -1,7 +1,7 @@
-Updated - 22/04/2024
+Updated - 25/04/2024
 =====================
 
-PCUAE v4.1.1 RELEASED
+PCUAE v4.1.2 RELEASED
 ======================
 
 https://thec64community.online/board/88/pcuae-releases-updates
