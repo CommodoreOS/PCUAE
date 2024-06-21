@@ -20,8 +20,8 @@ Only use MBR - Master Boot Record, not GPT - GUID Partiton Table, its not suppor
 --------
 
 PCUAE Amiga Mode Extras Pack (WHDLOad Games) - https://onedrive.live.com/?id=DE6843E1C82A96C8%21323314&cid=DE6843E1C82A96C8
-
- You do not need all of PCUAE, becuase it can be installed in parts so you can download only the Mode you want to use, so if your on the Atari 2600 Plus/THE400 Mini and only interested in Atari games only, then you just download PCUAE Main Setup and Atari Mode only and then run Atari 8bit Mode.
+--------
+You do not need all of PCUAE, becuase it can be installed in parts so you can download only the Mode you want to use, so if your on the Atari 2600 Plus/THE400 Mini and only interested in Atari games only, then you just download PCUAE Main Setup and Atari Mode only and then run Atari 8bit Mode.
 ---------
 
 PCUAE now shows its shortcut keys/buttons on the screen now so might slow down PCUAE booting but you will be able to hide them, you need to see them otherwise you will not know what shortcut to use to load the Mode Changer to change a Mode and Carousel Gamelist Changer to change the Gamelist on THEC64, THEVIC20 Carousel and other options available. 
