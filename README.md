@@ -66,7 +66,7 @@ PCUAE Logo, What does PCUAE Stands for...
 
 `PCUAE` was called orignally `PCU - Project Carousel USB` then in 2021 its name changed to `PCUAE - Project Carousel USB Anniversary Edition`.
 
-It name has nothing to do with PUAE Amiga Emulator in Retroach, it was named befor it was added as a mode.
+It name has nothing to do with PUAE Amiga Emulator in Retroach, it was named before it was added as a mode.
 
 PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here, PCUAE Manager or from the PCUAE Offical Website below.
 ---------
