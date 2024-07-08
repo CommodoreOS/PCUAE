@@ -68,13 +68,13 @@ PCUAE is completelly free and you do not need to pay for it or charged to use it
 ---------
 https://projectcarouselusb.eu/
 ------
-PCUAE is a system mod, it loads like a Linux system.
+PCUAE is basically a mod that runs emulators and kernel modules that the console is missing to get something inside it to work, like the network, internet so it enables it, alot of the mini consoles have stuff missing in the Linux system, that why it boots like a system so it can enable stuff in its system so runs different shell scripts one after another, each script enables something unless the system can not do it, the last script it runs is the Mode script and what mode you have picked to load, each mode is a mod so Carousel mod, Emulator mod that added to PCUAE to it can be loaded via its script.
 --------
 PCUAE is licensed under the terms of the GNU General Public License, version 3 or later.
 ---------
 If you just installed PCUAE and this has poped up then no need to read it, do it in your own time.. :) and read only the parts you need too.
 -------
-If you have just Installed PCUAE and alraedy used the walkthough above then thanks for installing PCUAE and I hope you enjoy using it... :) This load up when PCUAE has finished to show you its finished installing it.
+If you have just Installed PCUAE and alraedy used the walkthough above then thanks for installing PCUAE and I hope you enjoy using it... :) This load up when PCUAE setup has finished to show you its finished installing it.
 --------
 Whats New
 =============
