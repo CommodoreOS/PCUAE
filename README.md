@@ -21,7 +21,7 @@ You can use bigger drives with PCUAE - SSD, SD, USB Sticks, 32GB, 64GB and 128GB
 Only use MBR - Master Boot Record, not GPT - GUID Partiton Table, its not supported by the machines.
 --------
 
-PCUAE Amiga Mode Extras Pack (WHDLOad Games) - https://onedrive.live.com/?id=DE6843E1C82A96C8%21323314&cid=DE6843E1C82A96C8
+PCUAE Amiga Mode Extras Pack (WHDLoad Games) - https://onedrive.live.com/?id=DE6843E1C82A96C8%21323314&cid=DE6843E1C82A96C8
 --------
 You do not need all of PCUAE, becuase it can be installed in parts so you can download only the Mode you want to use, so if your on the Atari 2600 Plus/THE400 Mini and only interested in Atari games only, then you just download PCUAE Main Setup and Atari Mode only and then run Atari 8bit Mode.
 ---------
@@ -63,6 +63,8 @@ Info on the PCUAE for the Atari2600 Plus, look here: https://thec64community.onl
 PCUAE Logo, What does PCUAE Stands for...
 ================================
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
+
+`PCUAE` was called orignally `PCU - Project Carousel USB` then in 2021 its name changed to `PCUAE - Project Carousel USB Anniversary Edition`.
 
 PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here, PCUAE Manager or from the PCUAE Offical Website below.
 ---------
