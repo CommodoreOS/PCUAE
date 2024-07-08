@@ -64,7 +64,7 @@ PCUAE Logo, What does PCUAE Stands for...
 ================================
 ![PCUAE BOOT SCREEN](https://i.ibb.co/9YkHd7f/PCU-Anniversary-Edition.jpg)
 
-`PCUAE` was called orignally `PCU - Project Carousel USB` then in 2021 its name changed to `PCUAE - Project Carousel USB Anniversary Edition`.
+`PCUAE` was called originally `PCU - Project Carousel USB` then in 2021 its name changed to `PCUAE - Project Carousel USB Anniversary Edition`.
 
 It name has nothing to do with PUAE Amiga Emulator in Retroarch, it was named before it was added as a mode.
 
