@@ -68,7 +68,7 @@ PCUAE Logo, What does PCUAE Stands for...
 
 It name has nothing to do with PUAE Amiga Emulator in Retroarch, it was named before it was added as a mode.
 
-PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to dowmnload and use, make sure you always download it from here, PCUAE Manager or from the PCUAE Offical Website below.
+PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to download and use, make sure you always download it from here, PCUAE Manager or from the PCU Offical Website below.
 ---------
 https://projectcarouselusb.eu/
 ------
