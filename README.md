@@ -70,7 +70,7 @@ It name has nothing to do with PUAE Amiga Emulator in Retroarch, it was named be
 
 PCUAE is completelly free and you do not need to pay for it or charged to use it, if you do then you are been riped off, it free to download and use, make sure you always download it from here, PCUAE Manager or from the PCU Offical Website below.
 ---------
-https://projectcarouselusb.eu/
+https://projectcarouselusb.eu
 ------
 PCUAE is basically a mod that runs emulators and kernel modules that the console is missing to get something inside it to work, like the network, internet so it enables it, alot of the mini consoles have stuff missing in the Linux system, so it can enable stuff in its system so runs different shell scripts one after another, each script enables something unless the system can not do it, the last script it runs is the Mode script and what mode you have picked to load, each mode is a mod so Carousel Mod, Emulator Mod thats been added to PCUAE so it can be loaded via its script inside it.
 I hope this explains it better... :)
