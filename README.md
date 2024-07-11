@@ -6,7 +6,8 @@ PCUAE v4.4.0 RELEASED - Look on the right for Releases ---->
 
 If I have not change the PCUAE version number above to the same one availible to download then I just forgot to do it, it will change evenually... :)
 
-https://thec64community.online/board/88/pcuae-releases-updates
+
+Any help you need with PCUAE, look on THEC64 Community Fourm: https://thec64community.online
 
 Look here for the Quick Startup Guide: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide
 -----------
