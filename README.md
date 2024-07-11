@@ -1,7 +1,7 @@
-Updated - 15/05/2024
+Updated - 11/07/2024
 =====================
 
-PCUAE v4.3.0 RELEASED
+PCUAE v4.4.0 RELEASED
 ======================
 
 If I have not change the PCUAE version number above to the same one availible to download then I just forgot to do it, it will change evenually... :)
