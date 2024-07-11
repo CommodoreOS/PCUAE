@@ -290,7 +290,7 @@ More info on PCUAE
 There is now nothing in PCUAE that not allowed to be in it, all software like `Amiga Games Selector` and `Pandory for THEA500` is not included but you can download them in the `PCUAE Menu` using there download links, you have to add them yourself to `THEA500-USB-MENU folder`, thats really easy to do, `you just open there .ZIP or RAR file` and copy its `AGS` or `Pandory` folder to the `THEA500-USB-MENU folder` and they are then installed and will work in PCUAE, its that easy.
 
 
-`AMiNIMiga` has now been completely removed, I decided to remove it completely when `Amiga Workbench 3.1` was removed from THEA500 version, because I need the `Workbench 3.1 disks` so needs seting up in PCUAE to use it now to run it and it can not be set up to run normally like a `Workbench` so too much loop holes to up through, `Cloanto` probably asked him to remove it, thats would be the only reason why it been removed, its probably on to many systems thats why, I think it would of been different if it was only on THEA500 only, this is what happens when something become popular and Cloanto hear about it, this is the problem with older version of Workbench, they should be free to use in non payed products now but `AMiNIMiga` does get donations for it, that properly why no Workbench now inside it, PCUAE Does not get donations now, its now completely free, all ways of donating have now been removed, I do not need money for it, I made this because I wanted too, not for money, and the donation idea was not mine, I when a long with it thinking "OK I give a try" but it didn't work out so its better without it, work before profit, take pride in your work first before money, if you only think of the money then you lose interest in the work.
+`AMiNIMiga` has now been completely removed, I decided to remove it completely when `Amiga Workbench 3.1` was removed from THEA500 version, because I need the `Workbench 3.1 disks` so needs seting up in PCUAE to use it now to run it and it can not be set up to run normally like a `Workbench` so too much loop holes to go through, `Cloanto` probably asked him to remove it, thats would be the only reason why it been removed, its probably on to many systems thats why, I think it would of been different if it was only on THEA500 only, this is what happens when something become popular and Cloanto hear about it, this is the problem with older version of Workbench, they should be free to use in non payed products now but `AMiNIMiga` does get donations for it, that properly why no Workbench now inside it, PCUAE Does not get donations now, its now completely free, all ways of donating have now been removed, I do not need money for it, I made this because I wanted too, not for money, and the donation idea was not mine, I when a long with it thinking "OK I give a try" but it didn't work out so its better without it, work before profit, take pride in your work first before money, if you only think of the money then you lose interest in the work.
 
 
 `Cloanto` are called `Amiga Corporation` now, I find that werid, they proberly changed there name so they can sell the `Amiga copyright and Games from Amiga Forever` to other companies, now they own all of it.
@@ -345,7 +345,9 @@ JIFFYDOS 6 is included,
 THEC64 Mini, THEC64, THEVIC20, THEA500 Mini - Copyright(c) 2022 RETRO GAMES LTD - https://retrogames.biz
 
 
-IF you feel you want to help me out and give me a Monster Energy or a cup of Tea - https://www.paypal.com/donate/?token=qWVMumPQ58KRZUnjh4khuX2xIMHExwxviGQoH5_64rVv_hNa0ZGivFTSQ8FU8cvoO_KqOJ4KFKV6-xsq&locale.x=EN_US
+IF you feel you want to help me out and give me a Monster Energy or a cup of Tea:
+![image](https://github.com/CommodoreOS/PCUAE/assets/38408051/471f1937-254d-473f-a719-8e2ab50a2483)
+
 
 
 You can use PCUAE Manager to manage your games on the Carousel and store them, import/export them from/to the PCUAE USB Drive(THEC64 ONLY).
