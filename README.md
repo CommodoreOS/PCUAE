@@ -10,7 +10,7 @@ If I have not change the PCUAE version number above to the same one availible to
 Any help you need with PCUAE, look on THEC64 Community Fourm: https://thec64community.online
 
 
-PCUAE Manager is here is you want it - https://thec64community.online/thread/603/pcuae-manager
+PCUAE Manager is here if you want it - https://thec64community.online/thread/603/pcuae-manager
 
 
 Look here for the Quick Startup Guide: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide
