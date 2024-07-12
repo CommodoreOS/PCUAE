@@ -9,6 +9,10 @@ If I have not change the PCUAE version number above to the same one availible to
 
 Any help you need with PCUAE, look on THEC64 Community Fourm: https://thec64community.online
 
+
+PCUAE Manager on Github - https://thec64community.online/thread/603/pcuae-manager
+
+
 Look here for the Quick Startup Guide: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide
 -----------
 You can download PCUAE Manager here to download PCUAE and its Modes: https://github.com/CommodoreOS/PCUAE-Update/releases/tag/pcuae-manager
@@ -240,48 +244,11 @@ And now you can get to Media Access easier... :)
 ---------
 New Facebook Group now... https://www.facebook.com/groups/pcuae
 -----------
-Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy for the help, fixing scripts and that, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
+Alot of work has gone in to this version to make sure everything runs as it should, thanks Davy(Wizart) for the help, fixing scripts and adding features, PCUAE is now to big for one person to work on, it would take to long to release it between versions.
 
 New PCUAE Offical Website, finally here... https://projectcarouselusb.eu 
 -------------------------------------------------------------------------------------------------------------------------
 I changed my mind about having a site, it needs one, downloads are availble there too and other goodies.. :) you have to register on the site to download files and have access to the site, if you use the PCUAE site then you will not need to use the PCUAE Menu.
-
-More info on PCUAE is here... https://github.com/CommodoreOS/PCUAE/wiki
-
-
-
-For THEC64 Models Only:
-About Amiga/Atari Mode(16 bit only) RA Keyboard Map
-====================================================
-
-It looks like RA is using a Frence keyboard layout, AZERTY keyboard, a keyboard layout used in France and neighboring countries.
-Some keys are in the same place as a QWERTY keyboard, this is a record of where the keys are in Amiga Mode, it uses Retroarch so I have to find a way to change it to use a QWERTY keyboard map but you can not change it in Retroarch for some reason, weird.
-
-
-I mapped the keyboard(checked every key) so you know where the keys are in Amiga/Atari Mode(16 bit only) so you can still use the keyboard.
-
-
-What the keys are ment to be, QWERTY Keyboard(English)
-
-            1 2 3 4 5 6 7 8 9 0 - = Backspace
-             Q W E R T Y U I O P [ ] #
-              A S D F G H J K L ; ' Return 
-	    Shift  Z X C V B N M , . / Shift
-	              [  Space  ]
-  
-And what they are at the moment, AZERTY Keyboard(French)
-
-	        1 2 3 4 5 6 7 8 9 0 - = Backspace
-             A Z E R T Y U I O P [ ] \
-              Q S D F G H J K L , # Return
-	    Shift  W X C V B N ; M , / Shift
-	              [  Space  ]
-
-I hope this map helps you so you know where the keys are in Amiga/Atari Mode.
-I do not know what the numberpad is like because I do not have a Keyboard with a numberpad.
-This is a problem with Retroarch only not PCUAE, its using the wrong mapping for some reason, I just do not know why right now, it will take time to fix.
-I will fix this as soon as I can, once I have figered it out, you can still play Pinball games OK, the shift keys have not moved or the other keys like: CTRL, A(Amiga key/ALT) and Tab keys and can still use the keyboard or you can use the Virtal Keyboard too if you like.
-
 
 
 More info on PCUAE
@@ -355,9 +322,6 @@ You can use PCUAE Manager to manage your games on the Carousel and store them, i
 
 
 PCUAE Manager on Github - https://thec64community.online/thread/603/pcuae-manager
-
-
-PCUAE WIKI is here, it should answer any questions you might have about PCUAE.. https://github.com/CommodoreOS/PCUAE/wiki
 
 
 ANYWAY....PEACE PEOPLE... :) and Enjoy using PCUAE.
