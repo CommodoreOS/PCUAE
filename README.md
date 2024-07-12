@@ -10,13 +10,11 @@ If I have not change the PCUAE version number above to the same one availible to
 Any help you need with PCUAE, look on THEC64 Community Fourm: https://thec64community.online
 
 
-PCUAE Manager is here if you want it - https://thec64community.online/thread/603/pcuae-manager
-
-
 Look here for the Quick Startup Guide: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide
 -----------
 You can download PCUAE Manager here to download PCUAE and its Modes: https://github.com/CommodoreOS/PCUAE-Update/releases/tag/pcuae-manager
 ------------
+PCUAE Manager info is here if you want it - https://thec64community.online/thread/603/pcuae-manager
 
  Make sure you have a USB stick formatted as FAT32 ([use Rufus if you need too](https://rufus.ie/en/)), 
  PCUAE does not work on any other file system, all machines only use FAT32 to read games in its USB Media Access Browser, so FAT, NTFS, EXT3, EXT4 is not supported, you can split the USB Drive so it has two partitions but the USB Media Access will not read extra partions on the USB Drive so only use FAT32 and format(MBR) the whole USB Drive.
