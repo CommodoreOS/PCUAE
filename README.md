@@ -26,7 +26,7 @@ Only use MBR - Master Boot Record, not GPT - GUID Partiton Table, its not suppor
 
 PCUAE Amiga Mode Extras Pack (WHDLoad Games) - https://onedrive.live.com/?id=DE6843E1C82A96C8%21323314&cid=DE6843E1C82A96C8
 --------
-You do not need all of PCUAE, becuase it can be installed in parts so you can download only the Mode you want to use, so if your on the Atari 2600 Plus/THE400 Mini and only interested in Atari games only, then you just download PCUAE Main Setup and Atari Mode only and then run Atari 8bit Mode.
+You do not need all of PCUAE, becuase it can be installed in parts (like Hakchi) so you can download only the Mode (like Hmods) you want to use, so if your on the Atari 2600 Plus/THE400 Mini/Atatri Gamestation Pro and only interested in Atari games only, then you just download `pcuae-v4.4.0-main-4all-standalone-setup.exe` and install from the Menu `pcuae-v4.4.0-atari-machine-edition-standalone-setup-1.exe` and `pcuae-v4.4.0-atari-machine-edition-standalone-setup-2.exe` Atari Mode is now included.
 ---------
 
 PCUAE now shows its shortcut keys/buttons on the screen now so might slow down PCUAE boot time but you need to see them otherwise you will not know what keys/buttons to use to load the Mode Changer,Carousel Gamelist Changer to change a Mode or to change the gamelist on THEC64, THEVIC20 Carousel and other options available. 
@@ -37,27 +37,27 @@ It might be a good idea to take a photo of the screen with your phone when they 
 What Models does PCUAE run on:
 ================================
 
-`THEC64 Mini`,
+1. `THEC64 Mini`,
 
-`THEC64`,
+2. `THEC64`,
 
-`THEVIC20`,
+3. `THEVIC20`,
 
-`THEA500 Mini`,
+4. `THEA500 Mini`,
 
-`The Atari2600 Plus`,
+5. `The Atari2600 Plus`,
 
-and now... `THE400 Mini`.
+6. `THE400 Mini`
+
+and now... 7. `Atari Gamestation Pro`
+
 
 PCUAE Quick Startup Guide
 ====================
 
-You only need one link for THEC64 Mini, THEC64, THEVIC20, THEA500 Mini and THE400 Mini:
----------
-
 This will guide you through:
 -------
-How to Install PCUAE and Install and run a Mode Pack - Dummy Walkthrough: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae
+You only need one link for THEC64 Mini, THEC64, THEVIC20, THEA500 Mini and THE400 Mini: How to Install PCUAE and Install and run a Mode Pack - Dummy Walkthrough: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae
 
 Info on the PCUAE for the Atari2600 Plus, look here: https://thec64community.online/thread/1658/pcuae-atari2600-plus-deeplay-loader
 
