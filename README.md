@@ -59,7 +59,7 @@ This will guide you through:
 -------
 You only need one link for THEC64 Mini, THEC64, THEVIC20, THEA500 Mini and THE400 Mini: How to Install PCUAE and Install and run a Mode Pack - Dummy Walkthrough: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#how-to-install-pcuae
 
-Info on the PCUAE for the Atari2600 Plus, look here: https://thec64community.online/thread/1658/pcuae-atari2600-plus-deeplay-loader
+Info on the PCUAE for the Atari2600 Plus, Atari Gamestation Pro, look here now: https://thec64community.online/thread/1658/pcuae-atari2600-plus-deeplay-loader
 
 PCUAE Logo, What does PCUAE Stands for...
 ================================
