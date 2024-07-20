@@ -32,7 +32,7 @@ You do not need all of PCUAE, becuase it can be installed in parts (like Hakchi)
 PCUAE now shows its shortcut keys/buttons on the screen now so might slow down PCUAE boot time but you need to see them otherwise you will not know what keys/buttons to use to load the Mode Changer,Carousel Gamelist Changer to change a Mode or to change the gamelist on THEC64, THEVIC20 Carousel and other options available. 
 -------
 It might be a good idea to take a photo of the screen with your phone when they come up on screen so you can look at them at any time.
-
+-------
 
 What Models does PCUAE run on:
 ================================
