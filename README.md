@@ -17,15 +17,15 @@ Additional games collections - lots of Carousels with up to 255 games each - cus
 
 VICE mode - run the Vice emulator in full for PET, Vic20 C64, C128, C64 DTV etc.
 
-Other emulators e.g. Atari, SNES
+Other emulators e.g. Atari, SNES, PSX, ZX Spectrum Modes
 
 Additional tools like change the clock speed, reset the Nand etc.
 
-Make a TheVic20 boot up as a The400
+Make a TheVic20 boot up as a The400 and The400 into Thec64.
 
-Also runs these things on other models like A500Mini, The400, VCS+, Atari Gamestation.
+Also runs these things on other models like TheA500 Mini, The400, VCS+, Atari Gamestation.
 
-Thanks to vic2020ian on THEC64 Commmuity Forum - https://thec64community.online/thread/1754/pcuae-etc
+Thanks to vic2020ian on THEC64 Commmuity Forum for the discription - https://thec64community.online/thread/1754/pcuae-etc
 
 ## 
 
