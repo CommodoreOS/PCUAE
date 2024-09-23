@@ -9,7 +9,9 @@ VICE mode - run the Vice emulator in full for PET, Vic20 C64, C128, C64 DTV etc.
 Other emulators e.g. Atari, SNES
 Additional tools like change the clock speed, reset the Nand etc.
 Make a TheVic20 boot up as a The400
-Also runs these things on other models like A500Mini, The400, VCS+, Atari Gamestation
+Also runs these things on other models like A500Mini, The400, VCS+, Atari Gamestation.
+
+Thanks to vic2020ian on THEC64 Commmuity Forum - https://thec64community.online/thread/1754/pcuae-etc
 
 
 PCUAE v4.5.0 RELEASED - Look on the right for Releases ---->
