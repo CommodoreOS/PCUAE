@@ -1,5 +1,13 @@
 Updated - 17/09/2024
 =====================
+PCUAE v4.5.0 RELEASED - Look on the right for Releases ---->
+======================
+If you can not see the Releases then click here: https://github.com/CommodoreOS/PCUAE
+
+Sorry it took so long... :)
+
+PCUAE v.4.5.0 just released on the PCUAE Website: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
+============================
 
 In short PCUAE runs:
 
@@ -18,16 +26,6 @@ Make a TheVic20 boot up as a The400
 Also runs these things on other models like A500Mini, The400, VCS+, Atari Gamestation.
 
 Thanks to vic2020ian on THEC64 Commmuity Forum - https://thec64community.online/thread/1754/pcuae-etc
-
-
-PCUAE v4.5.0 RELEASED - Look on the right for Releases ---->
-======================
-If you can not see the Releases then click here: https://github.com/CommodoreOS/PCUAE
-
-Sorry it took so long... :)
-
-PCUAE v.4.5.0 just released on the PCUAE Website: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
-============================
 
 
 If I have not change the PCUAE version number above to the same one availible to download then I just forgot to do it, it will change evenually... :)
