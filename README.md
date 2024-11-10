@@ -1,12 +1,12 @@
 Updated - 07/10/2024
 =====================
-PCUAE v4.5.1 RELEASED - Look on the right for Releases ---->
+PCUAE v5.0.0 RELEASED - Look on the right for Releases ---->
 ======================
 If you can not see the Releases then click here: https://github.com/CommodoreOS/PCUAE
 
 Sorry it took so long... :)
 
-PCUAE v.4.5.1 just released on the PCUAE Website: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
+PCUAE v5.0.0 just released on the PCUAE Website: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
 ============================
 
 ## In short PCUAE runs:
