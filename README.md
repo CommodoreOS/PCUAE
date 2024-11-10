@@ -6,8 +6,9 @@ If you can not see the Releases then click here: https://github.com/CommodoreOS/
 
 Sorry it took so long... :)
 
-PCUAE v5.0.0 just released on the PCUAE Website: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
-============================
+PCUAE v5.0.0 also released on the PCUAE Website: https://thec64community.online/thread/1681/new-release-pcuae-v4-4 
+when you wnat all in one please go to the website https://projectcarouselusb.eu/pcuae-aio64-v5-0-0-downloads
+==================================================================================================================
 
 ## In short PCUAE runs:
 
