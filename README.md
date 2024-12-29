@@ -1,4 +1,4 @@
-Updated - 07/10/2024
+Updated - 29/12/2024
 =====================
 PCUAE v5.0.0 RELEASED - Look on the right for Releases ---->
 ======================
@@ -75,7 +75,11 @@ What Models does PCUAE run on:
 
 6. `THE400 Mini`
 
-and now... 7. `Atari Gamestation Pro`
+7. `Atari Gamestation Pro`
+
+8. `The Spectrum`
+
+9. `PS Classic - Coming soon`
 
 
 PCUAE Quick Startup Guide
