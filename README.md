@@ -36,7 +36,7 @@ If I have not change the PCUAE version number above to the same one availible to
 Any help you need with PCUAE, look on THEC64 Community Fourm: https://thec64community.online
 
 
-Look here for the Quick Startup Guide: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide
+Look here for the Quick Startup Guide: [https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide](https://projectcarouselusb.eu/new-how-to-section/)
 -----------
 You can download PCUAE Manager here to download PCUAE and its Modes: https://github.com/CommodoreOS/PCUAE-Update/releases/tag/pcuae-manager
 ------------
