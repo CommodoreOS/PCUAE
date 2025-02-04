@@ -1,4 +1,4 @@
-Updated - 18/101/2025
+Updated - 18/01/2025
 =====================
 PCUAE v5.2.0 RELEASED - Look on the right for Releases ---->
 ======================
