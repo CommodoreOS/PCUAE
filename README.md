@@ -1,6 +1,6 @@
-Updated - 18/01/2025
+Updated - 16/02/2025
 =====================
-PCUAE v5.2.0 RELEASED - Look on the right for Releases ---->
+PCUAE v5.2.2 RELEASED - Look on the right for Releases ---->
 ======================
 If you can not see the Releases then click here: https://github.com/CommodoreOS/PCUAE
 
