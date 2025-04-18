@@ -12,7 +12,7 @@ When you want PCUAE 4all Edition please go to the website: https://projectcarous
 
 ## In short PCUAE runs:
 
-All the Carousel variations on TheC64mini, TheC64, TheVic20 - you get to see all the other games as if you bought e.g. a PAL model from the UK when you would normally see the games on the NTSC model.
+All the Carousel variations on TheC64mini, TheC64, TheVic20 - you get to see all the other games as if you bought e.g. a PAL model from the UK when you would normally see the games on the NTSC model so you can change THEC64 Mini from a PAL model to a NTSC model or from a NTSC model to a PAL model.
 
 Additional Games Collections only on TheC64mini, TheC64, TheVic20 - Able to add games to the carousel so lots of carousels with up to 255 games each carousel - customisable by using the PCUAE Manager.
 
@@ -24,7 +24,7 @@ Additional tools like change the clock speed, reset the Nand etc.
 
 Make a TheVic20 boot up as a The400 and The400 into Thec64.
 
-Also runs these things on other models like THEA500 Mini, THE400 Mini, VAtaqri 2600/7800 Plus, Atari Gamestation Pro.
+Also runs these things(Modes) on other models like THEA500 Mini, THE400 Mini, Atari 2600/7800 Plus, Atari Gamestation Pro.
 
 Thanks to vic2020ian on THEC64 Commmuity Forum for the discription - https://thec64community.online/thread/1754/pcuae-etc
 
