@@ -12,11 +12,11 @@ When you want all in one please go to the website https://projectcarouselusb.eu/
 
 ## In short PCUAE runs:
 
-All the Carousel variations on TheC64, TheVic20, TheC64mini - you get to see all the other games as if you bought e.g. a PAL model from the UK when you would normally by NTSC
+All the Carousel variations on TheC64mini, TheC64, TheVic20 - you get to see all the other games as if you bought e.g. a PAL model from the UK when you would normally see the games on the NTSC model.
 
-Additional games collections - lots of Carousels with up to 255 games each - customisable
+Additional Games Collections only on TheC64mini, TheC64, TheVic20 - Able to add games to the carousel so lots of carousels with up to 255 games each carousel - customisable by using the PCUAE Manager.
 
-VICE mode - run the Vice emulator in full for PET, Vic20 C64, C128, C64 DTV etc.
+VICE mode - Run the Vice emulator in full for PET, Vic20 C64, C128, C16/Plus 4, C64 DTV etc...
 
 Other emulators e.g. Atari, SNES, PSX, ZX Spectrum Modes
 
@@ -24,14 +24,13 @@ Additional tools like change the clock speed, reset the Nand etc.
 
 Make a TheVic20 boot up as a The400 and The400 into Thec64.
 
-Also runs these things on other models like TheA500 Mini, The400, VCS+, Atari Gamestation.
+Also runs these things on other models like THEA500 Mini, THE400 Mini, VAtaqri 2600/7800 Plus, Atari Gamestation Pro.
 
 Thanks to vic2020ian on THEC64 Commmuity Forum for the discription - https://thec64community.online/thread/1754/pcuae-etc
 
+Edited it abit now... :)
+
 ## 
-
-If I have not change the PCUAE version number above to the same one availible to download then I just forgot to do it, it will change evenually... :)
-
 
 Any help you need with PCUAE, look on THEC64 Community Fourm: https://thec64community.online
 
