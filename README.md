@@ -1,11 +1,11 @@
 Updated - 16/02/2025
 =====================
-PCUAE v5.2.2 RELEASED - Look on the right for Releases ---->
+PCUAE v5.2.5 RELEASED - Look on the right for Releases ---->
 ======================
 If you can not see the Releases then click here: https://github.com/CommodoreOS/PCUAE
 
-PCUAE v5.2.2 also released on the PCUAE Website: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
-When you want all in one please go to the website https://projectcarouselusb.eu/pcuae-aio64-v5-0-0-downloads
+PCUAE Website: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
+When you want PCUAE 4all Edition please go to the website: https://projectcarouselusb.eu/downloads-2 
 ==================================================================================================================
 
 <img src="https://github.com/Wizart009/Setups/releases/download/v0.1.0-alpha/ezgif-18e1d8e6e620cb.gif" alt="tour" width="854" height="480" />
